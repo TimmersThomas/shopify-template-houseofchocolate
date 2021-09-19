@@ -1,0 +1,164 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16320600814adb4ea3": {
+      "type": "rich-text",
+      "blocks": {
+        "16320600814adb4ea3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Waarmee kunnen we jou helpen?",
+            "heading_size": "h1"
+          }
+        },
+        "16320600814adb4ea3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Indien je reeds met <a href=\"\/collections\" title=\"All collections\"><span style=\"text-decoration:underline\">onze producten<\/span><\/a> in aanraking kwam, weet je wat we dagdagelijks maken. Maar we helpen minstens even graag om jouw dromen in chocolade te verwezenlijken. Hieronder enkele voorbeelden van wat we zoal maakten op vraag van onze klanten.<\/p><p><strong>Heb jij ook een idee?<\/strong> Of wil je graag iets op maat maar weet je nog niet precies wat? Stuur ons <a href=\"mailto:info@houseofchocolate.be?subject=Maatwerk\"><span style=\"text-decoration:underline\">een mailtje via deze link<\/span><\/a> en we bespreken met plezier de mogelijkheden!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16320600814adb4ea3-0",
+        "16320600814adb4ea3-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "16326591891df95315": {
+      "type": "multicolumn",
+      "blocks": {
+        "16326591891df95315-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_6687-1.jpg",
+            "title": "Huis Pauwels",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16326591891df95315-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_6729-1.jpg",
+            "title": "Stanium",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16326591891df95315-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_6719-1.jpg",
+            "title": "GillisBos",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f7ee1f63-ed58-43c6-8d2f-911a12dfe7aa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_6694-1.jpg",
+            "title": "Camee",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "54fef4c4-28f4-4371-b503-c037052f21bd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_6721-1.jpg",
+            "title": "Euroster",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16326591891df95315-0",
+        "16326591891df95315-1",
+        "16326591891df95315-2",
+        "f7ee1f63-ed58-43c6-8d2f-911a12dfe7aa",
+        "54fef4c4-28f4-4371-b503-c037052f21bd"
+      ],
+      "settings": {
+        "title": "Logopralines op maat",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "16320698225b50ea28": {
+      "type": "multicolumn",
+      "blocks": {
+        "16320698225b50ea28-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/maatwerk_bedankdoosje.jpg",
+            "title": "",
+            "text": "<p>Een sympathieke dame wilde haar collega’s verrassen. Wij maakten deze bedankdoosjes om haar wens te volbrengen.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16320698225b50ea28-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/maatwerk_repen.jpg",
+            "title": "",
+            "text": "<p>Een bedrijf wilde graag z’n werknemers chocoladerepen cadeau doen. We gingen aan de slag met de kleuren uit het bedrijfslogo en kwamen op de proppen met deze unieke Ecuador repen.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16320698225b50ea28-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/maatwerk_sinterklaas.jpg",
+            "title": "",
+            "text": "<p>Volwassenen verdienen ook Sinterklaas, toch? Daarom creëerden wij deze pakketjes op maat voor een enthousiaste groep personeel.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16320698225b50ea28-0",
+        "16320698225b50ea28-1",
+        "16320698225b50ea28-2"
+      ],
+      "settings": {
+        "title": "Nog een aantal andere voorbeelden",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16320600814adb4ea3",
+    "16326591891df95315",
+    "16320698225b50ea28"
+  ]
+}

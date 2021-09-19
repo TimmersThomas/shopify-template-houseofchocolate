@@ -92,39 +92,39 @@
       "settings": {
         "social_twitter_link": {
           "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https://shopify.tumblr.com"
+          "info": "https:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "header": {
           "content": "Socialmedia-accounts"
@@ -423,7 +423,7 @@
               "label": "Afbeelding"
             },
             "image_padding": {
-              "label": "Gebruik originele breedte-/hoogteverhouding van afbeeldingen",
+              "label": "Gebruik originele breedte-\/hoogteverhouding van afbeeldingen",
               "info": "Selecteer als je niet wilt dat je afbeeldingen worden bijgesneden."
             }
           }
@@ -462,7 +462,7 @@
               "placeholder": "Gebruik een URL van YouTube of Vimeo"
             },
             "image_padding": {
-              "label": "Gebruik originele breedte-/hoogteverhouding van afbeeldingen",
+              "label": "Gebruik originele breedte-\/hoogteverhouding van afbeeldingen",
               "info": "Selecteer als je niet wilt dat je afbeeldingen worden bijgesneden."
             },
             "description": {
@@ -483,7 +483,7 @@
           "label": "Opschrift"
         },
         "image_ratio": {
-          "label": "Breedte-/hoogteverhouding van afbeeldingen",
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -601,7 +601,7 @@
           "content": "Productkaart"
         },
         "image_ratio": {
-          "label": "Breedte-/hoogteverhouding van afbeeldingen",
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -731,19 +731,19 @@
           "label": "Pictogrammen social media weergeven"
         },
         "header__3": {
-          "content": "Kiezer voor land/regio"
+          "content": "Kiezer voor land\/regio"
         },
         "header__4": {
-          "info": "Ga naar je [payment settings.](/admin/settings/payments) om een land/regio toe te voegen"
+          "info": "Ga naar je [payment settings.](\/admin\/settings\/payments) om een land\/regio toe te voegen"
         },
         "enable_country_selector": {
-          "label": "Kiezer voor land/regio inschakelen"
+          "label": "Kiezer voor land\/regio inschakelen"
         },
         "header__5": {
           "content": "Taalkiezer"
         },
         "header__6": {
-          "info": "Ga naar je [language settings.](/admin/settings/languages) om een taal toe te voegen"
+          "info": "Ga naar je [language settings.](\/admin\/settings\/languages) om een taal toe te voegen"
         },
         "enable_language_selector": {
           "label": "Taalkiezer inschakelen"
@@ -990,7 +990,10 @@
           "options__2": {
             "label": "Tweede afbeelding"
           },
-          "label": "Plaatsing van afbeelding op desktop",
+          "options__3": {
+            "label": "Enkel afbeelding"
+          },
+          "label": "Opmaak bureaublad",
           "info": "Afbeelding eerst is de standaard opmaak voor mobiel."
         },
         "desktop_image_width": {
@@ -1260,7 +1263,7 @@
           "label": "Producten per pagina"
         },
         "image_ratio": {
-          "label": "Breedte-/hoogteverhouding van afbeeldingen",
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -1279,11 +1282,11 @@
         },
         "enable_tags": {
           "label": "Filteren inschakelen",
-          "info": "[Filters aanpassen](/admin/menus)"
+          "info": "[Filters aanpassen](\/admin\/menus)"
         },
         "enable_filtering": {
           "label": "Filteren inschakelen",
-          "info": "[Filters aanpassen](/admin/menus)"
+          "info": "[Filters aanpassen](\/admin\/menus)"
         },
         "enable_sorting": {
           "label": "Sortering inschakelen"
@@ -1360,7 +1363,7 @@
           }
         },
         "image_ratio": {
-          "label": "Breedte-/hoogteverhouding van afbeeldingen",
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -1458,7 +1461,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dynamische checkoutknoppen weergeven",
-              "info": "Bij de betaalmethoden die bij je winkel beschikbaar zijn, zien klanten de optie die hun voorkeur heeft, zoals PayPal of Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Bij de betaalmethoden die bij je winkel beschikbaar zijn, zien klanten de optie die hun voorkeur heeft, zoals PayPal of Apple Pay. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -1471,6 +1474,10 @@
         "share": {
           "name": "Delen",
           "settings": {
+            "header": {
+              "content": "Delen",
+              "info": "Als je een link van je webwinkel op sociale media plaatst, wordt de uitgelichte afbeelding voor die pagina getoond. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images). Een titel en beschrijving instellen voor je onlinewinkel. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
+            },
             "featured_image_info": {
               "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)."
             },
@@ -1664,7 +1671,7 @@
       "settings": {
         "header": {
           "content": "Media",
-          "info": "Meer informatie over [mediatypen](https://help.shopify.com/manual/products/product-media)"
+          "info": "Meer informatie over [mediatypen](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Video-looping inschakelen"
@@ -1715,7 +1722,7 @@
       "name": "Zoekresultaten",
       "settings": {
         "image_ratio": {
-          "label": "Breedte-/hoogteverhouding van afbeeldingen",
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -1784,7 +1791,7 @@
           }
         },
         "image_ratio": {
-          "label": "Breedte-/hoogteverhouding van afbeeldingen",
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -1916,6 +1923,9 @@
     "product-recommendations": {
       "name": "Productaanbevelingen",
       "settings": {
+        "header": {
+          "info": "Dynamische aanbevelingen gebruiken bestellings- en productinformatie om in de loop van de tijd te veranderen en te verbeteren. [Meer informatie](https:\/\/help.shopify.com\/en\/themes\/development\/recommended-products)"
+        },
         "heading": {
           "label": "Opschrift"
         },
@@ -1923,7 +1933,7 @@
           "content": "Productkaart"
         },
         "image_ratio": {
-          "label": "Breedte-/hoogteverhouding van afbeeldingen",
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -2167,7 +2177,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dynamische checkout-knoppen weergeven",
-              "info": "Bij de betaalmethoden die bij je winkel beschikbaar zijn, zien klanten de optie die hun voorkeur heeft, zoals PayPal of Apple Pay. [Meer informatie](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Bij de betaalmethoden die bij je winkel beschikbaar zijn, zien klanten de optie die hun voorkeur heeft, zoals PayPal of Apple Pay. [Meer informatie](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -2214,7 +2224,7 @@
         },
         "header": {
           "content": "Media",
-          "info": "Meer informatie over [mediatypen](https://help.shopify.com/manual/products/product-media)"
+          "info": "Meer informatie over [mediatypen](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Video-looping inschakelen"
@@ -2558,7 +2568,7 @@
           "label": "Afbeelding"
         },
         "image_ratio": {
-          "label": "Breedte-/hoogteverhouding van afbeeldingen",
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },

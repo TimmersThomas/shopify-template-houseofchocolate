@@ -7,7 +7,7 @@
       "login_form_password_placeholder": "Je wachtwoord",
       "login_form_error": "Wachtwoord onjuist!",
       "login_form_submit": "Invoeren",
-      "admin_link_html": "Ben je de winkeleigenaar? <a href=\"/admin\" class=\"link underlined-link\">Log hier in</a>",
+      "admin_link_html": "Ben je de winkeleigenaar? <a href=\"\/admin\" class=\"link underlined-link\">Log hier in<\/a>",
       "powered_by_shopify_html": "Deze winkel wordt door {{ shopify }} aangedreven"
     },
     "social": {
@@ -127,10 +127,10 @@
       "xr_button_label": "Bekijk in je ruimte, laadt artikel in augmented reality-venster",
       "pickup_availability": {
         "view_store_info": "Winkelgegevens bekijken",
-        "check_other_stores": "Controleer de beschikbaarheid bij andere winkels",
+        "check_other_stores": "Controleer de beschikbaarheid bij andere afhaalpunten",
         "pick_up_available": "Afhaling is beschikbaar",
-        "pick_up_available_at_html": "Afhaling is beschikbaar bij <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Afhaling is momenteel niet beschikbaar bij <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_available_at_html": "Afhaling is beschikbaar bij <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Afhaling is momenteel niet beschikbaar bij <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "unavailable": "Kan beschikbaarheid voor afhalen niet laden",
         "refresh": "Vernieuwen"
       },
@@ -235,17 +235,17 @@
       "remove_title": "{{ title }} verwijderen",
       "subtotal": "Subtotaal",
       "new_subtotal": "Nieuw subtotaal",
-      "note": "Speciale instructies voor bestelling",
-      "checkout": "Afrekenen",
+      "note": "Speciale instructies voor jouw bestelling?",
+      "checkout": "Betalen",
       "empty": "Je winkelwagen is leeg",
       "cart_error": "Er is een fout opgetreden bij het bijwerken van je winkelwagen. Probeer het opnieuw.",
       "cart_quantity_error_html": "Je kunt maar {{ quantity }} van dit artikel toevoegen aan je winkelwagen.",
-      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ link }}\">verzendkosten</a> worden berekend bij de checkout",
-      "taxes_included_but_shipping_at_checkout": "Belasting inbegrepen en verzendkosten worden berekend bij de checkout",
-      "taxes_included_and_shipping_policy_html": "Inclusief btw. <a href=\"{{ link }}\">Verzendkosten</a> worden berekend bij de checkout.",
-      "taxes_and_shipping_at_checkout": "Belastingen en verzendkosten worden berekend bij de checkout",
+      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ link }}\">leveringskosten<\/a> worden berekend bij de checkout",
+      "taxes_included_but_shipping_at_checkout": "Belasting inbegrepen en leveringskosten worden berekend bij de checkout",
+      "taxes_included_and_shipping_policy_html": "Inclusief btw. <a href=\"{{ link }}\">Leveringskosten<\/a> worden berekend bij de checkout.",
+      "taxes_and_shipping_at_checkout": "Belastingen en leveringskosten worden berekend bij de checkout",
       "headings": {
-        "product": "Product",
+        "product": "Product(en)",
         "price": "Prijs",
         "total": "Totaal",
         "quantity": "Aantal",
@@ -254,7 +254,7 @@
       "update": "Bijwerken",
       "login": {
         "title": "Heb je een account?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in</a> om sneller af te rekenen."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in<\/a> om sneller af te rekenen."
       }
     },
     "footer": {
@@ -295,10 +295,10 @@
     }
   },
   "localization": {
-    "country_label": "Land/regio",
+    "country_label": "Land\/regio",
     "language_label": "Taal",
     "update_language": "Taal bijwerken",
-    "update_country": "Land/regio bijwerken"
+    "update_country": "Land\/regio bijwerken"
   },
   "customer": {
     "account": {
@@ -327,7 +327,7 @@
       "address1": "Adres 1",
       "address2": "Adres 2",
       "city": "Plaats",
-      "country": "Land/regio",
+      "country": "Land\/regio",
       "province": "Provincie",
       "zip": "Postcode",
       "phone": "Telefoonnummer",
@@ -393,7 +393,7 @@
       "shipping_address": "Bezorgadres",
       "fulfillment_status": "Fulfilmentstatus",
       "discount": "Korting",
-      "shipping": "Verzending",
+      "shipping": "Levering",
       "tax": "Belasting",
       "product": "Product",
       "sku": "SKU",
@@ -401,7 +401,7 @@
       "quantity": "Aantal",
       "total": "Totaal",
       "fulfilled_at_html": "Voldaan {{ date }}",
-      "track_shipment": "Volg verzending",
+      "track_shipment": "Volg levering",
       "tracking_url": "Volglink",
       "tracking_company": "Vervoerder",
       "tracking_number": "Trackingnummer",
@@ -422,6 +422,67 @@
       "expired": "Verlopen",
       "copy_code_success": "Code gekopieerd",
       "print_gift_card": "Afdrukken"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "shipping_errors": {
+        "shipping_method_not_available_generic": {
+          "one": "Het adres dat je hebt opgegeven, valt niet binnen onze leveringszone (wij doen de leveringen zelf). Kies voor ophaling of neem contact met ons op voor meer informatie.",
+          "other": "Het adres dat je hebt opgegeven, valt niet binnen onze leveringszone (wij doen de leveringen zelf). Kies voor ophaling of neem contact met ons op voor meer informatie."
+        },
+        "shipping_method_not_available": "Het adres dat je hebt opgegeven, valt niet binnen onze leveringszone (wij doen de leveringen zelf). Kies voor ophaling of neem contact met ons op voor meer informatie.",
+        "shipping_method_not_available_updated": {
+          "one": "Het adres dat je hebt opgegeven, valt niet binnen onze leveringszone (wij doen de leveringen zelf). Kies voor ophaling of neem contact met ons op voor meer informatie.",
+          "other": "Het adres dat je hebt opgegeven, valt niet binnen onze leveringszone (wij doen de leveringen zelf). Kies voor ophaling of neem contact met ons op voor meer informatie."
+        }
+      },
+      "general": {
+        "continue_to_shipping_method": "Ga naar betalen",
+        "back_to_shipping_method": "Terug naar leveren",
+        "choose_shipping_method": "Kies een leveringsmethode"
+      },
+      "contact": {
+        "optional_address2_label": "Appartementnr. etc. (optioneel)"
+      },
+      "delivery_options": {
+        "ship": "Leveren",
+        "pick_up_locations": "Afhaalpunten"
+      },
+      "order_summary": {
+        "free_shipping_discount_label": "Gratis levering",
+        "shipping_label": "Leveringskost",
+        "no_pickup_location": "Voor één of meerdere van de producten in je winkelmandje, is het gevraagde aantal momenteel niet beschikbaar op onze locaties. Neem contact met ons op via info@houseofchocolate.be om te bespreken hoe we je alsnog kunnen verder helpen.",
+        "shipping_policy_link": "Leveringskosten",
+        "gift_card_placeholder": "Cadeaubon of kortingscode"
+      },
+      "shipping": {
+        "title": "Levering",
+        "shipping_method_title": "Leveringswijze",
+        "no_rates_for_cart_or_destination_notice": "Levering is niet mogelijk voor je winkelwagen of adres.",
+        "local_delivery": "Levering",
+        "no_rates_for_country_notice": "Geen leveringstarief gevonden voor dit adres, omdat dit buiten onze leveringszone valt.",
+        "shipping_line_delivery_phone": "We gebruiken dit nummer enkel om je te bellen of je een bericht te sturen over je bezorging."
+      },
+      "tips": {
+        "description": "Ik geef jullie graag een extra duwtje in de rug 💰",
+        "message": "Bedankt om mee te bouwen aan ons verhaal!"
+      },
+      "thank_you": {
+        "shipping_information_title": "Leveringsgegevens",
+        "shipping_method_title": "Leveringsmethode",
+        "unfulfilled_items_title": "Levering wordt voorbereid",
+        "return_to_store_link_label": "Terugkeren naar winkel",
+        "pick_up_in_store_marker": {
+          "shipping": "Afhaalpunt"
+        }
+      },
+      "review": {
+        "blocks": {
+          "shipping_address_title": "Leveren naar",
+          "change_shipping_method_link_label": "Leveringsmethode wijzigen"
+        }
+      }
     }
   }
 }

@@ -92,39 +92,39 @@
       "settings": {
         "social_twitter_link": {
           "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https://shopify.tumblr.com"
+          "info": "https:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "Youtube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "header": {
           "content": "Konta społecznościowe"
@@ -731,19 +731,19 @@
           "label": "Pokaż ikony mediów społecznościowych"
         },
         "header__3": {
-          "content": "Selektor kraju/regionu"
+          "content": "Selektor kraju\/regionu"
         },
         "header__4": {
-          "info": "Aby dodać kraj/region, przejdź do swoich [ustawień płatności.](/admin/settings/payments)"
+          "info": "Aby dodać kraj\/region, przejdź do swoich [ustawień płatności.](\/admin\/settings\/payments)"
         },
         "enable_country_selector": {
-          "label": "Włącz selektor kraju/regionu"
+          "label": "Włącz selektor kraju\/regionu"
         },
         "header__5": {
           "content": "Selektor języka"
         },
         "header__6": {
-          "info": "Aby dodać język, przejdź do swoich [ustawień języka.](/admin/settings/languages)"
+          "info": "Aby dodać język, przejdź do swoich [ustawień języka.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Włącz selektor języka"
@@ -1279,11 +1279,11 @@
         },
         "enable_tags": {
           "label": "Włącz filtrowanie",
-          "info": "[Dostosuj filtry](/admin/menus)"
+          "info": "[Dostosuj filtry](\/admin\/menus)"
         },
         "enable_filtering": {
           "label": "Włącz filtrowanie",
-          "info": "Dostosuj [filtry](/admin/menus)"
+          "info": "Dostosuj [filtry](\/admin\/menus)"
         },
         "enable_sorting": {
           "label": "Włącz sortowanie"
@@ -1458,7 +1458,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Pokaż dynamiczne przyciski realizacji zakupu",
-              "info": "Korzystając z metod płatności dostępnych w Twoim sklepie, klienci widzą swoją preferowaną opcję, np. PayPal lub Apple Pay. [Dowiedz się więcej](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Korzystając z metod płatności dostępnych w Twoim sklepie, klienci widzą swoją preferowaną opcję, np. PayPal lub Apple Pay. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -1664,7 +1664,7 @@
       "settings": {
         "header": {
           "content": "Multimedia",
-          "info": "Dowiedz się więcej o [typach multimediów.](https://help.shopify.com/manual/products/product-media)"
+          "info": "Dowiedz się więcej o [typach multimediów.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Włącz zapętlanie wideo"
@@ -2167,7 +2167,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Pokaż dynamiczne przyciski realizacji zakupu",
-              "info": "Korzystając z metod płatności dostępnych w Twoim sklepie, klienci widzą swoją preferowaną opcję, np. PayPal lub Apple Pay. [Dowiedz się więcej](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Korzystając z metod płatności dostępnych w Twoim sklepie, klienci widzą swoją preferowaną opcję, np. PayPal lub Apple Pay. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -2214,7 +2214,7 @@
         },
         "header": {
           "content": "Multimedia",
-          "info": "Dowiedz się więcej o [typach multimediów](https://help.shopify.com/manual/products/product-media)"
+          "info": "Dowiedz się więcej o [typach multimediów](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Włącz zapętlanie wideo"

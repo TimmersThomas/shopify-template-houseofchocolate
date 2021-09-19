@@ -92,39 +92,39 @@
       "settings": {
         "social_twitter_link": {
           "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "https://instagram.com/shopify"
+          "info": "https:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "http://shopify.tumblr.com"
+          "info": "http:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "header": {
           "content": "Sosiaalisen median tilit"
@@ -731,19 +731,19 @@
           "label": "Näytä some-kuvakkeet"
         },
         "header__3": {
-          "content": "Maa-/aluevalitsin"
+          "content": "Maa-\/aluevalitsin"
         },
         "header__4": {
-          "info": "Lisää maa/alue siirtymällä [maksuasetuksiisi.](/admin/settings/payments)"
+          "info": "Lisää maa\/alue siirtymällä [maksuasetuksiisi.](\/admin\/settings\/payments)"
         },
         "enable_country_selector": {
-          "label": "Näytä maa-/aluevalitsin"
+          "label": "Näytä maa-\/aluevalitsin"
         },
         "header__5": {
           "content": "Kielivalitsin"
         },
         "header__6": {
-          "info": "Lisää kieli siirtymällä [kieliasetuksiisi.](/admin/settings/languages)"
+          "info": "Lisää kieli siirtymällä [kieliasetuksiisi.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Ota kielivalitsin käyttöön"
@@ -1279,11 +1279,11 @@
         },
         "enable_tags": {
           "label": "Ota suodatus käyttöön",
-          "info": "[Mukauta suodattimia](/admin/menus)"
+          "info": "[Mukauta suodattimia](\/admin\/menus)"
         },
         "enable_filtering": {
           "label": "Ota suodatus käyttöön",
-          "info": "Mukauta [suodattimia](/admin/menus)"
+          "info": "Mukauta [suodattimia](\/admin\/menus)"
         },
         "enable_sorting": {
           "label": "Ota lajittelu käyttöön"
@@ -1457,7 +1457,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Näytä dynaamiset kassapainikkeet",
-              "info": "Kun käytät kaupallesi saatavilla olevia maksutapoja, asiakkaat näkevät ensisijaisen vaihtoehtonsa, kuten PayPalin tai Apple Payn. [Lisätietoja](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Kun käytät kaupallesi saatavilla olevia maksutapoja, asiakkaat näkevät ensisijaisen vaihtoehtonsa, kuten PayPalin tai Apple Payn. [Lisätietoja](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -1663,7 +1663,7 @@
       "settings": {
         "header": {
           "content": "Media",
-          "info": "Lisätietoja [mediatyypeistä.](https://help.shopify.com/manual/products/product-media)"
+          "info": "Lisätietoja [mediatyypeistä.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Ota videosilmukka käyttöön"
@@ -2167,7 +2167,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Näytä dynaamiset kassapainikkeet",
-              "info": "Kun käytät kaupallesi saatavilla olevia maksutapoja, asiakkaat näkevät ensisijaisen vaihtoehtonsa, kuten PayPalin tai Apple Payn. [Lisätietoja](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Kun käytät kaupallesi saatavilla olevia maksutapoja, asiakkaat näkevät ensisijaisen vaihtoehtonsa, kuten PayPalin tai Apple Payn. [Lisätietoja](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -2214,7 +2214,7 @@
         },
         "header": {
           "content": "Media",
-          "info": "Lisätietoja [mediatyypeistä](https://help.shopify.com/manual/products/product-media)"
+          "info": "Lisätietoja [mediatyypeistä](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Ota videosilmukka käyttöön"

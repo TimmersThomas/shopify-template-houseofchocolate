@@ -92,39 +92,39 @@
       "settings": {
         "social_twitter_link": {
           "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https://shopify.tumblr.com"
+          "info": "https:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "header": {
           "content": "SoMe-konti"
@@ -731,19 +731,19 @@
           "label": "Vis ikoner for sociale medier"
         },
         "header__3": {
-          "content": "Land/område-vælger"
+          "content": "Land\/område-vælger"
         },
         "header__4": {
-          "info": "Hvis du vil tilføje et land/område, skal du gå til dine [betalingsindstillinger](/admin/settings/payments)"
+          "info": "Hvis du vil tilføje et land\/område, skal du gå til dine [betalingsindstillinger](\/admin\/settings\/payments)"
         },
         "enable_country_selector": {
-          "label": "Aktivér land/område-vælger"
+          "label": "Aktivér land\/område-vælger"
         },
         "header__5": {
           "content": "Sprogvælger"
         },
         "header__6": {
-          "info": "Hvis du vil tilføje et sprog, skal du gå til dine [sprogindstillinger](/admin/settings/languages)"
+          "info": "Hvis du vil tilføje et sprog, skal du gå til dine [sprogindstillinger](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Aktivér sprogvælger"
@@ -1279,11 +1279,11 @@
         },
         "enable_tags": {
           "label": "Aktivér filtrering",
-          "info": "[Tilpas filtre](/admin/menus)"
+          "info": "[Tilpas filtre](\/admin\/menus)"
         },
         "enable_filtering": {
           "label": "Aktivér filtrering",
-          "info": "Tilpas [filtre](/admin/menus)"
+          "info": "Tilpas [filtre](\/admin\/menus)"
         },
         "enable_sorting": {
           "label": "Aktivér sortering"
@@ -1458,7 +1458,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Vis dynamiske betalingsknapper",
-              "info": "Via de tilgængelige betalingsmetoder i din butik ser kunderne deres foretrukne mulighed, som f.eks. PayPal eller Apple Pay. [Få mere at vide](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Via de tilgængelige betalingsmetoder i din butik ser kunderne deres foretrukne mulighed, som f.eks. PayPal eller Apple Pay. [Få mere at vide](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -1664,7 +1664,7 @@
       "settings": {
         "header": {
           "content": "Medie",
-          "info": "Få mere at vide om [medietyper.](https://help.shopify.com/manual/products/product-media)"
+          "info": "Få mere at vide om [medietyper.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Aktivér looping af videoer"
@@ -2167,7 +2167,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Vis dynamiske betalingsknapper",
-              "info": "Via de tilgængelige betalingsmetoder i din butik ser kunderne deres foretrukne mulighed, som f.eks. PayPal eller Apple Pay. [Få mere at vide](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Via de tilgængelige betalingsmetoder i din butik ser kunderne deres foretrukne mulighed, som f.eks. PayPal eller Apple Pay. [Få mere at vide](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -2214,7 +2214,7 @@
         },
         "header": {
           "content": "Medie",
-          "info": "Få mere at vide om [medietyper](https://help.shopify.com/manual/products/product-media)"
+          "info": "Få mere at vide om [medietyper](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Aktivér looping af videoer"

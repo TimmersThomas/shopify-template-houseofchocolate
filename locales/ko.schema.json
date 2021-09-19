@@ -92,39 +92,39 @@
       "settings": {
         "social_twitter_link": {
           "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "http://shopify.tumblr.com"
+          "info": "http:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "header": {
           "content": "소셜 계정"
@@ -731,19 +731,19 @@
           "label": "소셜 미디어 아이콘 표시"
         },
         "header__3": {
-          "content": "국가/지역 선택기"
+          "content": "국가\/지역 선택기"
         },
         "header__4": {
-          "info": "국가/지역을 추가하려면 [결제 설정](/admin/settings/payments)으로 이동하십시오."
+          "info": "국가\/지역을 추가하려면 [결제 설정](\/admin\/settings\/payments)으로 이동하십시오."
         },
         "enable_country_selector": {
-          "label": "국가/지역 선택기 사용"
+          "label": "국가\/지역 선택기 사용"
         },
         "header__5": {
           "content": "언어 선택기"
         },
         "header__6": {
-          "info": "언어를 추가하려면 [언어 설정](/admin/settings/languages)으로 이동하십시오."
+          "info": "언어를 추가하려면 [언어 설정](\/admin\/settings\/languages)으로 이동하십시오."
         },
         "enable_language_selector": {
           "label": "언어 선택기 사용"
@@ -1282,11 +1282,11 @@
         },
         "enable_tags": {
           "label": "필터 사용",
-          "info": "[필터 사용자 지정](/admin/menus)"
+          "info": "[필터 사용자 지정](\/admin\/menus)"
         },
         "enable_filtering": {
           "label": "필터 사용",
-          "info": "[필터](/admin/menus) 사용자 지정"
+          "info": "[필터](\/admin\/menus) 사용자 지정"
         },
         "enable_sorting": {
           "label": "정렬 사용"
@@ -1448,7 +1448,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "동적 결제 버튼 표시",
-              "info": "스토어에서 사용 가능한 결제 방법을 사용하면 고객이 PayPal 또는 ApplePay처럼 원하는 옵션을 볼 수 있습니다. [자세히 알아보기](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "스토어에서 사용 가능한 결제 방법을 사용하면 고객이 PayPal 또는 ApplePay처럼 원하는 옵션을 볼 수 있습니다. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           },
           "name": "구매 버튼"
@@ -1664,7 +1664,7 @@
       "settings": {
         "header": {
           "content": "미디어",
-          "info": "[미디어 유형](https://help.shopify.com/manual/products/product-media)에 대해 자세히 알아보기"
+          "info": "[미디어 유형](https:\/\/help.shopify.com\/manual\/products\/product-media)에 대해 자세히 알아보기"
         },
         "enable_video_looping": {
           "label": "동영상 루프 활성화"
@@ -1774,10 +1774,10 @@
         "image_width": {
           "label": "이미지 폭",
           "options__1": {
-            "label": "열의 1/3 폭"
+            "label": "열의 1\/3 폭"
           },
           "options__2": {
-            "label": "열의 1/2 폭"
+            "label": "열의 1\/2 폭"
           },
           "options__3": {
             "label": "열의 전체 폭"
@@ -2167,7 +2167,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "동적 결제 버튼 표시",
-              "info": "스토어에서 사용 가능한 결제 방법을 사용하면 고객이 PayPal 또는 Apple Pay처럼 원하는 옵션을 볼 수 있습니다. [자세히 알아보기](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "스토어에서 사용 가능한 결제 방법을 사용하면 고객이 PayPal 또는 Apple Pay처럼 원하는 옵션을 볼 수 있습니다. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -2214,7 +2214,7 @@
         },
         "header": {
           "content": "미디어",
-          "info": "[미디어 유형](https://help.shopify.com/manual/products/product-media)에 대해 자세히 알아보기"
+          "info": "[미디어 유형](https:\/\/help.shopify.com\/manual\/products\/product-media)에 대해 자세히 알아보기"
         },
         "enable_video_looping": {
           "label": "동영상 루프 활성화"

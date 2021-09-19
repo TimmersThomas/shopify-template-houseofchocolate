@@ -92,39 +92,39 @@
       "settings": {
         "social_twitter_link": {
           "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https://shopify.tumblr.com"
+          "info": "https:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "header": {
           "content": "ソーシャルアカウント"
@@ -731,19 +731,19 @@
           "label": "SNSのアイコンを表示する"
         },
         "header__3": {
-          "content": "国/地域セレクター"
+          "content": "国\/地域セレクター"
         },
         "header__4": {
-          "info": "国/地域を追加するには、[決済設定](/admin/settings/payments) に移動します"
+          "info": "国\/地域を追加するには、[決済設定](\/admin\/settings\/payments) に移動します"
         },
         "enable_country_selector": {
-          "label": "国/地域セレクターを有効にする"
+          "label": "国\/地域セレクターを有効にする"
         },
         "header__5": {
           "content": "言語セレクター"
         },
         "header__6": {
-          "info": "言語を追加するには、[言語設定](/admin/settings/languages) に移動します"
+          "info": "言語を追加するには、[言語設定](\/admin\/settings\/languages) に移動します"
         },
         "enable_language_selector": {
           "label": "言語セレクターを有効にする"
@@ -1282,11 +1282,11 @@
         },
         "enable_tags": {
           "label": "絞り込みを有効にする",
-          "info": "[絞り込みをカスタマイズする](/admin/menus)"
+          "info": "[絞り込みをカスタマイズする](\/admin\/menus)"
         },
         "enable_filtering": {
           "label": "絞り込みを有効にする",
-          "info": "[絞り込み](/admin/menus) をカスタマイズする"
+          "info": "[絞り込み](\/admin\/menus) をカスタマイズする"
         },
         "enable_sorting": {
           "label": "並べ替えを有効にする"
@@ -1448,7 +1448,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "動的チェックアウトボタンを表示する",
-              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[もっと詳しく](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[もっと詳しく](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           },
           "name": "購入ボタン"
@@ -1664,7 +1664,7 @@
       "settings": {
         "header": {
           "content": "メディア",
-          "info": "[メディアタイプ](https://help.shopify.com/manual/products/product-media) について詳しくはこちら。"
+          "info": "[メディアタイプ](https:\/\/help.shopify.com\/manual\/products\/product-media) について詳しくはこちら。"
         },
         "enable_video_looping": {
           "label": "ビデオループを有効にする"
@@ -1774,7 +1774,7 @@
         "image_width": {
           "label": "画像の幅",
           "options__1": {
-            "label": "列の幅の1/3"
+            "label": "列の幅の1\/3"
           },
           "options__2": {
             "label": "列の半分の幅"
@@ -2167,7 +2167,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "動的チェックアウトボタンを表示",
-              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[詳しくはこちら](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -2214,7 +2214,7 @@
         },
         "header": {
           "content": "メディア",
-          "info": "[メディアタイプ](https://help.shopify.com/manual/products/product-media) について詳しくはこちら"
+          "info": "[メディアタイプ](https:\/\/help.shopify.com\/manual\/products\/product-media) について詳しくはこちら"
         },
         "enable_video_looping": {
           "label": "ビデオループを有効にする"

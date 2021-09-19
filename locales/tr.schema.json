@@ -92,39 +92,39 @@
       "settings": {
         "social_twitter_link": {
           "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https://shopify.tumblr.com"
+          "info": "https:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "header": {
           "content": "Sosyal medya hesapları"
@@ -731,19 +731,19 @@
           "label": "Sosyal medya simgelerini göster"
         },
         "header__3": {
-          "content": "Ülke/bölge seçici"
+          "content": "Ülke\/bölge seçici"
         },
         "header__4": {
-          "info": "Ülke/bölge eklemek için [ödeme ayarlarınıza ](/admin/settings/payments) gidin."
+          "info": "Ülke\/bölge eklemek için [ödeme ayarlarınıza ](\/admin\/settings\/payments) gidin."
         },
         "enable_country_selector": {
-          "label": "Ülke/bölge seçiciyi etkinleştir"
+          "label": "Ülke\/bölge seçiciyi etkinleştir"
         },
         "header__5": {
           "content": "Dil seçici"
         },
         "header__6": {
-          "info": "Dil eklemek için [dil ayarlarınıza](/admin/settings/languages) gidin."
+          "info": "Dil eklemek için [dil ayarlarınıza](\/admin\/settings\/languages) gidin."
         },
         "enable_language_selector": {
           "label": "Dil seçiciyi etkinleştir"
@@ -1261,7 +1261,7 @@
         },
         "enable_filtering": {
           "label": "Filtrelemeyi etkinleştir",
-          "info": "Özelleştir [filtreler](/admin/menus)"
+          "info": "Özelleştir [filtreler](\/admin\/menus)"
         },
         "enable_sorting": {
           "label": "Sıralamayı etkinleştir"
@@ -1292,7 +1292,7 @@
         },
         "enable_tags": {
           "label": "Filtrelemeyi etkinleştir",
-          "info": "[Filtreleri özelleştirin](/admin/menus)"
+          "info": "[Filtreleri özelleştirin](\/admin\/menus)"
         },
         "show_rating": {
           "label": "Ürün puanlarını göster",
@@ -1457,7 +1457,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dinamik ödeme düğmelerini göster",
-              "info": "Müşteriler, mağazanızda bulunan ödeme yöntemlerini kullanarak PayPal veya Apple Pay gibi tercih ettikleri seçeneği görür. [Daha fazla bilgi edinin](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Müşteriler, mağazanızda bulunan ödeme yöntemlerini kullanarak PayPal veya Apple Pay gibi tercih ettikleri seçeneği görür. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -1663,7 +1663,7 @@
       "settings": {
         "header": {
           "content": "Medya",
-          "info": "Şunun hakkında daha fazla bilgi edinin: [medya türleri.](https://help.shopify.com/manual/products/product-media)"
+          "info": "Şunun hakkında daha fazla bilgi edinin: [medya türleri.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Video döngüsünü etkinleştir"
@@ -2167,7 +2167,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dinamik ödeme düğmelerini göster",
-              "info": "Müşteriler, mağazanızda bulunan ödeme yöntemlerini kullanarak PayPal veya Apple Pay gibi tercih ettikleri seçeneği görür. [Daha fazla bilgi edinin](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Müşteriler, mağazanızda bulunan ödeme yöntemlerini kullanarak PayPal veya Apple Pay gibi tercih ettikleri seçeneği görür. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -2214,7 +2214,7 @@
         },
         "header": {
           "content": "Medya",
-          "info": "Şunun hakkında daha fazla bilgi edinin: [medya türleri](https://help.shopify.com/manual/products/product-media)"
+          "info": "Şunun hakkında daha fazla bilgi edinin: [medya türleri](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Video döngüsünü etkinleştir"

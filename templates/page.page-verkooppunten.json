@@ -1,0 +1,254 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16320600814adb4ea3": {
+      "type": "rich-text",
+      "blocks": {
+        "16320600814adb4ea3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hier koop je onze chocolade",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16320600814adb4ea3-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16320765702f909df3": {
+      "type": "multicolumn",
+      "blocks": {
+        "16320765702f909df3-0": {
+          "type": "column",
+          "settings": {
+            "title": "Online",
+            "text": "<p>Via <a href=\"\/collections\" title=\"Alle collecties\">onze eigen shop<\/a> kan je alle House of chocolate producten bestellen. Afhalen kan bij Loïc en Quinten maar we leveren ook thuis.<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16320765702f909df3-1": {
+          "type": "column",
+          "settings": {
+            "title": "Ons atelier",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/AEn9HoM4WQRJJCqb7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/AEn9HoM4WQRJJCqb7\">Sint-Gillisstraat 31<\/a><br\/>9170 De Klinge<br\/><br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16320765702f909df3-2": {
+          "type": "column",
+          "settings": {
+            "title": "Afhaalpunt Quinten",
+            "text": "<p>Louis Huybrechtsstraat 31<br\/>2150 Borsbeek<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16320765702f909df3-0",
+        "16320765702f909df3-1",
+        "16320765702f909df3-2"
+      ],
+      "settings": {
+        "title": "Onze webshop",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16320766043362771c": {
+      "type": "multicolumn",
+      "blocks": {
+        "16320766043362771c-0": {
+          "type": "column",
+          "settings": {
+            "title": "De Zoetie",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/sKwCVyqb3eF6JQFRA\" target=\"_blank\" title=\"De Zoetie\">Krijgsbaan 153<\/a><br\/>9140 Temse<br\/><em>Volledig assortiment<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16320766043362771c-1": {
+          "type": "column",
+          "settings": {
+            "title": "Groenten en fruit De Vershoeve",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/dMshA7WjY1SfTtxL7\" target=\"_blank\" title=\"Groenten en fruit De Vershoeve\">Loeverstraat 17B<\/a><br\/>9170 Sint-Gillis-Waas<br\/><em>Enkel pralines<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16320766043362771c-2": {
+          "type": "column",
+          "settings": {
+            "title": "Taeymans Coffee",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/jJEH1q8FevGNwbkm9\" target=\"_blank\" title=\"Taeymans Coffee\">Meerseweg 80B<\/a><br\/>2322 Minderhout<br\/><em>Volledig assortiment<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16320766043362771c-0",
+        "16320766043362771c-1",
+        "16320766043362771c-2"
+      ],
+      "settings": {
+        "title": "België",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1646163349aa603e31": {
+      "type": "multicolumn",
+      "blocks": {
+        "1646163349705f6bac-0": {
+          "type": "column",
+          "settings": {
+            "title": "Brood en Banket De Wit",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\">Alfons Heulensstraat 5<\/a><br\/>2900 Schoten<br\/><em>Pralines, chocobombs<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1646163349705f6bac-1": {
+          "type": "column",
+          "settings": {
+            "title": "Bakkerij De Schutter",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\">Kerkplaats 20<\/a><br\/>2160 Wommelgem<br\/><em>Enkel pralines<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1646163349705f6bac-2": {
+          "type": "column",
+          "settings": {
+            "title": "Hotel O Antwerpen Kathedral",
+            "text": "<p><a href=\"https:\/\/g.page\/hotelokathedral?share\" target=\"_blank\" title=\"https:\/\/g.page\/hotelokathedral?share\">Handschoenmarkt 3\/5<\/a><br\/>2000 Antwerpen<br\/><em>Volledig assortiment (behalve chocobombs)<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1646163349705f6bac-0",
+        "1646163349705f6bac-1",
+        "1646163349705f6bac-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 36
+      }
+    },
+    "16320767144b0c2feb": {
+      "type": "multicolumn",
+      "blocks": {
+        "16320767144b0c2feb-0": {
+          "type": "column",
+          "settings": {
+            "title": "Van Meijel, De Echte Bakker",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/cZoBH2JVnPj6Pu399\" target=\"_blank\" title=\"Van Meijel, De Echte Bakker\">Gravenstraat 211<\/a><br\/>4567 AE Clinge<br\/><em>Volledig assortiment<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16320767144b0c2feb-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3349275b-e41c-4e6c-9ac1-d5cdd20a94f0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16320767144b0c2feb-0",
+        "16320767144b0c2feb-2",
+        "3349275b-e41c-4e6c-9ac1-d5cdd20a94f0"
+      ],
+      "settings": {
+        "title": "Nederland",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16320600814adb4ea3",
+    "16320765702f909df3",
+    "16320766043362771c",
+    "1646163349aa603e31",
+    "16320767144b0c2feb"
+  ]
+}

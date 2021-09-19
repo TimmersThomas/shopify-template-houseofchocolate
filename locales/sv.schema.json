@@ -92,39 +92,39 @@
       "settings": {
         "social_twitter_link": {
           "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "https://instagram.com/shopify"
+          "info": "https:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "http://shopify.tumblr.com"
+          "info": "http:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://www.youtube.com/user/shopify"
+          "info": "https:\/\/www.youtube.com\/user\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "header": {
           "content": "Sociala konton"
@@ -731,19 +731,19 @@
           "label": "Visa sociala medier-ikoner"
         },
         "header__3": {
-          "content": "Land/region-väljare"
+          "content": "Land\/region-väljare"
         },
         "header__4": {
-          "info": "Om du vill lägga till land/region går du till dina [betalningsinställningar.](/admin/settings/payments)"
+          "info": "Om du vill lägga till land\/region går du till dina [betalningsinställningar.](\/admin\/settings\/payments)"
         },
         "enable_country_selector": {
-          "label": "Aktivera land/region-väljare"
+          "label": "Aktivera land\/region-väljare"
         },
         "header__5": {
           "content": "Språkväljare"
         },
         "header__6": {
-          "info": "Om du vill lägga till ett språk går du till dina [språkinställningar.](/admin/settings/languages)"
+          "info": "Om du vill lägga till ett språk går du till dina [språkinställningar.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Aktivera språkväljare"
@@ -1282,11 +1282,11 @@
         },
         "enable_tags": {
           "label": "Aktivera filtrering",
-          "info": "[Kundfilter](/admin/menus)"
+          "info": "[Kundfilter](\/admin\/menus)"
         },
         "enable_filtering": {
           "label": "Aktivera filtrering",
-          "info": "Anpassa [filter](/admin/menus)"
+          "info": "Anpassa [filter](\/admin\/menus)"
         },
         "enable_sorting": {
           "label": "Aktivera sortering"
@@ -1448,7 +1448,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Visa dynamiska utcheckningsknappar",
-              "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           },
           "name": "Köpknappar"
@@ -1664,7 +1664,7 @@
       "settings": {
         "header": {
           "content": "Media",
-          "info": "Mer information om [mediatyper.](https://help.shopify.com/manual/products/product-media)"
+          "info": "Mer information om [mediatyper.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Aktivera video-loopning"
@@ -2167,7 +2167,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Visa dynamiska kassaknappar",
-              "info": "Genom att använda de betalningsmetoder som finns tillgängliga i din butik kan kunder se det alternativ de föredrar, som PayPal eller Apple Pay. [Mer information](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Genom att använda de betalningsmetoder som finns tillgängliga i din butik kan kunder se det alternativ de föredrar, som PayPal eller Apple Pay. [Mer information](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
@@ -2214,7 +2214,7 @@
         },
         "header": {
           "content": "Media",
-          "info": "Läs mer om [mediatyper](https://help.shopify.com/manual/products/product-media)"
+          "info": "Läs mer om [mediatyper](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_looping": {
           "label": "Aktivera videoslingor"

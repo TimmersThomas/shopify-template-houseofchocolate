@@ -4,6 +4,8 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16320600814adb4ea3": {
@@ -87,12 +89,22 @@
             "link": ""
           }
         },
+        "f42f2152-d172-4c2c-89e8-3e32af70f2d8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_8438-1.jpg",
+            "title": "",
+            "text": "<p>pure chocolade • mango • saffraan • lavendel<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "90e1f299-3339-4ad7-a5f4-968b398e5abf": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0037-1.jpg",
             "title": "",
-            "text": "<p><strong>seizoenspraline<\/strong><br\/>melkchocolade • huisgemaakte koffie praliné <strong>OF<\/strong> zwarte sesam praliné • wasabi<\/p>",
+            "text": "<p><strong>seizoenspraline<\/strong><br\/>melkchocolade • zwarte sesam praliné • wasabi <strong>OF<\/strong> krokante karamelpraliné<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -194,6 +206,7 @@
         "1632068860fc8a39eb-2",
         "a6ac3c09-f8f5-49f2-a5dc-1ca8899c20fc",
         "d77fd928-cdf6-444e-bd7c-600ec2a0049a",
+        "f42f2152-d172-4c2c-89e8-3e32af70f2d8",
         "90e1f299-3339-4ad7-a5f4-968b398e5abf",
         "c5b14593-c64e-4692-9e5f-ad18375a329b",
         "593f4938-0088-4080-bdc0-70bf65e1706f",
@@ -207,14 +220,17 @@
       ],
       "settings": {
         "title": "",
+        "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "adapt",
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "Wil je onze pralines kopen?",
         "button_link": "shopify:\/\/collections\/pralines",
-        "swipe_on_mobile": false,
         "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }

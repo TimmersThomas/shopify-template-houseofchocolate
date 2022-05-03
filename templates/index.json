@@ -3,7 +3,7 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Assortimentsplankje_012022.jpg",
+        "image": "shopify:\/\/shop_images\/plankje_062022.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -284,7 +284,6 @@
         "d01de621-706e-4934-a4c3-fdfb10840233": {
           "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_font": "montserrat_n4",
             "heading_size": 20,
             "feed_width": 100,
             "html_area": ""

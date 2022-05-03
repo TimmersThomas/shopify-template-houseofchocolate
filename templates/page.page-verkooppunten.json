@@ -188,6 +188,59 @@
         "padding_bottom": 36
       }
     },
+    "16516884398b36c69f": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651688439693b04fe-0": {
+          "type": "column",
+          "settings": {
+            "title": "De Smaakmakers",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/Ytd8K9QpMA7DpyPz7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/Ytd8K9QpMA7DpyPz7\">Grote Baan 62<\/a><br\/>9120 Beveren<br\/><em>Repen, luxe pralinedozen en specials<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1651688439693b04fe-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1651688439693b04fe-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651688439693b04fe-0",
+        "1651688439693b04fe-1",
+        "1651688439693b04fe-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 36
+      }
+    },
     "16320767144b0c2feb": {
       "type": "multicolumn",
       "blocks": {
@@ -202,10 +255,9 @@
         },
         "16320767144b0c2feb-2": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -249,6 +301,7 @@
     "16320765702f909df3",
     "16320766043362771c",
     "1646163349aa603e31",
+    "16516884398b36c69f",
     "16320767144b0c2feb"
   ]
 }

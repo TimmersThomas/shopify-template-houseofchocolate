@@ -22,7 +22,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "House of chocolate",
+            "heading": "<p>House of chocolate<\/p>",
             "heading_size": "h1"
           }
         },
@@ -38,6 +38,8 @@
         "text"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -154,7 +156,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/praline_vodka_marsepein.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8519-1.jpg",
             "title": "",
             "text": "<p>pure chocolade • aardbei • munt • vodka (The Holy Spiritus) • marsepein<\/p>",
             "link_label": "",
@@ -164,7 +166,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0030-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8492-1.jpg",
             "title": "",
             "text": "<p>melkchocolade • hazelnoot (op basis van Nutella)<\/p>",
             "link_label": "",
@@ -174,7 +176,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/praline_melk_kalamansi.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8486-1.jpg",
             "title": "",
             "text": "<p>melkchocolade • kalamansi • vanille<\/p>",
             "link_label": "",
@@ -246,7 +248,7 @@
         "16320415760bd04978-0": {
           "type": "heading",
           "settings": {
-            "heading": "Instagram & Facebook",
+            "heading": "<p>Instagram & Facebook<\/p>",
             "heading_size": "h1"
           }
         },
@@ -262,7 +264,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -272,6 +277,8 @@
         "16320415760bd04978-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,

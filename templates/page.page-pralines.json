@@ -14,7 +14,7 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pralines",
+            "heading": "<p>Pralines<\/p>",
             "heading_size": "h1"
           }
         },
@@ -30,6 +30,8 @@
         "16320600814adb4ea3-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -42,7 +44,7 @@
         "1632068860fc8a39eb-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0045-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8519-1.jpg",
             "title": "",
             "text": "<p>pure chocolade • aardbei • munt • vodka (The Holy Spiritus) • marsepein<\/p>",
             "link_label": "",
@@ -52,7 +54,7 @@
         "1632068860fc8a39eb-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0070-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8495-1.jpg",
             "title": "",
             "text": "<p>pure chocolade • gezouten karamel<\/p>",
             "link_label": "",
@@ -62,7 +64,7 @@
         "1632068860fc8a39eb-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0058-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8496-1.jpg",
             "title": "",
             "text": "<p>pure chocolade • melkganache • munt<\/p>",
             "link_label": "",
@@ -72,7 +74,7 @@
         "a6ac3c09-f8f5-49f2-a5dc-1ca8899c20fc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0065-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8501-1.jpg",
             "title": "",
             "text": "<p>pure chocolade • sinaasganache<\/p>",
             "link_label": "",
@@ -82,7 +84,7 @@
         "d77fd928-cdf6-444e-bd7c-600ec2a0049a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0075-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8520-1.jpg",
             "title": "",
             "text": "<p>pure chocolade • passievrucht • karamel<\/p>",
             "link_label": "",
@@ -92,7 +94,7 @@
         "f42f2152-d172-4c2c-89e8-3e32af70f2d8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8438-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8503-1.jpg",
             "title": "",
             "text": "<p>pure chocolade • mango • saffraan • lavendel<\/p>",
             "link_label": "",
@@ -102,7 +104,7 @@
         "90e1f299-3339-4ad7-a5f4-968b398e5abf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0037-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8488-1.jpg",
             "title": "",
             "text": "<p><strong>seizoenspraline<\/strong><br\/>melkchocolade • zwarte sesam praliné • wasabi <strong>OF<\/strong> krokante karamelpraliné<\/p>",
             "link_label": "",
@@ -112,7 +114,7 @@
         "c5b14593-c64e-4692-9e5f-ad18375a329b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0061-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8486-1.jpg",
             "title": "",
             "text": "<p>melkchocolade • kalamansi • vanille<\/p>",
             "link_label": "",
@@ -122,7 +124,7 @@
         "593f4938-0088-4080-bdc0-70bf65e1706f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0030-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8492-1.jpg",
             "title": "",
             "text": "<p>melkchocolade • hazelnoot (op basis van Nutella)<\/p>",
             "link_label": "",
@@ -132,9 +134,19 @@
         "f00d2000-c748-45bd-8ad1-34e8a0578c01": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0033-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8489-1.jpg",
             "title": "",
             "text": "<p>melkchocolade • speculaas<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "01cf07ba-ba8f-431f-ad8f-160410743551": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_8524-1.jpg",
+            "title": "",
+            "text": "<p>melkchocolade • homemade koffiepraliné <em>(vegan praline)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -142,7 +154,7 @@
         "53c86f8e-2dda-43d7-8f79-9931f02437aa": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0050-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8494-1.jpg",
             "title": "",
             "text": "<p>melkchocolade • kokos • bosbes<\/p>",
             "link_label": "",
@@ -152,7 +164,7 @@
         "e4f3f5ed-87ba-4ea8-a6e0-69cac0944e94": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0043-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8508-1.jpg",
             "title": "",
             "text": "<p>ruby chocolade • framboos<\/p>",
             "link_label": "",
@@ -162,7 +174,7 @@
         "a6f09648-b1c1-4353-928d-4db39df5e350": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0009-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8516-1.jpg",
             "title": "",
             "text": "<p>witte chocolade • citroen vodka • citroengras • Ecuador en Arriba chocolade<\/p>",
             "link_label": "",
@@ -172,7 +184,7 @@
         "d2642e57-19a4-4dee-b87a-cc740638cc0e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0011-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8505-1.jpg",
             "title": "",
             "text": "<p>witte chocolade • theeganache<\/p>",
             "link_label": "",
@@ -182,7 +194,7 @@
         "fba8d975-027d-431f-b18f-765d979cbe7e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0025-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8506-1.jpg",
             "title": "",
             "text": "<p>witte chocolade • hazelnoot praliné • knettersuiker<\/p>",
             "link_label": "",
@@ -192,7 +204,7 @@
         "e2ec1907-885b-4f95-ac3e-5e1feed33fa1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20211121_HOC-assortiment_0019-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_8514-1.jpg",
             "title": "",
             "text": "<p>witte chocolade • koffieganache<\/p>",
             "link_label": "",
@@ -211,6 +223,7 @@
         "c5b14593-c64e-4692-9e5f-ad18375a329b",
         "593f4938-0088-4080-bdc0-70bf65e1706f",
         "f00d2000-c748-45bd-8ad1-34e8a0578c01",
+        "01cf07ba-ba8f-431f-ad8f-160410743551",
         "53c86f8e-2dda-43d7-8f79-9931f02437aa",
         "e4f3f5ed-87ba-4ea8-a6e0-69cac0944e94",
         "a6f09648-b1c1-4353-928d-4db39df5e350",

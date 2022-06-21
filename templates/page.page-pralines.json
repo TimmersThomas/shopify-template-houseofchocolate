@@ -131,22 +131,22 @@
             "link": ""
           }
         },
-        "f00d2000-c748-45bd-8ad1-34e8a0578c01": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8489-1.jpg",
-            "title": "",
-            "text": "<p>melkchocolade • speculaas<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "01cf07ba-ba8f-431f-ad8f-160410743551": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8524-2.jpg",
             "title": "",
             "text": "<p>melkchocolade • homemade koffiepraliné <em>(vegan praline)<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f00d2000-c748-45bd-8ad1-34e8a0578c01": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_8489-1.jpg",
+            "title": "",
+            "text": "<p>melkchocolade • speculaas<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -222,8 +222,8 @@
         "90e1f299-3339-4ad7-a5f4-968b398e5abf",
         "c5b14593-c64e-4692-9e5f-ad18375a329b",
         "593f4938-0088-4080-bdc0-70bf65e1706f",
-        "f00d2000-c748-45bd-8ad1-34e8a0578c01",
         "01cf07ba-ba8f-431f-ad8f-160410743551",
+        "f00d2000-c748-45bd-8ad1-34e8a0578c01",
         "53c86f8e-2dda-43d7-8f79-9931f02437aa",
         "e4f3f5ed-87ba-4ea8-a6e0-69cac0944e94",
         "a6f09648-b1c1-4353-928d-4db39df5e350",

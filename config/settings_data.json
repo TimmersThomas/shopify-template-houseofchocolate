@@ -15,7 +15,7 @@
     "predictive_search_show_price": false,
     "favicon": "shopify:\/\/shop_images\/Logo_House-of-Chocolate-favicon.png",
     "currency_code_enabled": false,
-    "cart_type": "drawer",
+    "cart_type": "notification",
     "show_cart_note": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/Logo_House-of-Chocolate_checkout.png",
     "checkout_logo_position": "center",

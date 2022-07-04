@@ -15,6 +15,7 @@
     "predictive_search_show_price": false,
     "favicon": "shopify:\/\/shop_images\/Logo_House-of-Chocolate-favicon.png",
     "currency_code_enabled": false,
+    "cart_type": "drawer",
     "checkout_logo_image": "shopify:\/\/shop_images\/Logo_House-of-Chocolate_checkout.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
@@ -35,9 +36,12 @@
           "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
+          "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": false,
-          "margin_bottom": 0
+          "margin_bottom": 0,
+          "padding_top": 20,
+          "padding_bottom": 20
         }
       },
       "footer": {
@@ -208,13 +212,6 @@
             "announcement-bar-0"
           ],
           "settings": {
-            "color_scheme": "background-1",
-            "logo_width": 90,
-            "logo_position": "middle-left",
-            "menu": "main-menu",
-            "show_line_separator": true,
-            "enable_sticky_header": true,
-            "margin_bottom": 0
           }
         }
       }
@@ -256,7 +253,6 @@
             }
           },
           "block_order": [
-            "menu",
             "text"
           ],
           "settings": {

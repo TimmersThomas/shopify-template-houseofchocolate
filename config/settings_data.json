@@ -26,6 +26,19 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "863e1c2b-8d4b-4ba9-96f3-f0e9f5597e52": {
+            "type": "announcement",
+            "settings": {
+              "text": "Wij zijn momenteel met vakantie, terug open op dinsdag 9 augustus!",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "863e1c2b-8d4b-4ba9-96f3-f0e9f5597e52"
+        ],
         "settings": {
         }
       },

@@ -1399,6 +1399,7 @@
     },
     "main-list-collections": {
       "name": "Pagina collectielijst",
+      "name_custon": "Menu based collectielijst",
       "settings": {
         "title": {
           "label": "Opschrift"
@@ -1422,6 +1423,18 @@
           },
           "options__6": {
             "label": "Aantal producten, van laag naar hoog"
+          },
+          "options__7": {
+            "label": "Menu (manual) based"
+          }
+        },
+        "link_list": {
+          "name": "Menu",
+          "settings": {
+            "menu": {
+              "label": "Custom collection sort",
+              "info": "Blaat"
+            }
           }
         },
         "image_ratio": {
@@ -1454,6 +1467,7 @@
         }
       }
     },
+
     "main-page": {
       "name": "Pagina"
     },

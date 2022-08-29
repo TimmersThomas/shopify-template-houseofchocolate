@@ -1540,6 +1540,7 @@
     },
     "main-list-collections": {
       "name": "Collections list page",
+      "name_custon": "Menu based collection list",
       "settings": {
         "title": {
           "label": "Heading"
@@ -1563,6 +1564,18 @@
           },
           "options__6": {
             "label": "Product count, low to high"
+          },
+          "options__7": {
+            "label": "Menu (manual) based"
+          }
+        },
+        "link_list": {
+          "name": "Menu",
+          "settings": {
+            "menu": {
+              "label": "Custom collection sort",
+              "info": "Blaat"
+            }
           }
         },
         "image_ratio": {

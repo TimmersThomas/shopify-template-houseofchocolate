@@ -1,10 +1,9 @@
 {
   "sections": {
     "main": {
-      "type": "main-list-collections",
+      "type": "custom-main-list-collections",
       "settings": {
         "title": "Shop",
-        "sort": "date",
         "image_ratio": "square",
         "columns_desktop": 4,
         "columns_mobile": "2"

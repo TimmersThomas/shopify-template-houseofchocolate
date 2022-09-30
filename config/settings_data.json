@@ -26,20 +26,6 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "blocks": {
-          "0503b2f1-101c-49f4-93a2-f342b9609da7": {
-            "type": "announcement",
-            "settings": {
-              "text": "Klik om ons te nomineren voor een LEO (Leukste Economische Onderneming). Bedankt!",
-              "text_alignment": "center",
-              "color_scheme": "accent-1",
-              "link": "https:\/\/forms.office.com\/r\/isY3SEJwy7"
-            }
-          }
-        },
-        "block_order": [
-          "0503b2f1-101c-49f4-93a2-f342b9609da7"
-        ],
         "settings": {
         }
       },

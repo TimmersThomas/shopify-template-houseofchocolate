@@ -74,7 +74,7 @@
         "a6ac3c09-f8f5-49f2-a5dc-1ca8899c20fc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8501-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_9584-1.jpg",
             "title": "",
             "text": "<p>pure chocolade • sinaasganache<\/p>",
             "link_label": "",
@@ -104,7 +104,7 @@
         "90e1f299-3339-4ad7-a5f4-968b398e5abf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8488-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_9583-1.jpg",
             "title": "",
             "text": "<p><strong>seizoenspraline<\/strong><br\/>melkchocolade • zwarte sesam praliné • wasabi <strong>OF<\/strong> krokante karamelpraliné<\/p>",
             "link_label": "",
@@ -181,6 +181,16 @@
             "link": ""
           }
         },
+        "7a314e63-e7ee-4399-bdfe-55f113ccad15": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9576-1.jpg",
+            "title": "",
+            "text": "<p>witte chocolade • Marula gin<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "d2642e57-19a4-4dee-b87a-cc740638cc0e": {
           "type": "column",
           "settings": {
@@ -227,6 +237,7 @@
         "53c86f8e-2dda-43d7-8f79-9931f02437aa",
         "e4f3f5ed-87ba-4ea8-a6e0-69cac0944e94",
         "a6f09648-b1c1-4353-928d-4db39df5e350",
+        "7a314e63-e7ee-4399-bdfe-55f113ccad15",
         "d2642e57-19a4-4dee-b87a-cc740638cc0e",
         "fba8d975-027d-431f-b18f-765d979cbe7e",
         "e2ec1907-885b-4f95-ac3e-5e1feed33fa1"

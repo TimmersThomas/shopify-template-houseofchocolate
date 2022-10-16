@@ -4,6 +4,8 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16320600814adb4ea3": {
@@ -12,7 +14,7 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Waarmee kunnen we jou helpen?",
+            "heading": "<p>Waarmee kunnen we jou helpen?<\/p>",
             "heading_size": "h1"
           }
         },
@@ -28,8 +30,12 @@
         "16320600814adb4ea3-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "16326591891df95315": {
@@ -95,13 +101,19 @@
       ],
       "settings": {
         "title": "Logopralines op maat",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "secondary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16320698225b50ea28": {
@@ -145,13 +157,19 @@
       ],
       "settings": {
         "title": "Nog een aantal andere voorbeelden",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },

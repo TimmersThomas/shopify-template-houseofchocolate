@@ -39,7 +39,7 @@
           "type": "column",
           "settings": {
             "title": "Online",
-            "text": "<p>Via <a href=\"\/collections\" title=\"Alle collecties\">onze eigen shop<\/a> kan je alle House of chocolate producten bestellen. Afhalen kan bij Loïc en Quinten maar we leveren ook thuis.<br\/><\/p>",
+            "text": "<p>Via <a href=\"\/collections\" title=\"Alle collecties\">onze eigen shop<\/a> kan je alle House of chocolate producten bestellen. Afhalen kan in ons atelier en bij Quinten maar we leveren ook thuis.<br\/><\/p>",
             "link_label": "",
             "link": ""
           }

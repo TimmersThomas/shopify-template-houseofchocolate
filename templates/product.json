@@ -3,7 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-<<<<<<< HEAD
         "vendor": {
           "type": "text",
           "settings": {
@@ -11,8 +10,6 @@
             "text_style": "uppercase"
           }
         },
-=======
->>>>>>> 1e0753a (Custom changes/settings for house of chocolate)
         "title": {
           "type": "title",
           "settings": {

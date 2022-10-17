@@ -398,6 +398,21 @@
         "options__4": {
           "label": "Extra groot"
         }
+      },
+      "heading_type": {
+        "label": "Kop type",
+        "options__1": {
+          "label": "H1 element"
+        },
+        "options__2": {
+          "label": "H2 element"
+        },
+        "options__3": {
+          "label": "H3 element"
+        },
+        "options__4": {
+          "label": "H4 element"
+        }
       }
     },
     "announcement-bar": {

@@ -14,8 +14,17 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
+            "heading": "<p>Maatwerk<\/p>",
+            "heading_size": "h1",
+            "heading_type": "h1"
+          }
+        },
+        "e559aeed-7631-4728-a996-4f09fa04fe5a": {
+          "type": "heading",
+          "settings": {
             "heading": "<p>Waarmee kunnen we jou helpen?<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h2",
+            "heading_type": "h2"
           }
         },
         "16320600814adb4ea3-1": {
@@ -27,6 +36,7 @@
       },
       "block_order": [
         "16320600814adb4ea3-0",
+        "e559aeed-7631-4728-a996-4f09fa04fe5a",
         "16320600814adb4ea3-1"
       ],
       "settings": {

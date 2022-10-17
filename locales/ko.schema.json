@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "이형 상품 타원형",
-      "paragraph": "이형 상품 필은 제품 이형 상품을 표시하는 방법 중 하나입니다. [자세히 알아보기](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "이형 상품 필은 제품 이형 상품을 표시하는 방법 중 하나입니다. [자세히 알아보기](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "입력"
@@ -1718,7 +1718,7 @@
           "name": "제품 평점",
           "settings": {
             "paragraph": {
-              "content": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+              "content": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
             }
           }
         },
@@ -1726,7 +1726,7 @@
           "name": "보완 제품",
           "settings": {
             "paragraph": {
-              "content": "보완 제품을 선택하려면 Search & Discovery 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "보완 제품을 선택하려면 Search & Discovery 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "제목"
@@ -1867,16 +1867,6 @@
           },
           "options__3": {
             "label": "썸네일 숨기기"
-          }
-        },
-        "media_position": {
-          "label": "데스크톱 미디어 위치",
-          "info": "위치는 자동으로 모바일에 최적화됩니다.",
-          "options__1": {
-            "label": "왼쪽"
-          },
-          "options__2": {
-            "label": "오른쪽"
           }
         },
         "media_position": {

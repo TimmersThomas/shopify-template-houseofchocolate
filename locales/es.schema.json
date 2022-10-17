@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Botones de variantes",
-      "paragraph": "Los botones de variantes son una forma de mostrar las variantes de producto. [Más información](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "Los botones de variantes son una forma de mostrar las variantes de producto. [Más información](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Entradas"
@@ -311,48 +311,6 @@
             "label": "Colección",
             "info": "Visible cuando el carrito lateral está vacío.."
           }
-        }
-      }
-    },
-    "cards": {
-      "name": "Tarjetas de producto",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Estándar"
-          },
-          "options__2": {
-            "label": "Tarjeta"
-          },
-          "label": "Estilo"
-        }
-      }
-    },
-    "collection_cards": {
-      "name": "Tarjetas de colección",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Estándar"
-          },
-          "options__2": {
-            "label": "Tarjeta"
-          },
-          "label": "Estilo"
-        }
-      }
-    },
-    "blog_cards": {
-      "name": "Tarjetas de blogs",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Estándar"
-          },
-          "options__2": {
-            "label": "Tarjeta"
-          },
-          "label": "Estilo"
         }
       }
     },
@@ -1760,7 +1718,7 @@
           "name": "Calificación de los productos",
           "settings": {
             "paragraph": {
-              "content": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+              "content": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
             }
           }
         },
@@ -1768,7 +1726,7 @@
           "name": "Productos complementarios",
           "settings": {
             "paragraph": {
-              "content": "Para seleccionar productos complementarios, agrega la aplicación Search & Discovery. [Más información](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Para seleccionar productos complementarios, agrega la aplicación Search & Discovery. [Más información](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "Encabezado"
@@ -1909,16 +1867,6 @@
           },
           "options__3": {
             "label": "Ocultar miniaturas"
-          }
-        },
-        "media_position": {
-          "label": "Posición de contenido multimedia en el escritorio",
-          "info": "La posición se optimiza automáticamente para dispositivos móviles.",
-          "options__1": {
-            "label": "Izquierda"
-          },
-          "options__2": {
-            "label": "Derecha"
           }
         },
         "media_position": {

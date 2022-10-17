@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Variantetiketter",
-      "paragraph": "Variantetiketter er en måde at vise dine produktvarianter på. [Få mere at vide](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "Variantetiketter er en måde at vise dine produktvarianter på. [Få mere at vide](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Inputs"
@@ -311,48 +311,6 @@
             "label": "Kollektion",
             "info": "Synlig, når indkøbskurvskuffen er tom.."
           }
-        }
-      }
-    },
-    "cards": {
-      "name": "Produktkort",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Standard"
-          },
-          "options__2": {
-            "label": "Kort"
-          },
-          "label": "Stil"
-        }
-      }
-    },
-    "collection_cards": {
-      "name": "Kollektionskort",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Standard"
-          },
-          "options__2": {
-            "label": "Kort"
-          },
-          "label": "Stil"
-        }
-      }
-    },
-    "blog_cards": {
-      "name": "Blogkort",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Standard"
-          },
-          "options__2": {
-            "label": "Kort"
-          },
-          "label": "Stil"
         }
       }
     },
@@ -1760,7 +1718,7 @@
           "name": "Produktvurdering",
           "settings": {
             "paragraph": {
-              "content": "Hvis du vil vise bedømmelser, skal du tilføje en app til produktbedømmelse. [Få mere at vide](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+              "content": "Hvis du vil vise bedømmelser, skal du tilføje en app til produktbedømmelse. [Få mere at vide](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
             }
           }
         },
@@ -1768,7 +1726,7 @@
           "name": "Supplerende produkter",
           "settings": {
             "paragraph": {
-              "content": "Tilføj Search & Discovery-appen for at vælge supplerende produkter. [Få mere at vide](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Tilføj Search & Discovery-appen for at vælge supplerende produkter. [Få mere at vide](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "Overskrift"
@@ -1909,16 +1867,6 @@
           },
           "options__3": {
             "label": "Skjul miniaturer"
-          }
-        },
-        "media_position": {
-          "label": "Placering af medie på computer",
-          "info": "Placeringen optimeres automatisk til mobil.",
-          "options__1": {
-            "label": "Venstre"
-          },
-          "options__2": {
-            "label": "Højre"
           }
         },
         "media_position": {

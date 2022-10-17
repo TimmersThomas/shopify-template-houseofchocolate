@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Boutons pilule de variante",
-      "paragraph": "Les boutons pilule de variante servent à afficher les variantes de produit. [En savoir plus](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "Les boutons pilule de variante servent à afficher les variantes de produit. [En savoir plus](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Entrées"
@@ -311,48 +311,6 @@
             "label": "Collection",
             "info": "Visible lorsque le panier coulissant est vide.."
           }
-        }
-      }
-    },
-    "cards": {
-      "name": "Cartes de produit",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Standard"
-          },
-          "options__2": {
-            "label": "Carte"
-          },
-          "label": "Style"
-        }
-      }
-    },
-    "collection_cards": {
-      "name": "Cartes de collection",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Standard"
-          },
-          "options__2": {
-            "label": "Carte"
-          },
-          "label": "Style"
-        }
-      }
-    },
-    "blog_cards": {
-      "name": "Cartes de blog",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Standard"
-          },
-          "options__2": {
-            "label": "Carte"
-          },
-          "label": "Style"
         }
       }
     },
@@ -1759,7 +1717,7 @@
           "name": "Note de produit",
           "settings": {
             "paragraph": {
-              "content": "Pour afficher une note, ajoutez une application d'évaluation de produits. [En savoir plus](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+              "content": "Pour afficher une note, ajoutez une application d'évaluation de produits. [En savoir plus](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
             }
           }
         },
@@ -1767,7 +1725,7 @@
           "name": "Produits complémentaires",
           "settings": {
             "paragraph": {
-              "content": "Pour sélectionner des produits complémentaires, ajoutez l'application Search & Discovery. [En savoir plus](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Pour sélectionner des produits complémentaires, ajoutez l'application Search & Discovery. [En savoir plus](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "En-tête"
@@ -1908,16 +1866,6 @@
           },
           "options__3": {
             "label": "Masquer les vignettes"
-          }
-        },
-        "media_position": {
-          "label": "Position des supports multimédias sur ordinateur",
-          "info": "La position est automatiquement optimisée pour les mobiles.",
-          "options__1": {
-            "label": "Gauche"
-          },
-          "options__2": {
-            "label": "Droite"
           }
         },
         "media_position": {

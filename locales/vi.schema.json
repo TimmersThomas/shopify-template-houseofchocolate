@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Ô chọn mẫu mã",
-      "paragraph": "Ô chọn mẫu mã là một cách để hiển thị mẫu mã sản phẩm. [Tìm hiểu thêm](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "Ô chọn mẫu mã là một cách để hiển thị mẫu mã sản phẩm. [Tìm hiểu thêm](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Thông tin đầu vào"
@@ -311,48 +311,6 @@
             "label": "Bộ sưu tập",
             "info": "Hiển thị khi ngăn giỏ hàng trống."
           }
-        }
-      }
-    },
-    "cards": {
-      "name": "Thẻ sản phẩm",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Tiêu chuẩn"
-          },
-          "options__2": {
-            "label": "Thẻ"
-          },
-          "label": "Kiểu"
-        }
-      }
-    },
-    "collection_cards": {
-      "name": "Thẻ bộ sưu tập",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Tiêu chuẩn"
-          },
-          "options__2": {
-            "label": "Thẻ"
-          },
-          "label": "Kiểu"
-        }
-      }
-    },
-    "blog_cards": {
-      "name": "Thẻ blog",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Tiêu chuẩn"
-          },
-          "options__2": {
-            "label": "Thẻ"
-          },
-          "label": "Kiểu"
         }
       }
     },
@@ -1760,7 +1718,7 @@
           "name": "Thứ hạng sản phẩm",
           "settings": {
             "paragraph": {
-              "content": "Nếu muốn hiển thị thứ hạng, hãy thêm ứng dụng xếp hạng sản phẩm. [Tìm hiểu thêm](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+              "content": "Nếu muốn hiển thị thứ hạng, hãy thêm ứng dụng xếp hạng sản phẩm. [Tìm hiểu thêm](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
             }
           }
         },
@@ -1768,7 +1726,7 @@
           "name": "Sản phẩm bổ sung",
           "settings": {
             "paragraph": {
-              "content": "Để chọn sản phẩm bổ sung, hãy thêm ứng dụng Search & Discovery. [Tìm hiểu thêm](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Để chọn sản phẩm bổ sung, hãy thêm ứng dụng Search & Discovery. [Tìm hiểu thêm](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "Tiêu đề"
@@ -1909,16 +1867,6 @@
           },
           "options__3": {
             "label": "Ẩn hình thu nhỏ"
-          }
-        },
-        "media_position": {
-          "label": "Vị trí phương tiện trên màn hình nền",
-          "info": "Vị trí được tự động tối ưu hóa cho thiết bị di động.",
-          "options__1": {
-            "label": "Bên trái"
-          },
-          "options__2": {
-            "label": "Bên phải"
           }
         },
         "media_position": {

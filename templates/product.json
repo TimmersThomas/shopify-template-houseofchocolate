@@ -49,9 +49,6 @@
             "show_dynamic_checkout": true
           }
         },
-        "description": {
-          "type": "description"
-        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {

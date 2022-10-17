@@ -280,7 +280,7 @@
     },
     "variant_pills": {
       "name": "Versioiden kuvakkeet",
-      "paragraph": "Versiopillerit ovat yksi tapa näyttää tuoteversiosi asiakkaille. [Lisätietoja](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "Versiopillerit ovat yksi tapa näyttää tuoteversiosi asiakkaille. [Lisätietoja](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Syötteet"
@@ -325,34 +325,6 @@
             "label": "Kokoelma",
             "info": "Näkyy, kun veto-ostoskori on tyhjä."
           }
-        }
-      }
-    },
-    "collection_cards": {
-      "name": "Kokoelman kortit",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Vakio"
-          },
-          "options__2": {
-            "label": "Kortti"
-          },
-          "label": "Tyyli"
-        }
-      }
-    },
-    "blog_cards": {
-      "name": "Blogi-kortit",
-      "settings": {
-        "style": {
-          "options__1": {
-            "label": "Vakio"
-          },
-          "options__2": {
-            "label": "Kortti"
-          },
-          "label": "Tyyli"
         }
       }
     },
@@ -1745,7 +1717,7 @@
           "name": "Tuotearvio",
           "settings": {
             "paragraph": {
-              "content": "Näytä luokitus lisäämällä tuotearviointisovellus. [Lisätietoja](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+              "content": "Näytä luokitus lisäämällä tuotearviointisovellus. [Lisätietoja](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
             }
           }
         },
@@ -1753,7 +1725,7 @@
           "name": "Täydentävät tuotteet",
           "settings": {
             "paragraph": {
-              "content": "Lisää Search & Discovery -sovellus, jotta voit valita täydentäviä tuotteita. [Lisätietoja](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Lisää Search & Discovery -sovellus, jotta voit valita täydentäviä tuotteita. [Lisätietoja](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "Otsikko"
@@ -1894,16 +1866,6 @@
           },
           "options__3": {
             "label": "Piilota pikkukuvat"
-          }
-        },
-        "media_position": {
-          "label": "Työpöytämedian sijainti",
-          "info": "Sijainti optimoidaan automaattisesti mobiililaitteille.",
-          "options__1": {
-            "label": "Vasen"
-          },
-          "options__2": {
-            "label": "Oikea"
           }
         },
         "media_position": {

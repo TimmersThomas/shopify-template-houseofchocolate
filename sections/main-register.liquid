@@ -132,7 +132,7 @@
         type="text"
         name="customer.metafields.customer_fields[btw_nummer]"
         id="RegisterForm-metafield-BtwNummer"
-        {% if form.note.metafields.customer_fields[btw_nummer] %}value="{{ form.metafields.customer_fields[btw_nummer] }}"{% endif %}
+        {% if form.metafields.customer_fields[btw_nummer] %}value="{{ form.metafields.customer_fields['btw_nummer'] }}"{% endif %}
         autocomplete="vat-number"
         placeholder="BTW nummer"
       >
@@ -145,7 +145,7 @@
         type="text"
         name="customer.metafields.customer_fields[bedrijfsnaam]"
         id="RegisterForm-metafield-companyName"
-        {% if form.note.metafields.customer_fields[bedrijfsnaam] %}value="{{ form.metafields.customer_fields[bedrijfsnaam] }}"{% endif %}
+        {% if form.metafields.customer_fields[bedrijfsnaam] %}value="{{ form.metafields.customer_fields['bedrijfsnaam'] }}"{% endif %}
         autocomplete="vat-number"
         placeholder="BTW nummer"
       >

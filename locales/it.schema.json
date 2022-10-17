@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Pulsanti di selezione variante",
-      "paragraph": "I pulsanti di selezione variante costituiscono uno dei modi in cui puoi visualizzare le varianti di prodotto. [Maggiori informazioni](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
+      "paragraph": "I pulsanti di selezione variante costituiscono uno dei modi in cui puoi visualizzare le varianti di prodotto. [Maggiori informazioni](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Input"
@@ -309,8 +309,50 @@
           "header": "Finestra del carrello",
           "collection": {
             "label": "Collezione",
-            "info": "Visibile quando la finestra del carrello è vuota."
+            "info": "Visibile quando la finestra del carrello è vuota.."
           }
+        }
+      }
+    },
+    "cards": {
+      "name": "Schede prodotto",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Standard"
+          },
+          "options__2": {
+            "label": "Scheda"
+          },
+          "label": "Stile"
+        }
+      }
+    },
+    "collection_cards": {
+      "name": "Schede collezioni",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Standard"
+          },
+          "options__2": {
+            "label": "Scheda"
+          },
+          "label": "Stile"
+        }
+      }
+    },
+    "blog_cards": {
+      "name": "Schede del blog",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Standard"
+          },
+          "options__2": {
+            "label": "Scheda"
+          },
+          "label": "Stile"
         }
       }
     },
@@ -1718,7 +1760,99 @@
           "name": "Valutazione del prodotto",
           "settings": {
             "paragraph": {
-              "content": "Per mostrare una valutazione, aggiungi un'app di valutazione del prodotto. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
+              "content": "Per mostrare una valutazione, aggiungi un'app di valutazione del prodotto. [Maggiori informazioni](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+            }
+          }
+        },
+        "complementary_products": {
+          "name": "Prodotti complementari",
+          "settings": {
+            "paragraph": {
+              "content": "Aggiungi l'app Search & Discovery per selezionare i prodotti complementari. [Maggiori informazioni](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+            },
+            "heading": {
+              "label": "Titolo"
+            },
+            "make_collapsible_row": {
+              "label": "Mostra come riga comprimibile"
+            },
+            "icon": {
+              "info": "Visibile quando è visualizzata la riga comprimibile."
+            },
+            "product_list_limit": {
+              "label": "Massimo di prodotti da mostrare"
+            },
+            "products_per_page": {
+              "label": "Numero di prodotti per pagina"
+            },
+            "pagination_style": {
+              "label": "Stile impaginazione",
+              "options": {
+                "option_1": "Punti",
+                "option_2": "Contatore",
+                "option_3": "Numeri"
+              }
+            },
+            "product_card": {
+              "heading": "Scheda prodotto"
+            },
+            "image_ratio": {
+              "label": "Proporzioni immagine",
+              "options": {
+                "option_1": "Verticale",
+                "option_2": "Square"
+              }
+            },
+            "enable_quick_add": {
+              "label": "Abilita il pulsante di aggiunta rapida"
+            }
+          }
+        },
+        "icon_with_text": {
+          "name": "Icona con testo",
+          "settings": {
+            "layout": {
+              "label": "Layout",
+              "options__1": {
+                "label": "Orizzontale"
+              },
+              "options__2": {
+                "label": "Verticale"
+              }
+            },
+            "content": {
+              "label": "Contenuto",
+              "info": "Scegli un'icona o aggiungi un'immagine per ogni colonna o riga."
+            },
+            "heading": {
+              "info": "Lascia vuota l'etichetta del titolo per nascondere la colonna delle icone."
+            },
+            "icon_1": {
+              "label": "Prima icona"
+            },
+            "image_1": {
+              "label": "Prima immagine"
+            },
+            "heading_1": {
+              "label": "Primo titolo"
+            },
+            "icon_2": {
+              "label": "Seconda icona"
+            },
+            "image_2": {
+              "label": "Seconda immagine"
+            },
+            "heading_2": {
+              "label": "Secondo titolo"
+            },
+            "icon_3": {
+              "label": "Terza icona"
+            },
+            "image_3": {
+              "label": "Terza immagine"
+            },
+            "heading_3": {
+              "label": "Terzo titolo"
             }
           }
         }
@@ -1743,9 +1877,12 @@
             "label": "Elencato"
           },
           "options__2": {
-            "label": "Miniature"
+            "label": "2 colonne"
           },
           "options__3": {
+            "label": "Miniature"
+          },
+          "options__4": {
             "label": "Carosello miniature"
           }
         },
@@ -1765,10 +1902,23 @@
         "mobile_thumbnails": {
           "label": "Layout dispositivo mobile",
           "options__1": {
-            "label": "Mostra miniature"
+            "label": "2 colonne"
           },
           "options__2": {
+            "label": "Mostra miniature"
+          },
+          "options__3": {
             "label": "Nascondi miniature"
+          }
+        },
+        "media_position": {
+          "label": "Posizione contenuti multimediali su desktop",
+          "info": "Posizione automaticamente ottimizzata per dispositivi mobili.",
+          "options__1": {
+            "label": "A sinistra"
+          },
+          "options__2": {
+            "label": "A destra"
           }
         },
         "media_position": {

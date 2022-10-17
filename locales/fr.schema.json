@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Boutons pilule de variante",
-      "paragraph": "Les boutons pilule de variante servent à afficher les variantes de produit. [En savoir plus](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
+      "paragraph": "Les boutons pilule de variante servent à afficher les variantes de produit. [En savoir plus](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Entrées"
@@ -309,8 +309,50 @@
           "header": "Panier coulissant",
           "collection": {
             "label": "Collection",
-            "info": "Visible lorsque le panier coulissant est vide."
+            "info": "Visible lorsque le panier coulissant est vide.."
           }
+        }
+      }
+    },
+    "cards": {
+      "name": "Cartes de produit",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Standard"
+          },
+          "options__2": {
+            "label": "Carte"
+          },
+          "label": "Style"
+        }
+      }
+    },
+    "collection_cards": {
+      "name": "Cartes de collection",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Standard"
+          },
+          "options__2": {
+            "label": "Carte"
+          },
+          "label": "Style"
+        }
+      }
+    },
+    "blog_cards": {
+      "name": "Cartes de blog",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Standard"
+          },
+          "options__2": {
+            "label": "Carte"
+          },
+          "label": "Style"
         }
       }
     },
@@ -1717,7 +1759,99 @@
           "name": "Note de produit",
           "settings": {
             "paragraph": {
-              "content": "Pour afficher une note, ajoutez une application d'évaluation de produits. [En savoir plus](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
+              "content": "Pour afficher une note, ajoutez une application d'évaluation de produits. [En savoir plus](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+            }
+          }
+        },
+        "complementary_products": {
+          "name": "Produits complémentaires",
+          "settings": {
+            "paragraph": {
+              "content": "Pour sélectionner des produits complémentaires, ajoutez l'application Search & Discovery. [En savoir plus](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+            },
+            "heading": {
+              "label": "En-tête"
+            },
+            "make_collapsible_row": {
+              "label": "Afficher sous forme de ligne réductible"
+            },
+            "icon": {
+              "info": "Visible lorsque la ligne réductible est affichée."
+            },
+            "product_list_limit": {
+              "label": "Quantité maximale de produits à afficher"
+            },
+            "products_per_page": {
+              "label": "Nombre de produits par page"
+            },
+            "pagination_style": {
+              "label": "Style de pagination",
+              "options": {
+                "option_1": "Points",
+                "option_2": "Compteur",
+                "option_3": "Numéros"
+              }
+            },
+            "product_card": {
+              "heading": "Carte de produit"
+            },
+            "image_ratio": {
+              "label": "Rapport d’aspect de l’image",
+              "options": {
+                "option_1": "Portrait",
+                "option_2": "Carrés"
+              }
+            },
+            "enable_quick_add": {
+              "label": "Activer le bouton d'ajout rapide"
+            }
+          }
+        },
+        "icon_with_text": {
+          "name": "Icône avec texte",
+          "settings": {
+            "layout": {
+              "label": "Mise en page",
+              "options__1": {
+                "label": "Horizontale"
+              },
+              "options__2": {
+                "label": "Verticale"
+              }
+            },
+            "content": {
+              "label": "Contenu",
+              "info": "Choisissez une icône ou ajoutez une image pour chaque colonne ou rangée."
+            },
+            "heading": {
+              "info": "Laissez l'intitulé du titre vide pour masquer la colonne de l'icône."
+            },
+            "icon_1": {
+              "label": "Première icône"
+            },
+            "image_1": {
+              "label": "Première image"
+            },
+            "heading_1": {
+              "label": "Premier titre"
+            },
+            "icon_2": {
+              "label": "Deuxième icône"
+            },
+            "image_2": {
+              "label": "Deuxième image"
+            },
+            "heading_2": {
+              "label": "Deuxième titre"
+            },
+            "icon_3": {
+              "label": "Troisième icône"
+            },
+            "image_3": {
+              "label": "Troisième image"
+            },
+            "heading_3": {
+              "label": "Troisième titre"
             }
           }
         }
@@ -1742,9 +1876,12 @@
             "label": "Empilé"
           },
           "options__2": {
-            "label": "Vignettes"
+            "label": "2 colonnes"
           },
           "options__3": {
+            "label": "Vignettes"
+          },
+          "options__4": {
             "label": "Carrousel de vignettes"
           }
         },
@@ -1764,10 +1901,23 @@
         "mobile_thumbnails": {
           "label": "Mise en page sur mobile",
           "options__1": {
-            "label": "Afficher les vignettes"
+            "label": "2 colonnes"
           },
           "options__2": {
+            "label": "Afficher les vignettes"
+          },
+          "options__3": {
             "label": "Masquer les vignettes"
+          }
+        },
+        "media_position": {
+          "label": "Position des supports multimédias sur ordinateur",
+          "info": "La position est automatiquement optimisée pour les mobiles.",
+          "options__1": {
+            "label": "Gauche"
+          },
+          "options__2": {
+            "label": "Droite"
           }
         },
         "media_position": {

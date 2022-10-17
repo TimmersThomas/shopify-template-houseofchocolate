@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Variantknapper",
-      "paragraph": "Variantknapper er én måte å presentere produktvarianter på. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
+      "paragraph": "Variantknapper er én måte å presentere produktvarianter på. [Finn ut mer](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Inputs"
@@ -311,6 +311,48 @@
             "label": "Samling",
             "info": "Synlig når handlekurvskuffen er tom."
           }
+        }
+      }
+    },
+    "cards": {
+      "name": "Produktkort",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Standard"
+          },
+          "options__2": {
+            "label": "Kort"
+          },
+          "label": "Stil"
+        }
+      }
+    },
+    "collection_cards": {
+      "name": "Samlingskort",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Standard"
+          },
+          "options__2": {
+            "label": "Kort"
+          },
+          "label": "Stil"
+        }
+      }
+    },
+    "blog_cards": {
+      "name": "Bloggkort",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Standard"
+          },
+          "options__2": {
+            "label": "Kort"
+          },
+          "label": "Stil"
         }
       }
     },
@@ -1717,7 +1759,99 @@
           "name": "Produktvurdering",
           "settings": {
             "paragraph": {
-              "content": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
+              "content": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+            }
+          }
+        },
+        "complementary_products": {
+          "name": "Komplimentære produkter",
+          "settings": {
+            "paragraph": {
+              "content": "Legg til Search & Discovery-appen for å velge komplimentære produkter. [Finn ut mer](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+            },
+            "heading": {
+              "label": "Overskrift"
+            },
+            "make_collapsible_row": {
+              "label": "Vis som sammenleggbar rad"
+            },
+            "icon": {
+              "info": "Synlig når den sammenleggbare raden vises."
+            },
+            "product_list_limit": {
+              "label": "Maksimalt antall produkter som vises"
+            },
+            "products_per_page": {
+              "label": "Antall produkter per side"
+            },
+            "pagination_style": {
+              "label": "Pagineringsstil",
+              "options": {
+                "option_1": "Prikker",
+                "option_2": "Teller",
+                "option_3": "Tall"
+              }
+            },
+            "product_card": {
+              "heading": "Produktkort"
+            },
+            "image_ratio": {
+              "label": "Bildeforhold",
+              "options": {
+                "option_1": "Portrett",
+                "option_2": "Firkant"
+              }
+            },
+            "enable_quick_add": {
+              "label": "Aktiver knapp for hurtigtillegging"
+            }
+          }
+        },
+        "icon_with_text": {
+          "name": "Ikon med tekst",
+          "settings": {
+            "layout": {
+              "label": "Oppsett",
+              "options__1": {
+                "label": "Horisontalt"
+              },
+              "options__2": {
+                "label": "Vertikalt"
+              }
+            },
+            "content": {
+              "label": "Innhold",
+              "info": "Velg et ikon eller legg til et bilde for hver kolonne eller rad."
+            },
+            "heading": {
+              "info": "La overskriftsetiketten stå tom for å skjule ikonkolonnen."
+            },
+            "icon_1": {
+              "label": "Første ikon"
+            },
+            "image_1": {
+              "label": "Første bilde"
+            },
+            "heading_1": {
+              "label": "Første overskrift"
+            },
+            "icon_2": {
+              "label": "Andre ikon"
+            },
+            "image_2": {
+              "label": "Andre bilde"
+            },
+            "heading_2": {
+              "label": "Andre overskrift"
+            },
+            "icon_3": {
+              "label": "Tredje ikon"
+            },
+            "image_3": {
+              "label": "Tredje bilde"
+            },
+            "heading_3": {
+              "label": "Tredje overskrift"
             }
           }
         }
@@ -1742,9 +1876,12 @@
             "label": "Stablet"
           },
           "options__2": {
-            "label": "Miniatyrbilder"
+            "label": "2 kolonner"
           },
           "options__3": {
+            "label": "Miniatyrbilder"
+          },
+          "options__4": {
             "label": "Karusell med miniatyrbilder"
           }
         },
@@ -1764,10 +1901,23 @@
         "mobile_thumbnails": {
           "label": "Mobillayout",
           "options__1": {
-            "label": "Vis miniatyrbilder"
+            "label": "2 kolonner"
           },
           "options__2": {
+            "label": "Vis miniatyrbilder"
+          },
+          "options__3": {
             "label": "Skjul miniatyrbilder"
+          }
+        },
+        "media_position": {
+          "label": "Plassering av medier på datamaskin",
+          "info": "Posisjonen optimaliseres automatisk for mobil.",
+          "options__1": {
+            "label": "Venstre"
+          },
+          "options__2": {
+            "label": "Høyre"
           }
         },
         "media_position": {

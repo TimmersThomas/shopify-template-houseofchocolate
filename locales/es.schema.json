@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Botones de variantes",
-      "paragraph": "Los botones de variantes son una forma de mostrar las variantes de producto. [Más información](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
+      "paragraph": "Los botones de variantes son una forma de mostrar las variantes de producto. [Más información](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Entradas"
@@ -309,8 +309,50 @@
           "header": "Carrito lateral",
           "collection": {
             "label": "Colección",
-            "info": "Visible cuando el carrito lateral está vacío."
+            "info": "Visible cuando el carrito lateral está vacío.."
           }
+        }
+      }
+    },
+    "cards": {
+      "name": "Tarjetas de producto",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Estándar"
+          },
+          "options__2": {
+            "label": "Tarjeta"
+          },
+          "label": "Estilo"
+        }
+      }
+    },
+    "collection_cards": {
+      "name": "Tarjetas de colección",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Estándar"
+          },
+          "options__2": {
+            "label": "Tarjeta"
+          },
+          "label": "Estilo"
+        }
+      }
+    },
+    "blog_cards": {
+      "name": "Tarjetas de blogs",
+      "settings": {
+        "style": {
+          "options__1": {
+            "label": "Estándar"
+          },
+          "options__2": {
+            "label": "Tarjeta"
+          },
+          "label": "Estilo"
         }
       }
     },
@@ -1718,7 +1760,99 @@
           "name": "Calificación de los productos",
           "settings": {
             "paragraph": {
-              "content": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
+              "content": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+            }
+          }
+        },
+        "complementary_products": {
+          "name": "Productos complementarios",
+          "settings": {
+            "paragraph": {
+              "content": "Para seleccionar productos complementarios, agrega la aplicación Search & Discovery. [Más información](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+            },
+            "heading": {
+              "label": "Encabezado"
+            },
+            "make_collapsible_row": {
+              "label": "Mostrar como una fila plegable"
+            },
+            "icon": {
+              "info": "Visible cuando se muestra la fila plegable."
+            },
+            "product_list_limit": {
+              "label": "Número máximo de productos para mostrar"
+            },
+            "products_per_page": {
+              "label": "Cantidad de productos por página"
+            },
+            "pagination_style": {
+              "label": "Estilo de paginación",
+              "options": {
+                "option_1": "Puntos",
+                "option_2": "Contador",
+                "option_3": "Números"
+              }
+            },
+            "product_card": {
+              "heading": "Tarjeta de producto"
+            },
+            "image_ratio": {
+              "label": "Relación de aspecto de imagen",
+              "options": {
+                "option_1": "Retrato",
+                "option_2": "Cuadrado"
+              }
+            },
+            "enable_quick_add": {
+              "label": "Activar botón de agregado rápido"
+            }
+          }
+        },
+        "icon_with_text": {
+          "name": "Ícono con texto",
+          "settings": {
+            "layout": {
+              "label": "Diseño",
+              "options__1": {
+                "label": "Horizontal"
+              },
+              "options__2": {
+                "label": "Vertical"
+              }
+            },
+            "content": {
+              "label": "Contenido",
+              "info": "Elige un ícono o agrega una imagen para cada columna o fila."
+            },
+            "heading": {
+              "info": "Deja la etiqueta de encabezado en blanco para ocultar la columna del ícono."
+            },
+            "icon_1": {
+              "label": "Primer ícono"
+            },
+            "image_1": {
+              "label": "Primera imagen"
+            },
+            "heading_1": {
+              "label": "Primer encabezado"
+            },
+            "icon_2": {
+              "label": "Segundo ícono"
+            },
+            "image_2": {
+              "label": "Segunda imagen"
+            },
+            "heading_2": {
+              "label": "Segundo encabezado"
+            },
+            "icon_3": {
+              "label": "Tercer ícono"
+            },
+            "image_3": {
+              "label": "Tercera imagen"
+            },
+            "heading_3": {
+              "label": "Tercer encabezado"
             }
           }
         }
@@ -1743,9 +1877,12 @@
             "label": "Apilado"
           },
           "options__2": {
-            "label": "Miniaturas"
+            "label": "Dos columnas"
           },
           "options__3": {
+            "label": "Miniaturas"
+          },
+          "options__4": {
             "label": "Carrusel de miniaturas"
           }
         },
@@ -1765,10 +1902,23 @@
         "mobile_thumbnails": {
           "label": "Diseño para móviles",
           "options__1": {
-            "label": "Mostrar miniaturas"
+            "label": "Dos columnas"
           },
           "options__2": {
+            "label": "Mostrar miniaturas"
+          },
+          "options__3": {
             "label": "Ocultar miniaturas"
+          }
+        },
+        "media_position": {
+          "label": "Posición de contenido multimedia en el escritorio",
+          "info": "La posición se optimiza automáticamente para dispositivos móviles.",
+          "options__1": {
+            "label": "Izquierda"
+          },
+          "options__2": {
+            "label": "Derecha"
           }
         },
         "media_position": {

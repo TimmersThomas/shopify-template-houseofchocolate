@@ -14,8 +14,9 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Hier koop je onze chocolade",
-            "heading_size": "h1"
+            "heading": "<p>Verkooppunten<\/p>",
+            "heading_size": "h1",
+            "heading_type": "h1"
           }
         }
       },
@@ -23,6 +24,8 @@
         "16320600814adb4ea3-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -67,7 +70,7 @@
       ],
       "settings": {
         "title": "Onze webshop",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -120,7 +123,7 @@
       ],
       "settings": {
         "title": "België",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -279,7 +282,7 @@
       ],
       "settings": {
         "title": "Nederland",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,

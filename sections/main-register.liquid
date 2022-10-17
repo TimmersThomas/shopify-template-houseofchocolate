@@ -130,14 +130,27 @@
     <div class="field">
       <input
         type="text"
-        name="customer[note][vat_number]"
-        id="RegisterForm-VatNumber"
-        {% if form.note.vat_number %}value="{{ form.note.vat_number }}"{% endif %}
+        name="customer.metafields.customer_fields[btw_nummer]"
+        id="RegisterForm-metafield-BtwNummer"
+        {% if form.note.metafields.customer_fields[btw_nummer] %}value="{{ form.metafields.customer_fields[btw_nummer] }}"{% endif %}
         autocomplete="vat-number"
         placeholder="BTW nummer"
       >
-      <label for="RegisterForm-VatNumber">
+      <label for="RegisterForm-metafield-BtwNummer">
         BTW nummer
+      </label>
+    </div>
+    <div class="field">
+      <input
+        type="text"
+        name="customer.metafields.customer_fields[bedrijfsnaam]"
+        id="RegisterForm-metafield-companyName"
+        {% if form.note.metafields.customer_fields[bedrijfsnaam] %}value="{{ form.metafields.customer_fields[bedrijfsnaam] }}"{% endif %}
+        autocomplete="vat-number"
+        placeholder="BTW nummer"
+      >
+      <label for="RegisterForm-metafield-companyName">
+        Bedrijfsnaam
       </label>
     </div>
     <button>

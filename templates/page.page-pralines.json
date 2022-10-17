@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Pralines<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_type": "h1"
           }
         },
         "16320600814adb4ea3-1": {

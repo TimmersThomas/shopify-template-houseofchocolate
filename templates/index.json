@@ -23,7 +23,8 @@
           "type": "heading",
           "settings": {
             "heading": "<p>House of chocolate<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_type": "h2"
           }
         },
         "text": {
@@ -249,7 +250,8 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Instagram & Facebook<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_type": "h2"
           }
         },
         "16320415760bd04978-1": {

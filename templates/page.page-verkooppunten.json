@@ -106,11 +106,11 @@
             "link": ""
           }
         },
-        "16320766043362771c-2": {
+        "6f5c96c3-a637-42bc-b821-cb477fa8fa2d": {
           "type": "column",
           "settings": {
-            "title": "Taeymans Coffee",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/jJEH1q8FevGNwbkm9\" target=\"_blank\" title=\"Taeymans Coffee\">Meerseweg 80B<\/a><br\/>2322 Minderhout<br\/><em>Volledig assortiment<\/em><\/p>",
+            "title": "De Smaakmakers",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/Ytd8K9QpMA7DpyPz7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/Ytd8K9QpMA7DpyPz7\">Grote Baan 62<\/a><br\/>9120 Beveren<br\/><em>Repen, luxe pralinedozen en specials<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -119,7 +119,7 @@
       "block_order": [
         "16320766043362771c-0",
         "16320766043362771c-1",
-        "16320766043362771c-2"
+        "6f5c96c3-a637-42bc-b821-cb477fa8fa2d"
       ],
       "settings": {
         "title": "België",
@@ -173,59 +173,6 @@
         "1646163349705f6bac-0",
         "1646163349705f6bac-1",
         "1646163349705f6bac-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 8,
-        "padding_bottom": 36
-      }
-    },
-    "16516884398b36c69f": {
-      "type": "multicolumn",
-      "blocks": {
-        "1651688439693b04fe-0": {
-          "type": "column",
-          "settings": {
-            "title": "De Smaakmakers",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/Ytd8K9QpMA7DpyPz7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/Ytd8K9QpMA7DpyPz7\">Grote Baan 62<\/a><br\/>9120 Beveren<br\/><em>Repen, luxe pralinedozen en specials<\/em><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1651688439693b04fe-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1651688439693b04fe-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1651688439693b04fe-0",
-        "1651688439693b04fe-1",
-        "1651688439693b04fe-2"
       ],
       "settings": {
         "title": "",
@@ -304,7 +251,6 @@
     "16320765702f909df3",
     "16320766043362771c",
     "1646163349aa603e31",
-    "16516884398b36c69f",
     "16320767144b0c2feb"
   ]
 }

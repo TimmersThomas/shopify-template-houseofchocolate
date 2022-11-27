@@ -47,7 +47,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8519-2.jpg",
             "title": "",
-            "text": "<p>pure chocolade • aardbei • munt • vodka (The Holy Spiritus) • marsepein<\/p>",
+            "text": "<p>pure chocolade • aardbei • munt • vodka (The Holy Spiritus) • marsepein<br\/><em>(bevat alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -77,7 +77,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_9584-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • sinaasganache<\/p>",
+            "text": "<p>pure chocolade • sinaasganache<br\/><em>(bevat alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -127,7 +127,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8492-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella)<\/p>",
+            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella)<br\/><em>(bevat alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -157,7 +157,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8494-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • kokos • bosbes<\/p>",
+            "text": "<p>melkchocolade • kokos • bosbes<br\/><em>(bevat alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -177,7 +177,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8516-2.jpg",
             "title": "",
-            "text": "<p>witte chocolade • citroen vodka • citroengras • Ecuador en Arriba chocolade<\/p>",
+            "text": "<p>witte chocolade • citroen vodka • citroengras • Ecuador en Arriba chocolade<br\/><em>(bevat alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -187,7 +187,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_9576-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • Marula gin • Callebaut 'Evocao™ WholeFruit' chocolade<\/p>",
+            "text": "<p>witte chocolade • Marula gin • Callebaut 'Evocao™ WholeFruit' chocolade<br\/><em>(bevat alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }

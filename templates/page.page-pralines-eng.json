@@ -14,7 +14,7 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Pralines<\/p>",
+            "heading": "<p>Chocolates<\/p>",
             "heading_size": "h1",
             "heading_type": "h1"
           }
@@ -22,7 +22,7 @@
         "16320600814adb4ea3-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/products\/pralines\" title=\"Pralines\">Onze doosjes<\/a> bevatten een mix van onderstaande pralines. <\/p>"
+            "text": "<p><a href=\"\/products\/pralines\" title=\"Pralines\">Our boxes<\/a> (linked page written in Dutch) contain a mix of the chocolates below.<\/p>"
           }
         }
       },
@@ -47,7 +47,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8519-2.jpg",
             "title": "",
-            "text": "<p>pure chocolade • aardbei • munt • vodka • marsepein<br\/><em>(bevat alcohol)<\/em><\/p>",
+            "text": "<p>dark chocolate • strawberry • mint • vodka • marzipan<br\/><em>(contains alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -57,7 +57,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8495-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • gezouten karamel<\/p>",
+            "text": "<p>dark chocolate • salted caramel<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -67,7 +67,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8496-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • melkganache • munt<\/p>",
+            "text": "<p>dark chocolate • milk ganache • mint<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -77,7 +77,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_9584-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • sinaasganache<br\/><em>(bevat alcohol)<\/em><\/p>",
+            "text": "<p>dark chocolate • orange ganache<br\/><em>(contains alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -87,7 +87,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8520-2.jpg",
             "title": "",
-            "text": "<p>pure chocolade • passievrucht • karamel<\/p>",
+            "text": "<p>dark chocolate • passion fruit • caramel<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -97,7 +97,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8503-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • mango • saffraan • lavendel<\/p>",
+            "text": "<p>dark chocolate • mango • saffron • lavender<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -107,7 +107,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_9583-1.jpg",
             "title": "",
-            "text": "<p><strong>seizoenspraline<\/strong><br\/>melkchocolade • pecannoot praliné • vanille karamel<\/p>",
+            "text": "<p><strong>seasonal chocolate<\/strong><br\/>milk chocolate • pecan nut praline • vanilla caramel<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -117,7 +117,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8486-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • kalamansi • vanille<\/p>",
+            "text": "<p>milk chocolate • kalamansi • vanilla<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -127,7 +127,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8492-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella)<br\/><em>(bevat alcohol)<\/em><\/p>",
+            "text": "<p>milk chocolate • hazelnut (Nutella based)<br\/><em>(contains alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -137,7 +137,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8524-2.jpg",
             "title": "",
-            "text": "<p>melkchocolade • homemade koffiepraliné <em>(vegan praline)<\/em><\/p>",
+            "text": "<p>milk chocolate • homemade coffee praline <em>(vegan chocolate)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -147,7 +147,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8489-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • speculaas<\/p>",
+            "text": "<p>milk chocolate • gingerbread<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -157,7 +157,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8494-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • kokos • bosbes<br\/><em>(bevat alcohol)<\/em><\/p>",
+            "text": "<p>milk chocolate • coconut • blueberry<br\/><em>(contains alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -167,7 +167,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8508-1.jpg",
             "title": "",
-            "text": "<p>ruby chocolade • framboos<\/p>",
+            "text": "<p>ruby chocolate • raspberry<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -177,7 +177,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8516-2.jpg",
             "title": "",
-            "text": "<p>witte chocolade • citroen vodka • citroengras • Ecuador en Arriba chocolade<br\/><em>(bevat alcohol)<\/em><\/p>",
+            "text": "<p>white chocolate • lemon vodka • lemongrass • Ecuador and Arriba chocolate<br\/><em>(contains alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -187,7 +187,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_9576-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • Marula gin • Callebaut 'Evocao™ WholeFruit' chocolade<br\/><em>(bevat alcohol)<\/em><\/p>",
+            "text": "<p>white chocolate • Marula gin • Callebaut 'Evocao™ WholeFruit' chocolate<br\/><em>(contains alcohol)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -197,7 +197,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8505-2.jpg",
             "title": "",
-            "text": "<p>witte chocolade • theeganache<\/p>",
+            "text": "<p>white chocolate • thea ganache<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -207,7 +207,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8506-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • hazelnoot praliné • knettersuiker<\/p>",
+            "text": "<p>white chocolate • hazelnut praline • popping sugar<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -217,7 +217,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8514-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • koffieganache<\/p>",
+            "text": "<p>white chocolate • coffee ganache<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -251,7 +251,7 @@
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "Wil je onze pralines kopen?",
+        "button_label": "Want to buy our chocolates? (page in Dutch)",
         "button_link": "shopify:\/\/collections\/pralines",
         "color_scheme": "background-1",
         "columns_mobile": "1",

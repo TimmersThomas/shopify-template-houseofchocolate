@@ -447,7 +447,7 @@
       },
       "contact": {
         "optional_address2_label": "Appartementnr. etc. (optioneel)",
-        "phone_tooltip": "We doen onze leveringen zelf dus 't is wel handig dat we je kunnen bellen indien nodig."
+        "phone_tooltip": "We doen onze leveringen zelf dus 't is wel handig dat we je snel kunnen bereiken indien nodig."
       },
       "delivery_options": {
         "ship": "Leveren",
@@ -456,7 +456,7 @@
       "order_summary": {
         "free_shipping_discount_label": "Gratis levering",
         "shipping_label": "Leveringskost",
-        "no_pickup_location": "Voor één of meerdere van de producten in je winkelmandje, is het gevraagde aantal momenteel niet beschikbaar op onze locaties. Neem contact met ons op via info@houseofchocolate.be om te bespreken hoe we je alsnog kunnen verder helpen.",
+        "no_pickup_location": "Voor één of meerdere van de producten in je winkelmandje, is het gevraagde aantal momenteel niet beschikbaar op onze locaties. Neem contact met ons op via info@houseofchocolate.be om te bespreken hoe we je alsnog kunnen helpen.",
         "shipping_policy_link": "Leveringskosten",
         "gift_card_placeholder": "Cadeaubon of kortingscode"
       },

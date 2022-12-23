@@ -18,7 +18,7 @@
     "currency_code_enabled": false,
     "cart_type": "notification",
     "show_cart_note": true,
-    "checkout_logo_image": "shopify:\/\/shop_images\/Logo_House-of-Chocolate_checkout.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Logo_House-of-Chocolate_Shopify-social.jpg",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",

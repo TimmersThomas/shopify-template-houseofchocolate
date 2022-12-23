@@ -447,7 +447,7 @@
       },
       "contact": {
         "optional_address2_label": "Appartementnr. etc. (optioneel)",
-        "phone_tooltip": "We doen onze leveringen zelf dus 't is wel handig dat we je snel kunnen bereiken indien nodig."
+        "phone_tooltip": "We doen onze leveringen zelf dus 't is handig dat we je snel kunnen bereiken indien nodig."
       },
       "delivery_options": {
         "ship": "Leveren",

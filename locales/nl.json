@@ -150,7 +150,9 @@
       "include_taxes": "Inclusief btw.",
       "shipping_policy_html": "<a href=\"{{ link }}\">Verzendkosten<\/a> worden berekend bij de checkout.",
       "choose_options": "Opties kiezen",
-      "choose_product_options": "Opties kiezen voor {{ product_name }}"
+      "choose_product_options": "Opties kiezen voor {{ product_name }}",
+      "value_unavailable": "",
+      "variant_sold_out_or_unavailable": ""
     },
     "modal": {
       "label": "Mediagalerij"
@@ -444,7 +446,8 @@
         "choose_shipping_method": "Kies een leveringsmethode"
       },
       "contact": {
-        "optional_address2_label": "Appartementnr. etc. (optioneel)"
+        "optional_address2_label": "Appartementnr. etc. (optioneel)",
+        "phone_tooltip": "We doen onze leveringen zelf dus 't is wel handig dat we je kunnen bellen indien nodig."
       },
       "delivery_options": {
         "ship": "Leveren",

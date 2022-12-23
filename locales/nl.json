@@ -152,7 +152,7 @@
       "choose_options": "Opties kiezen",
       "choose_product_options": "Opties kiezen voor {{ product_name }}",
       "value_unavailable": "",
-      "variant_sold_out_or_unavailable": ""
+      "variant_sold_out_or_unavailable": "Variant onbeschikbaar"
     },
     "modal": {
       "label": "Mediagalerij"

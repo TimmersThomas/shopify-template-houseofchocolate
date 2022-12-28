@@ -113,7 +113,7 @@
       }
     },
     "product-recommendations": {
-      "type": "product-recommendations",
+      "type": "related-products",
       "settings": {
         "heading": "Dit vind je misschien ook lekker",
         "heading_size": "h1",
@@ -131,6 +131,8 @@
   },
   "order": [
     "main",
+    "image-with-text",
+    "multicolumn",
     "product-recommendations"
   ]
 }

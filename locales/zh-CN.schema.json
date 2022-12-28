@@ -781,7 +781,7 @@
           "content": "国家\/地区选择器"
         },
         "header__4": {
-          "info": "若要添加国家/地区，请转到 [营销设置](/admin/settings/markets)。"
+          "info": "若要添加国家\/地区，请转到 [营销设置](\/admin\/settings\/markets)。"
         },
         "enable_country_selector": {
           "label": "启用国家\/地区选择器"
@@ -806,7 +806,7 @@
         },
         "header__8": {
           "content": "政策链接",
-          "info": "若要添加商店政策，请前往 [政策设置](/admin/settings/legal)。"
+          "info": "若要添加商店政策，请前往 [政策设置](\/admin\/settings\/legal)。"
         },
         "show_policy": {
           "label": "显示政策链接"
@@ -866,7 +866,7 @@
           "content": "logo"
         },
         "logo_help": {
-          "content": "在[模板设置]](/editor?context=theme&category=logo)中编辑您的 logo。"
+          "content": "在[模板设置]](\/editor?context=theme&category=logo)中编辑您的 logo。"
         },
         "sticky_header_type": {
           "label": "粘性标头",
@@ -927,7 +927,7 @@
           "options__3": {
             "label": "中"
           },
-          "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "大"
           }
@@ -3001,7 +3001,7 @@
           "label": "台式设备上的列数"
         },
         "paragraph__1": {
-          "content": "动态推荐使用订单和产品信息来随着时间而变化和改进。[了解详细信息](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "动态推荐使用订单和产品信息来随着时间而变化和改进。[了解详细信息](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "产品卡"
@@ -3026,7 +3026,7 @@
         },
         "show_rating": {
           "label": "显示产品评分",
-          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "移动设备布局"

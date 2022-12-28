@@ -781,7 +781,7 @@
           "content": "Land\/område-vælger"
         },
         "header__4": {
-          "info": "Hvis du vil tilføje et land/område, skal du gå til dine [markedsindstillinger.](/admin/settings/markets)"
+          "info": "Hvis du vil tilføje et land\/område, skal du gå til dine [markedsindstillinger.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
           "label": "Aktivér land\/område-vælger"
@@ -806,7 +806,7 @@
         },
         "header__8": {
           "content": "Links til politikker",
-          "info": "Gå til dine [politikindstillinger](/admin/settings/legal) for at tilføje butikspolitikker."
+          "info": "Gå til dine [politikindstillinger](\/admin\/settings\/legal) for at tilføje butikspolitikker."
         },
         "show_policy": {
           "label": "Vis links til politikker"
@@ -866,7 +866,7 @@
           "content": "Logo"
         },
         "logo_help": {
-          "content": "Rediger dit logo i [temaindstillinger](/editor?context=theme&category=logo)."
+          "content": "Rediger dit logo i [temaindstillinger](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Fastgjort sidehoved",
@@ -927,7 +927,7 @@
           "options__3": {
             "label": "Mellem"
           },
-          "info": "Brug et billede med et højde-bredde-forhold på 3:2 for at opnå det bedste resultat. [Få mere at vide](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Brug et billede med et højde-bredde-forhold på 3:2 for at opnå det bedste resultat. [Få mere at vide](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Stor"
           }
@@ -3001,7 +3001,7 @@
           "label": "Antallet af kolonner på computer"
         },
         "paragraph__1": {
-          "content": "Dynamiske anbefalinger bruger ordre- og produktoplysninger til at foretage ændringer og forbedringer med tiden. [Få mere at vide](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Dynamiske anbefalinger bruger ordre- og produktoplysninger til at foretage ændringer og forbedringer med tiden. [Få mere at vide](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Produktkort"
@@ -3026,7 +3026,7 @@
         },
         "show_rating": {
           "label": "Vis produktbedømmelser",
-          "info": "Hvis du vil vise bedømmelser, skal du tilføje en app til produktbedømmelse. [Få mere at vide](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Hvis du vil vise bedømmelser, skal du tilføje en app til produktbedømmelse. [Få mere at vide](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Mobillayout"

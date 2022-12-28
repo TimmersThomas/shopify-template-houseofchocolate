@@ -781,7 +781,7 @@
           "content": "Auswahl für Land\/Region"
         },
         "header__4": {
-          "info": "Gehe zu den [Markteinstellungen](/admin/settings/markets), um ein Land / eine Region hinzuzufügen."
+          "info": "Gehe zu den [Markteinstellungen](\/admin\/settings\/markets), um ein Land \/ eine Region hinzuzufügen."
         },
         "enable_country_selector": {
           "label": "Auswahl für Land\/Region aktivieren"
@@ -806,7 +806,7 @@
         },
         "header__8": {
           "content": "Links zu Richtlinien",
-          "info": "Um Richtlinien für den Shop hinzuzufügen, gehe zu deinen [Richtlinien-Einstellungen](/admin/settings/legal)."
+          "info": "Um Richtlinien für den Shop hinzuzufügen, gehe zu deinen [Richtlinien-Einstellungen](\/admin\/settings\/legal)."
         },
         "show_policy": {
           "label": "Links zu Richtlinien anzeigen"
@@ -866,7 +866,7 @@
           "content": "Logo"
         },
         "logo_help": {
-          "content": "Bearbeite dein Logo in den [theme settings](/editor?context=theme&category=logo)."
+          "content": "Bearbeite dein Logo in den [theme settings](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Fixierter Header",
@@ -927,7 +927,7 @@
           "options__3": {
             "label": "Mittel"
           },
-          "info": "Verwende für Bilder ein Seitenverhältnis von 3:2 für optimale Ergebnisse. [Mehr Informationen](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Verwende für Bilder ein Seitenverhältnis von 3:2 für optimale Ergebnisse. [Mehr Informationen](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Groß"
           }
@@ -3001,7 +3001,7 @@
           "label": "Anzahl der Spalten auf dem Desktop"
         },
         "paragraph__1": {
-          "content": "Dynamische Empfehlungen nutzen Bestell- und Produktinformationen, um sich mit der Zeit zu verändern und zu verbessern. [Mehr Informationen](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Dynamische Empfehlungen nutzen Bestell- und Produktinformationen, um sich mit der Zeit zu verändern und zu verbessern. [Mehr Informationen](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Produktkarte"
@@ -3026,7 +3026,7 @@
         },
         "show_rating": {
           "label": "Produktbewertung anzeigen",
-          "info": "Um eine Bewertung anzuzeigen, musst du eine Produktbewertungs-App hinzufügen. [Mehr Informationen](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Um eine Bewertung anzuzeigen, musst du eine Produktbewertungs-App hinzufügen. [Mehr Informationen](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Mobiles Layout"

@@ -781,7 +781,7 @@
           "content": "Land\/region-väljare"
         },
         "header__4": {
-          "info": "Om du vill lägga till land/region går du till dina [marknadsinställningar.](/admin/settings/markets)"
+          "info": "Om du vill lägga till land\/region går du till dina [marknadsinställningar.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
           "label": "Aktivera land\/region-väljare"
@@ -806,7 +806,7 @@
         },
         "header__8": {
           "content": "Policylänkar",
-          "info": "Gå till dina [policyinställningar ](/admin/settings/legal) för att lägga till butikspolicyer."
+          "info": "Gå till dina [policyinställningar ](\/admin\/settings\/legal) för att lägga till butikspolicyer."
         },
         "show_policy": {
           "label": "Visa policylänkar"
@@ -866,7 +866,7 @@
           "content": "Logotyp"
         },
         "logo_help": {
-          "content": "Redigera din logotyp i [temainställningarna](/editor?context=theme&category=logo)."
+          "content": "Redigera din logotyp i [temainställningarna](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Fast sidhuvud",
@@ -927,7 +927,7 @@
           "options__3": {
             "label": "Medel"
           },
-          "info": "Använd en bild med bildformat 3:2, för bästa resultat. [Mer information](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Använd en bild med bildformat 3:2, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Stor"
           }
@@ -3001,7 +3001,7 @@
           "label": "Antalet kolumner på skrivbordet"
         },
         "paragraph__1": {
-          "content": "Dynamiska rekommendationer använder order- och produktinformation för att ändras och förbättras över tid. [Mer information](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Dynamiska rekommendationer använder order- och produktinformation för att ändras och förbättras över tid. [Mer information](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Produktkort"
@@ -3026,7 +3026,7 @@
         },
         "show_rating": {
           "label": "Visa produktbetyg",
-          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Mobil layout"

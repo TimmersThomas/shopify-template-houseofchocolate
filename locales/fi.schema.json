@@ -781,7 +781,7 @@
           "content": "Maa-\/aluevalitsin"
         },
         "header__4": {
-          "info": "Lisää maa/alue siirtymällä [markkina-asetuksiisi.](/admin/settings/markets)"
+          "info": "Lisää maa\/alue siirtymällä [markkina-asetuksiisi.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
           "label": "Näytä maa-\/aluevalitsin"
@@ -806,7 +806,7 @@
         },
         "header__8": {
           "content": "Käytäntöjen linkit",
-          "info": "Jos haluat lisätä kaupan käytännöt, siirry [käytäntöjen asetuksiin](/admin/settings/legal)."
+          "info": "Jos haluat lisätä kaupan käytännöt, siirry [käytäntöjen asetuksiin](\/admin\/settings\/legal)."
         },
         "show_policy": {
           "label": "Näytä käytäntöjen linkit"
@@ -866,7 +866,7 @@
           "content": "Logo"
         },
         "logo_help": {
-          "content": "Muokkaa logoa [teeman asetuksissa](/editor?context=theme&category=logo)."
+          "content": "Muokkaa logoa [teeman asetuksissa](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Paikallaan pysyvä ylätunniste",
@@ -927,7 +927,7 @@
           "options__3": {
             "label": "Keskisuuri"
           },
-          "info": "Saat parhaat tulokset käyttämällä kuvaa, jonka kuvasuhde on 3:2. [Lisätietoja](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Saat parhaat tulokset käyttämällä kuvaa, jonka kuvasuhde on 3:2. [Lisätietoja](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Suuri"
           }
@@ -3001,7 +3001,7 @@
           "label": "Sarakkeiden määrä työpöydällä"
         },
         "paragraph__1": {
-          "content": "Dynaamisissa suosituksissa käytetään tilaus- ja tuotetietoja, jotta suositukset muuttuvat ja paranevat ajan myötä. [Lisätietoja](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Dynaamisissa suosituksissa käytetään tilaus- ja tuotetietoja, jotta suositukset muuttuvat ja paranevat ajan myötä. [Lisätietoja](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Tuotekortti"
@@ -3026,7 +3026,7 @@
         },
         "show_rating": {
           "label": "Näytä tuotteen luokitus",
-          "info": "Näytä luokitus lisäämällä tuotearviointisovellus. [Lisätietoja](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Näytä luokitus lisäämällä tuotearviointisovellus. [Lisätietoja](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Mobiilipohja"

@@ -781,7 +781,7 @@
           "content": "Seletor de país\/região"
         },
         "header__4": {
-          "info": "Adicione um país/uma região às [configurações de mercado.](/admin/settings/markets)"
+          "info": "Adicione um país\/uma região às [configurações de mercado.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
           "label": "Habilitar seletor de país\/região"
@@ -806,7 +806,7 @@
         },
         "header__8": {
           "content": "Links para políticas",
-          "info": "Para adicionar as políticas da loja, acesse [policy settings](/admin/settings/legal)."
+          "info": "Para adicionar as políticas da loja, acesse [policy settings](\/admin\/settings\/legal)."
         },
         "show_policy": {
           "label": "Mostrar links para políticas"
@@ -866,7 +866,7 @@
           "content": "Logo"
         },
         "logo_help": {
-          "content": "Edite seu logo nas [configurações do tema](/editor?context=theme&category=logo)."
+          "content": "Edite seu logo nas [configurações do tema](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Cabeçalho fixo",
@@ -927,7 +927,7 @@
           "options__3": {
             "label": "Médio"
           },
-          "info": "Use uma imagem com proporção 3:2 para alcançar os melhores resultados. [Saiba mais](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Use uma imagem com proporção 3:2 para alcançar os melhores resultados. [Saiba mais](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Grande"
           }
@@ -3001,7 +3001,7 @@
           "label": "Número de colunas no desktop"
         },
         "paragraph__1": {
-          "content": "As recomendações dinâmicas usam informações sobre pedidos e produtos para mudar e melhorar com o tempo. [Saiba mais](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "As recomendações dinâmicas usam informações sobre pedidos e produtos para mudar e melhorar com o tempo. [Saiba mais](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Cartão de produto"
@@ -3026,7 +3026,7 @@
         },
         "show_rating": {
           "label": "Exibir avaliações do produto",
-          "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Layout em dispositivos móveis"

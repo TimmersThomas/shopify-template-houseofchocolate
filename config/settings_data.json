@@ -1,5 +1,7 @@
 {
   "current": {
+    "logo": "shopify:\/\/shop_images\/Logo_House-of-Chocolate_Shopify.png",
+    "favicon": "shopify:\/\/shop_images\/Logo_House-of-Chocolate-favicon.png",
     "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#662710",
     "colors_accent_2": "#334FB4",
@@ -14,7 +16,6 @@
     "social_instagram_link": "https:\/\/www.instagram.com\/houseofchocolatebe\/",
     "social_tiktok_link": "https:\/\/www.tiktok.com\/@houseofchocolate_",
     "predictive_search_show_price": false,
-    "favicon": "shopify:\/\/shop_images\/Logo_House-of-Chocolate-favicon.png",
     "currency_code_enabled": false,
     "cart_type": "notification",
     "show_cart_note": true,
@@ -34,13 +35,11 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/Logo_House-of-Chocolate_Shopify.png",
-          "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
+          "sticky_header_type": "on-scroll-up",
           "show_line_separator": true,
-          "enable_sticky_header": false,
           "mobile_logo_position": "center",
           "margin_bottom": 0,
           "padding_top": 20,
@@ -85,6 +84,7 @@
           "enable_country_selector": false,
           "enable_language_selector": false,
           "payment_enable": false,
+          "show_policy": false,
           "margin_top": 0,
           "padding_top": 36,
           "padding_bottom": 36

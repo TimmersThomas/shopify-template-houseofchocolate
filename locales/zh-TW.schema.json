@@ -781,7 +781,7 @@
           "content": "國家\/地區選擇器"
         },
         "header__4": {
-          "info": "若要新增國家/地區，請前往 [市場設定](/admin/settings/markets)。"
+          "info": "若要新增國家\/地區，請前往 [市場設定](\/admin\/settings\/markets)。"
         },
         "enable_country_selector": {
           "label": "啟用國家\/地區選擇器"
@@ -806,7 +806,7 @@
         },
         "header__8": {
           "content": "政策連結",
-          "info": "若要新增商店政策，請前往 [政策設定](/admin/settings/legal)]。"
+          "info": "若要新增商店政策，請前往 [政策設定](\/admin\/settings\/legal)]。"
         },
         "show_policy": {
           "label": "顯示政策連結"
@@ -866,7 +866,7 @@
           "content": "標誌"
         },
         "logo_help": {
-          "content": "在 [編輯佈景主題設定](/editor?context=theme&category=logo) 中編輯標誌。"
+          "content": "在 [編輯佈景主題設定](\/editor?context=theme&category=logo) 中編輯標誌。"
         },
         "sticky_header_type": {
           "label": "固定式頁首",
@@ -927,7 +927,7 @@
           "options__3": {
             "label": "中"
           },
-          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "大"
           }
@@ -3001,7 +3001,7 @@
           "label": "桌面版的欄數"
         },
         "paragraph__1": {
-          "content": "動態推薦會使用訂單和商品資訊，以隨著時間改變與改進。[瞭解詳情](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "動態推薦會使用訂單和商品資訊，以隨著時間改變與改進。[瞭解詳情](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "商品卡片"
@@ -3026,7 +3026,7 @@
         },
         "show_rating": {
           "label": "顯示商品評等",
-          "info": "新增商品評等應用程式，即可顯示評等。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "新增商品評等應用程式，即可顯示評等。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "行動版版面配置"

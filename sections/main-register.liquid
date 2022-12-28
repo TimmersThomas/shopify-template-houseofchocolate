@@ -138,9 +138,9 @@
     <div class="field">
       <input
         type="text"
-        name="customer.metafields.customer_fields[btw_nummer]"
+        name="customer.metafields.custom['btw_nummer']"
         id="RegisterForm-metafield-BtwNummer"
-        {% if form.metafields.customer_fields[btw_nummer] %}value="{{ form.metafields.customer_fields['btw_nummer'] }}"{% endif %}
+        {% if form.metafields.custom['btw_nummer'] %}value="{{ form.metafields.custom['btw_nummer'] }}"{% endif %}
         autocomplete="vat-number"
         placeholder="BTW nummer"
       >
@@ -151,11 +151,11 @@
     <div class="field">
       <input
         type="text"
-        name="customer.metafields.customer_fields[bedrijfsnaam]"
+        name="customer.metafields.custom['bedrijfsnaam']"
         id="RegisterForm-metafield-companyName"
-        {% if form.metafields.customer_fields[bedrijfsnaam] %}value="{{ form.metafields.customer_fields['bedrijfsnaam'] }}"{% endif %}
-        autocomplete="vat-number"
-        placeholder="BTW nummer"
+        {% if form.metafields.custom['bedrijfsnaam'] %}value="{{ form.metafields.custom['bedrijfsnaam'] }}"{% endif %}
+        autocomplete="bedrijfsnaam"
+        placeholder="Bedrijfsnaam"
       >
       <label for="RegisterForm-metafield-companyName">
         Bedrijfsnaam

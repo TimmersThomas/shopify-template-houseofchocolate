@@ -488,7 +488,8 @@
         "return_to_store_link_label": "Terugkeren naar winkel",
         "pick_up_in_store_marker": {
           "shipping": "Afhaalpunt"
-        }
+        },
+        "customer_information_title": "Klantgegevens"
       },
       "review": {
         "blocks": {

@@ -38,6 +38,12 @@
     "166180048183ec3cbd": {
       "type": "collection-list",
       "blocks": {
+        "c16a33b4-3a9c-4b76-9715-bc374d3a4521": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "valentijn"
+          }
+        },
         "16618004816477acf1-0": {
           "type": "featured_collection",
           "settings": {
@@ -82,6 +88,7 @@
         }
       },
       "block_order": [
+        "c16a33b4-3a9c-4b76-9715-bc374d3a4521",
         "16618004816477acf1-0",
         "16618004816477acf1-1",
         "9971c18e-dfaf-47f7-a766-d920ce24650b",

@@ -28,6 +28,20 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "6bd6603b-59a3-438b-aab4-1126329b0af8": {
+            "type": "announcement",
+            "settings": {
+              "text": "Wegens een overlijden zijn we vrijdag 17 en zaterdag 18 februari uitzonderlijk gesloten.",
+              "text_alignment": "center",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "6bd6603b-59a3-438b-aab4-1126329b0af8"
+        ],
         "settings": {
         }
       },

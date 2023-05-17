@@ -38,12 +38,6 @@
     "166180048183ec3cbd": {
       "type": "collection-list",
       "blocks": {
-        "225cbda2-26c7-403b-9184-dbddcacef6df": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "moederdag"
-          }
-        },
         "8ef794e4-c7cb-4678-92b4-0efe459753bd": {
           "type": "featured_collection",
           "settings": {
@@ -94,7 +88,6 @@
         }
       },
       "block_order": [
-        "225cbda2-26c7-403b-9184-dbddcacef6df",
         "8ef794e4-c7cb-4678-92b4-0efe459753bd",
         "16618004816477acf1-0",
         "16618004816477acf1-1",

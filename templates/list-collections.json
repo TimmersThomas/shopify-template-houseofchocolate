@@ -62,12 +62,6 @@
             "collection": "tussendoortjes"
           }
         },
-        "16618004816477acf1-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "limited-editions"
-          }
-        },
         "f252786e-daa7-47f8-8e5e-1acefc21aa7c": {
           "type": "featured_collection",
           "settings": {
@@ -92,7 +86,6 @@
         "16618004816477acf1-0",
         "16618004816477acf1-1",
         "9971c18e-dfaf-47f7-a766-d920ce24650b",
-        "16618004816477acf1-2",
         "f252786e-daa7-47f8-8e5e-1acefc21aa7c",
         "16c881fc-b88c-4338-bce8-861430b11fe2",
         "d40575f2-902c-4fc6-a1f8-e6eea0a848dd"

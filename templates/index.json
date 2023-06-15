@@ -108,22 +108,22 @@
         "1632036836510295f8-1": {
           "type": "text",
           "settings": {
-            "text": "Suikervrije repen",
+            "text": "Zeevruchten",
             "text_style": "body"
           }
         },
         "1632036836510295f8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Proef onze suikervrije repen nu",
+            "heading": "Proef onze zomerse zeevruchten nu",
             "heading_size": "medium"
           }
         },
         "1632036836510295f8-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Ik wil repen kopen!",
-            "button_link_1": "shopify:\/\/collections\/repen",
+            "button_label_1": "Ik wil zeevruchten kopen!",
+            "button_link_1": "shopify:\/\/products\/zeevruchten",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -137,7 +137,7 @@
         "1632036836510295f8-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/suikervrije-reep-melk-praline_2.jpg",
+        "image": "shopify:\/\/shop_images\/zeevruchten-banner.jpg",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "middle-center",

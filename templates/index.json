@@ -1,7 +1,14 @@
 {
   "sections": {
+    "c82d6199-334d-4825-a0cb-c6a2c32dfa17": {
+      "type": "video-banner",
+      "settings": {
+        "alt": ""
+      }
+    },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/assortimentsplankje-headerfoto.jpg",
         "image_overlay_opacity": 0,
@@ -305,14 +312,10 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "c82d6199-334d-4825-a0cb-c6a2c32dfa17": {
-      "type": "video-banner",
-      "settings": {
-      }
     }
   },
   "order": [
+    "c82d6199-334d-4825-a0cb-c6a2c32dfa17",
     "image_banner",
     "rich_text",
     "16320352130e6fa3b0",
@@ -320,7 +323,6 @@
     "multi_column",
     "16320368728299bc12",
     "16320415760bd04978",
-    "1632041580fe456b6b",
-    "c82d6199-334d-4825-a0cb-c6a2c32dfa17"
+    "1632041580fe456b6b"
   ]
 }

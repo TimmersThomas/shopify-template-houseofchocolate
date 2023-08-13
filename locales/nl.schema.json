@@ -480,7 +480,7 @@
         },
         "header__1": {
           "content": "Pictogrammen voor social media",
-          "info": "Als je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](/editor?context=theme&category=social%20media)."
+          "info": "Als je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](\/editor?context=theme&category=social%20media)."
         },
         "header__2": {
           "content": "Aankondigingen"
@@ -489,15 +489,15 @@
           "label": "Pictogrammen op bureaublad weergeven"
         },
         "header__3": {
-          "content": "Kiezer voor land/regio",
-          "info": "Ga naar de [marktinstellingen](/admin/settings/markets) om een land/regio toe te voegen."
+          "content": "Kiezer voor land\/regio",
+          "info": "Ga naar de [marktinstellingen](\/admin\/settings\/markets) om een land\/regio toe te voegen."
         },
         "enable_country_selector": {
-          "label": "Kiezer voor land/regio inschakelen"
+          "label": "Kiezer voor land\/regio inschakelen"
         },
         "header__4": {
           "content": "Taalkiezer",
-          "info": "Ga naar je [taalinstellingen](/admin/settings/languages) om een taal toe te voegen."
+          "info": "Ga naar je [taalinstellingen](\/admin\/settings\/languages) om een taal toe te voegen."
         },
         "enable_language_selector": {
           "label": "Taalkiezer inschakelen"
@@ -665,7 +665,7 @@
       "settings": {
         "custom_liquid": {
           "label": "Liquid-code",
-          "info": "Voeg app-fragmenten of andere code toe om geavanceerde aanpassingen aan te maken. [Meer informatie](https://shopify.dev/docs/api/liquid)"
+          "info": "Voeg app-fragmenten of andere code toe om geavanceerde aanpassingen aan te maken. [Meer informatie](https:\/\/shopify.dev\/docs\/api\/liquid)"
         }
       },
       "presets": {
@@ -838,14 +838,14 @@
           "name": "Merkinformatie",
           "settings": {
             "paragraph": {
-              "content": "In dit blok komt informatie over je merk. [Bewerk merkinformatie.](/editor?context=theme&category=brand%20information)"
+              "content": "In dit blok komt informatie over je merk. [Bewerk merkinformatie.](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "Pictogrammen voor social media"
             },
             "show_social": {
               "label": "Pictogrammen social media weergeven",
-              "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](/editor?context=theme&category=social%20media)."
+              "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](\/editor?context=theme&category=social%20media)."
             }
           }
         }
@@ -863,7 +863,7 @@
         },
         "header__2": {
           "content": "Pictogrammen voor social media",
-          "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](/editor?context=theme&category=social%20media)."
+          "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](\/editor?context=theme&category=social%20media)."
         },
         "show_social": {
           "label": "Pictogrammen social media weergeven"
@@ -904,7 +904,7 @@
         },
         "header__9": {
           "content": "Volgen op Shop",
-          "info": "Klanten kunnen de winkel alleen vanuit de webshop volgen in de Shop-app als Shop Pay is ingeschakeld. [Meer informatie](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Klanten kunnen de winkel alleen vanuit de webshop volgen in de Shop-app als Shop Pay is ingeschakeld. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "'Volgen op Shop' inschakelen"
@@ -982,19 +982,19 @@
           }
         },
         "header__3": {
-          "content": "Kiezer voor land/regio"
+          "content": "Kiezer voor land\/regio"
         },
         "header__4": {
-          "info": "Ga naar de [marktinstellingen](/admin/settings/markets) om een land/regio toe te voegen."
+          "info": "Ga naar de [marktinstellingen](\/admin\/settings\/markets) om een land\/regio toe te voegen."
         },
         "enable_country_selector": {
-          "label": "Kiezer voor land/regio inschakelen"
+          "label": "Kiezer voor land\/regio inschakelen"
         },
         "header__5": {
           "content": "Taalkiezer"
         },
         "header__6": {
-          "info": "Ga naar je [taalinstellingen](/admin/settings/languages) om een taal toe te voegen."
+          "info": "Ga naar je [taalinstellingen](\/admin\/settings\/languages) om een taal toe te voegen."
         },
         "enable_language_selector": {
           "label": "Taalkiezer inschakelen"
@@ -1484,11 +1484,11 @@
         },
         "enable_tags": {
           "label": "Filteren inschakelen",
-          "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "Filteren inschakelen",
-          "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "Sortering inschakelen"
@@ -1662,11 +1662,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dynamische checkoutknoppen weergeven",
-              "info": "Bij de betaalmethoden die bij je winkel beschikbaar zijn, zien klanten de optie die hun voorkeur heeft, zoals PayPal of Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Bij de betaalmethoden die bij je winkel beschikbaar zijn, zien klanten de optie die hun voorkeur heeft, zoals PayPal of Apple Pay. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Formulier voor gegevens van ontvanger weergeven voor cadeaubonnen",
-              "info": "Hiermee kunnen kopers op een geplande datum een cadeaubon met een persoonlijk bericht sturen. [Meer informatie](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+              "info": "Hiermee kunnen kopers op een geplande datum een cadeaubon met een persoonlijk bericht sturen. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
             }
           }
         },

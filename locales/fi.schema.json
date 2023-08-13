@@ -480,7 +480,7 @@
         },
         "header__1": {
           "content": "Some-kuvakkeet",
-          "info": "Jos haluat näyttää sosiaalisen median tilisi, linkitä ne [teema-asetuksistasi](/editor?context=theme&category=social%20media)."
+          "info": "Jos haluat näyttää sosiaalisen median tilisi, linkitä ne [teema-asetuksistasi](\/editor?context=theme&category=social%20media)."
         },
         "header__2": {
           "content": "Ilmoitukset"
@@ -489,15 +489,15 @@
           "label": "Näytä työpöydällä olevat kuvakkeet"
         },
         "header__3": {
-          "content": "Maa-/aluevalitsin",
-          "info": "Lisää maa/alue siirtymällä [markkina-asetuksiisi.](/admin/settings/markets)"
+          "content": "Maa-\/aluevalitsin",
+          "info": "Lisää maa\/alue siirtymällä [markkina-asetuksiisi.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Ota käyttöön maa-/aluevalitsin"
+          "label": "Ota käyttöön maa-\/aluevalitsin"
         },
         "header__4": {
           "content": "Kielivalitsin",
-          "info": "Lisää kieli siirtymällä [kieliasetuksiisi.](/admin/settings/languages)"
+          "info": "Lisää kieli siirtymällä [kieliasetuksiisi.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Ota kielivalitsin käyttöön"
@@ -661,7 +661,7 @@
       "settings": {
         "custom_liquid": {
           "label": "Liquid-koodi",
-          "info": "Luo vaativampia mukautuksia lisäämällä sovelluksen koodinpätkiä tai muita koodeja. [Lisätietoja](https://shopify.dev/docs/api/liquid)"
+          "info": "Luo vaativampia mukautuksia lisäämällä sovelluksen koodinpätkiä tai muita koodeja. [Lisätietoja](https:\/\/shopify.dev\/docs\/api\/liquid)"
         }
       },
       "presets": {
@@ -834,14 +834,14 @@
           "name": "Bränditiedot",
           "settings": {
             "paragraph": {
-              "content": "Bränditietosi näkyvät tässä lohkossa. [Muokkaa bränditietoja.](/editor?context=theme&category=brand%20information)"
+              "content": "Bränditietosi näkyvät tässä lohkossa. [Muokkaa bränditietoja.](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "Some-kuvakkeet"
             },
             "show_social": {
               "label": "Näytä some-kuvakkeet",
-              "info": "Jos haluat näyttää sosiaalisen median tilisi, linkitä ne [teema-asetuksistasi](/editor?context=theme&category=social%20media)."
+              "info": "Jos haluat näyttää sosiaalisen median tilisi, linkitä ne [teema-asetuksistasi](\/editor?context=theme&category=social%20media)."
             }
           }
         }
@@ -859,7 +859,7 @@
         },
         "header__2": {
           "content": "Some-kuvakkeet",
-          "info": "Jos haluat näyttää sosiaalisen median tilisi, linkitä ne [teema-asetuksistasi](/editor?context=theme&category=social%20media)."
+          "info": "Jos haluat näyttää sosiaalisen median tilisi, linkitä ne [teema-asetuksistasi](\/editor?context=theme&category=social%20media)."
         },
         "show_social": {
           "label": "Näytä some-kuvakkeet"
@@ -900,7 +900,7 @@
         },
         "header__9": {
           "content": "Seuraa Shopissa",
-          "info": "Shop Pay on otettava käyttöön, jotta asiakkaat voivat seurata kauppaasi Shop-sovelluksessa myyntipaikkasi kautta. [Lisätietoja](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Shop Pay on otettava käyttöön, jotta asiakkaat voivat seurata kauppaasi Shop-sovelluksessa myyntipaikkasi kautta. [Lisätietoja](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Ota Seuraa Shopissa käyttöön"
@@ -978,19 +978,19 @@
           }
         },
         "header__3": {
-          "content": "Maa-/aluevalitsin"
+          "content": "Maa-\/aluevalitsin"
         },
         "header__4": {
-          "info": "Lisää maa/alue siirtymällä [markkina-asetuksiisi.](/admin/settings/markets)"
+          "info": "Lisää maa\/alue siirtymällä [markkina-asetuksiisi.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Ota käyttöön maa-/aluevalitsin"
+          "label": "Ota käyttöön maa-\/aluevalitsin"
         },
         "header__5": {
           "content": "Kielivalitsin"
         },
         "header__6": {
-          "info": "Lisää kieli siirtymällä [kieliasetuksiisi.](/admin/settings/languages)"
+          "info": "Lisää kieli siirtymällä [kieliasetuksiisi.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Ota kielivalitsin käyttöön"
@@ -1477,11 +1477,11 @@
         },
         "enable_tags": {
           "label": "Ota suodatus käyttöön",
-          "info": "Mukauta suodattimia Search & Discovery -sovelluksen avulla. [Lisätietoja](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Mukauta suodattimia Search & Discovery -sovelluksen avulla. [Lisätietoja](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "Ota suodatus käyttöön",
-          "info": "Mukauta suodattimia Search & Discovery -sovelluksen avulla. [Lisätietoja](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Mukauta suodattimia Search & Discovery -sovelluksen avulla. [Lisätietoja](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "Ota lajittelu käyttöön"
@@ -1654,11 +1654,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Näytä dynaamiset kassapainikkeet",
-              "info": "Kun käytät kaupallesi saatavilla olevia maksutapoja, asiakkaat näkevät ensisijaisen vaihtoehtonsa, kuten PayPalin tai Apple Payn. [Lisätietoja](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Kun käytät kaupallesi saatavilla olevia maksutapoja, asiakkaat näkevät ensisijaisen vaihtoehtonsa, kuten PayPalin tai Apple Payn. [Lisätietoja](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Näytä lomake lahjakorttien vastaanottajien tietoja varten",
-              "info": "Mahdollistaa sen, että ostajat voivat lähettää lahjakortin ja sen mukaan liitettävän henkilökohtaisen viestin suunniteltuna ajankohtana. [Lisätietoja](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+              "info": "Mahdollistaa sen, että ostajat voivat lähettää lahjakortin ja sen mukaan liitettävän henkilökohtaisen viestin suunniteltuna ajankohtana. [Lisätietoja](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
             }
           }
         },

@@ -480,7 +480,7 @@
         },
         "header__1": {
           "content": "Ikoner for sociale medier",
-          "info": "Hvis du vil vise dine konti på sociale medier, skal du linke dem i dine [temaindstillinger](/editor?context=theme&category=social%20media)."
+          "info": "Hvis du vil vise dine konti på sociale medier, skal du linke dem i dine [temaindstillinger](\/editor?context=theme&category=social%20media)."
         },
         "header__2": {
           "content": "Meddelelser"
@@ -489,15 +489,15 @@
           "label": "Vis ikoner på skrivebordet"
         },
         "header__3": {
-          "content": "Lande-/områdevælger",
-          "info": "Hvis du vil tilføje et land/område, skal du gå til dine [markedsindstillinger.](/admin/settings/markets)"
+          "content": "Lande-\/områdevælger",
+          "info": "Hvis du vil tilføje et land\/område, skal du gå til dine [markedsindstillinger.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Aktivér lande-/områdevælger"
+          "label": "Aktivér lande-\/områdevælger"
         },
         "header__4": {
           "content": "Sprogvælger",
-          "info": "Hvis du vil tilføje et sprog, skal du gå til dine [sprogindstillinger.](/admin/settings/languages)"
+          "info": "Hvis du vil tilføje et sprog, skal du gå til dine [sprogindstillinger.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Aktivér sprogvælger"
@@ -661,7 +661,7 @@
       "settings": {
         "custom_liquid": {
           "label": "Liquid-kode",
-          "info": "Tilføj appkodestykker eller anden kode for at oprette avancerede tilpasninger. [Få mere at vide](https://shopify.dev/docs/api/liquid)"
+          "info": "Tilføj appkodestykker eller anden kode for at oprette avancerede tilpasninger. [Få mere at vide](https:\/\/shopify.dev\/docs\/api\/liquid)"
         }
       },
       "presets": {
@@ -834,14 +834,14 @@
           "name": "Brandoplysninger",
           "settings": {
             "paragraph": {
-              "content": "Denne blok vil vise dine brandoplysninger. (Rediger brandoplysninger.](/editor?context=theme&category=brand%20information)"
+              "content": "Denne blok vil vise dine brandoplysninger. (Rediger brandoplysninger.](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "Ikoner for sociale medier"
             },
             "show_social": {
               "label": "Vis ikoner for sociale medier",
-              "info": "Hvis du vil vise dine konti på sociale medier, skal du linke dem i dine [temaindstillinger](/editor?context=theme&category=social%20media)."
+              "info": "Hvis du vil vise dine konti på sociale medier, skal du linke dem i dine [temaindstillinger](\/editor?context=theme&category=social%20media)."
             }
           }
         }
@@ -859,7 +859,7 @@
         },
         "header__2": {
           "content": "Ikoner for sociale medier",
-          "info": "Hvis du vil vise dine konti på sociale medier, skal du linke dem i dine [temaindstillinger](/editor?context=theme&category=social%20media)."
+          "info": "Hvis du vil vise dine konti på sociale medier, skal du linke dem i dine [temaindstillinger](\/editor?context=theme&category=social%20media)."
         },
         "show_social": {
           "label": "Vis ikoner for sociale medier"
@@ -900,7 +900,7 @@
         },
         "header__9": {
           "content": "Følg på Shop",
-          "info": "Hvis du vil give kunder mulighed for at følge din butik i Shop-appen via din butiksfacade, skal du have aktiveret Shop Pay. [Få mere at vide](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Hvis du vil give kunder mulighed for at følge din butik i Shop-appen via din butiksfacade, skal du have aktiveret Shop Pay. [Få mere at vide](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Aktivér Følg på Shop"
@@ -978,19 +978,19 @@
           }
         },
         "header__3": {
-          "content": "Lande-/områdevælger"
+          "content": "Lande-\/områdevælger"
         },
         "header__4": {
-          "info": "Hvis du vil tilføje et land/område, skal du gå til dine [markedsindstillinger.](/admin/settings/markets)"
+          "info": "Hvis du vil tilføje et land\/område, skal du gå til dine [markedsindstillinger.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Aktivér lande-/områdevælger"
+          "label": "Aktivér lande-\/områdevælger"
         },
         "header__5": {
           "content": "Sprogvælger"
         },
         "header__6": {
-          "info": "Hvis du vil tilføje et sprog, skal du gå til dine [sprogindstillinger.](/admin/settings/languages)"
+          "info": "Hvis du vil tilføje et sprog, skal du gå til dine [sprogindstillinger.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Aktivér sprogvælger"
@@ -1477,11 +1477,11 @@
         },
         "enable_tags": {
           "label": "Aktivér filtrering",
-          "info": "Tilpas filtrene med appen Search & Discovery. [Få mere at vide](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Tilpas filtrene med appen Search & Discovery. [Få mere at vide](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "Aktivér filtrering",
-          "info": "Tilpas filtrene med appen Search & Discovery. [Få mere at vide](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Tilpas filtrene med appen Search & Discovery. [Få mere at vide](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "Aktivér sortering"
@@ -1655,11 +1655,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Vis dynamiske betalingsknapper",
-              "info": "Via de tilgængelige betalingsmetoder i din butik ser kunderne deres foretrukne mulighed, som f.eks. PayPal eller Apple Pay. [Få mere at vide](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Via de tilgængelige betalingsmetoder i din butik ser kunderne deres foretrukne mulighed, som f.eks. PayPal eller Apple Pay. [Få mere at vide](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Vis formularer til modtageroplysninger for gavekort",
-              "info": "Giver købere mulighed for at sende gavekort på en planlagt dato sammen med en personlig besked. [Få mere at vide](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+              "info": "Giver købere mulighed for at sende gavekort på en planlagt dato sammen med en personlig besked. [Få mere at vide](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
             }
           }
         },

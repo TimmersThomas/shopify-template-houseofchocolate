@@ -480,7 +480,7 @@
         },
         "header__1": {
           "content": "SNSのアイコン",
-          "info": "SNSのアカウントを表示するには、[テーマ設定](/editor?context=theme&category=social%20media) でリンクさせてください。"
+          "info": "SNSのアカウントを表示するには、[テーマ設定](\/editor?context=theme&category=social%20media) でリンクさせてください。"
         },
         "header__2": {
           "content": "お知らせ"
@@ -489,15 +489,15 @@
           "label": "デスクトップのアイコンを表示する"
         },
         "header__3": {
-          "content": "国/地域セレクター",
-          "info": "国/地域を追加するには、[マーケット設定](/admin/settings/markets) に移動します"
+          "content": "国\/地域セレクター",
+          "info": "国\/地域を追加するには、[マーケット設定](\/admin\/settings\/markets) に移動します"
         },
         "enable_country_selector": {
-          "label": "国/地域セレクターを有効にする"
+          "label": "国\/地域セレクターを有効にする"
         },
         "header__4": {
           "content": "言語セレクター",
-          "info": "言語を追加するには、[言語設定](/admin/settings/languages) に移動します"
+          "info": "言語を追加するには、[言語設定](\/admin\/settings\/languages) に移動します"
         },
         "enable_language_selector": {
           "label": "言語セレクターを有効にする"
@@ -661,7 +661,7 @@
       "settings": {
         "custom_liquid": {
           "label": "Liquidコード",
-          "info": "アプリのスニペットやその他のコードを追加して、高度なカスタマイズを作成します。[詳しくはこちら](https://shopify.dev/docs/api/liquid)"
+          "info": "アプリのスニペットやその他のコードを追加して、高度なカスタマイズを作成します。[詳しくはこちら](https:\/\/shopify.dev\/docs\/api\/liquid)"
         }
       },
       "presets": {
@@ -834,14 +834,14 @@
           "name": "ブランド情報",
           "settings": {
             "paragraph": {
-              "content": "このブロックにはブランド情報が表示されます。[ブランド情報を編集します。](/editor?context=theme&category=brand%20information)"
+              "content": "このブロックにはブランド情報が表示されます。[ブランド情報を編集します。](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "SNSのアイコン"
             },
             "show_social": {
               "label": "SNSのアイコンを表示する",
-              "info": "SNSのアカウントを表示するには、[テーマ設定](/editor?context=theme&category=social%20media) で連携させます。"
+              "info": "SNSのアカウントを表示するには、[テーマ設定](\/editor?context=theme&category=social%20media) で連携させます。"
             }
           }
         }
@@ -859,7 +859,7 @@
         },
         "header__2": {
           "content": "SNSのアイコン",
-          "info": "SNSのアカウントを表示するには、[テーマ設定](/editor?context=theme&category=social%20media) で連携させます。"
+          "info": "SNSのアカウントを表示するには、[テーマ設定](\/editor?context=theme&category=social%20media) で連携させます。"
         },
         "show_social": {
           "label": "SNSのアイコンを表示する"
@@ -900,7 +900,7 @@
         },
         "header__9": {
           "content": "Shopでフォロー",
-          "info": "お客様がストアフロントからShopアプリでストアをフォローできるようにするには、Shop Payを有効にする必要があります。[詳しくはこちら](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "お客様がストアフロントからShopアプリでストアをフォローできるようにするには、Shop Payを有効にする必要があります。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Shopでフォローを有効にする"
@@ -978,19 +978,19 @@
           }
         },
         "header__3": {
-          "content": "国/地域セレクター"
+          "content": "国\/地域セレクター"
         },
         "header__4": {
-          "info": "国/地域を追加するには、[マーケット設定](/admin/settings/markets) に移動します"
+          "info": "国\/地域を追加するには、[マーケット設定](\/admin\/settings\/markets) に移動します"
         },
         "enable_country_selector": {
-          "label": "国/地域セレクターを有効にする"
+          "label": "国\/地域セレクターを有効にする"
         },
         "header__5": {
           "content": "言語セレクター"
         },
         "header__6": {
-          "info": "言語を追加するには、[言語設定](/admin/settings/languages) に移動します"
+          "info": "言語を追加するには、[言語設定](\/admin\/settings\/languages) に移動します"
         },
         "enable_language_selector": {
           "label": "言語セレクターを有効にする"
@@ -1480,11 +1480,11 @@
         },
         "enable_tags": {
           "label": "絞り込みを有効にする",
-          "info": "Search & Discoveryアプリを使用すると、絞り込みをカスタマイズできます。[詳しくはこちら](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Search & Discoveryアプリを使用すると、絞り込みをカスタマイズできます。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "絞り込みを有効にする",
-          "info": "Search & Discoveryアプリを使用すると、絞り込みをカスタマイズできます。[詳しくはこちら](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Search & Discoveryアプリを使用すると、絞り込みをカスタマイズできます。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "並べ替えを有効にする"
@@ -1645,11 +1645,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "動的チェックアウトボタンを表示する",
-              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[もっと詳しく](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[もっと詳しく](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "ギフトカードの受取人情報フォームを表示する",
-              "info": "購入者は、個人的なメッセージとともに、設定した日時にギフトカードを送信できます。[詳しくはこちら](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+              "info": "購入者は、個人的なメッセージとともに、設定した日時にギフトカードを送信できます。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
             }
           },
           "name": "購入ボタン"

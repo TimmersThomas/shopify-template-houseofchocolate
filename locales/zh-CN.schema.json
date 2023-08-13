@@ -480,7 +480,7 @@
         },
         "header__1": {
           "content": "社交媒体图标",
-          "info": "若要显示您的社交媒体账户，请在 [模板设置](/editor?context=theme&category=social%20media) 中添加其链接。"
+          "info": "若要显示您的社交媒体账户，请在 [模板设置](\/editor?context=theme&category=social%20media) 中添加其链接。"
         },
         "header__2": {
           "content": "公告"
@@ -489,15 +489,15 @@
           "label": "在桌面上显示图标"
         },
         "header__3": {
-          "content": "国家/地区选择器",
-          "info": "若要添加国家/地区，请转到 [市场设置](/admin/settings/markets)。"
+          "content": "国家\/地区选择器",
+          "info": "若要添加国家\/地区，请转到 [市场设置](\/admin\/settings\/markets)。"
         },
         "enable_country_selector": {
-          "label": "启用国家/地区选择器"
+          "label": "启用国家\/地区选择器"
         },
         "header__4": {
           "content": "语言选择器",
-          "info": "若要添加语言，请转到您的 [语言设置](/admin/settings/languages)。"
+          "info": "若要添加语言，请转到您的 [语言设置](\/admin\/settings\/languages)。"
         },
         "enable_language_selector": {
           "label": "启用语言选择器"
@@ -661,7 +661,7 @@
       "settings": {
         "custom_liquid": {
           "label": "Liquid 代码",
-          "info": "添加应用代码片段或其他代码以创建高级自定义。[了解详细信息](https://shopify.dev/docs/api/liquid)"
+          "info": "添加应用代码片段或其他代码以创建高级自定义。[了解详细信息](https:\/\/shopify.dev\/docs\/api\/liquid)"
         }
       },
       "presets": {
@@ -834,14 +834,14 @@
           "name": "品牌信息",
           "settings": {
             "paragraph": {
-              "content": "此块将显示您的品牌信息。[编辑品牌信息。](/editor?context=theme&category=brand%20information)"
+              "content": "此块将显示您的品牌信息。[编辑品牌信息。](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "社交媒体图标"
             },
             "show_social": {
               "label": "显示社交媒体图标",
-              "info": "若要显示您的社交媒体账户，请在 [模板设置](/editor?context=theme&category=social%20media) 中添加其链接。"
+              "info": "若要显示您的社交媒体账户，请在 [模板设置](\/editor?context=theme&category=social%20media) 中添加其链接。"
             }
           }
         }
@@ -859,7 +859,7 @@
         },
         "header__2": {
           "content": "社交媒体图标",
-          "info": "若要显示您的社交媒体账户，请在 [模板设置](/editor?context=theme&category=social%20media) 中添加其链接。"
+          "info": "若要显示您的社交媒体账户，请在 [模板设置](\/editor?context=theme&category=social%20media) 中添加其链接。"
         },
         "show_social": {
           "label": "显示社交媒体图标"
@@ -900,7 +900,7 @@
         },
         "header__9": {
           "content": "在 Shop 中关注",
-          "info": "若要使客户能够通过您的店面在 Shop 应用中关注您的商店，则必须启用 Shop Pay。[了解详细信息](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "若要使客户能够通过您的店面在 Shop 应用中关注您的商店，则必须启用 Shop Pay。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "启用在 Shop 中关注"
@@ -978,19 +978,19 @@
           }
         },
         "header__3": {
-          "content": "国家/地区选择器"
+          "content": "国家\/地区选择器"
         },
         "header__4": {
-          "info": "若要添加国家/地区，请转到 [市场设置](/admin/settings/markets)。"
+          "info": "若要添加国家\/地区，请转到 [市场设置](\/admin\/settings\/markets)。"
         },
         "enable_country_selector": {
-          "label": "启用国家/地区选择器"
+          "label": "启用国家\/地区选择器"
         },
         "header__5": {
           "content": "语言选择器"
         },
         "header__6": {
-          "info": "若要添加语言，请转到您的 [语言设置](/admin/settings/languages)。"
+          "info": "若要添加语言，请转到您的 [语言设置](\/admin\/settings\/languages)。"
         },
         "enable_language_selector": {
           "label": "启用语言选择器"
@@ -1480,11 +1480,11 @@
         },
         "enable_tags": {
           "label": "启用筛选",
-          "info": "使用 Search & Discovery 应用自定义筛选条件。[了解详细信息](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "使用 Search & Discovery 应用自定义筛选条件。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "启用筛选",
-          "info": "使用 Search & Discovery 应用自定义筛选条件。[了解详细信息](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "使用 Search & Discovery 应用自定义筛选条件。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "启用排序"
@@ -1645,11 +1645,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "显示动态结账按钮",
-              "info": "通过使用您商店中提供的付款方式，客户会看到他们的首选付款方式，例如 PayPal 或 Apple Pay。[了解详细信息](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "通过使用您商店中提供的付款方式，客户会看到他们的首选付款方式，例如 PayPal 或 Apple Pay。[了解详细信息](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "显示礼品卡的收件人信息表单",
-              "info": "允许客户在预定日期发送礼品卡并附加私人消息。[了解详细信息](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+              "info": "允许客户在预定日期发送礼品卡并附加私人消息。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
             }
           },
           "name": "Buy Button"

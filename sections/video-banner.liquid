@@ -20,25 +20,6 @@
 }
 {% endschema %}
 {% stylesheet %}
-
-
-  @media screen and (max-width: 749px) {
-    .video-wrapper{
-      padding-bottom: 34rem;
-    }
-  }
-
-  @media screen and (min-width: 750px) and (max-width: 989px) {
-    .video-wrapper{
-      padding-bottom: 56rem;
-    }
-  }
-
-  @media screen and (min-width: 990px) {
-    .video-wrapper{
-      padding-bottom: 56rem;
-    }
-  }
   .video-wrapper {
     /* Telling our absolute positioned video to 
     be relative to this element */
@@ -67,6 +48,23 @@
     position: absolute;
     top: 0;
     left: 0;
+  }
+  @media screen and (max-width: 749px) {
+    .video-wrapper{
+      padding-bottom: 34rem;
+    }
+  }
+
+  @media screen and (min-width: 750px) and (max-width: 989px) {
+    .video-wrapper{
+      padding-bottom: 56rem;
+    }
+  }
+
+  @media screen and (min-width: 990px) {
+    .video-wrapper{
+      padding-bottom: 56rem;
+    }
   }
 {% endstylesheet %}
 

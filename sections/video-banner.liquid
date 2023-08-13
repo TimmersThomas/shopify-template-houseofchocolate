@@ -8,11 +8,6 @@
   },
   "settings": [
   {
-    "type": "video",
-    "id": "video",
-    "label": "Desktop video"
-  },
-  {
     "type": "image_picker",
     "id": "cover_image",
     "label": "Cover image"
@@ -55,28 +50,19 @@ width: auto; height: 100%; } }
   endif
 -%}
 
-<div class="video-wrapper">
+<div class="banner banner--content-align-center banner--content-align-mobile-center banner--medium banner--mobile-bottom video-wrapper">
   <video
     class="full-width-video"
     id="hero-video"
+    alt-description="{{ video_alt }}"
     playsinline
     muted
     loop
     autoplay
-    poster="https://cdn.shopify.com/s/files/1/0427/1217/0661/files/HOUSE_OF_CHOCOLAT_banner.png?v=1691945417"
+    poster="{{ poster }}"
     data-src-mobile="https://cdn.shopify.com/videos/c/o/v/298700b26b0149c98919737d206abb34.mp4"
     data-src-desktop="https://cdn.shopify.com/videos/c/o/v/d3cbca5fadca4f7badcc2f0779f11392.mp4"
   >
     <div class="video-error">Uhoh, no video for you.</div>
   </video>
-
-  {{
-    section.settings.video
-    | video_tag:
-      image_size: '1100x',
-      autoplay: true,
-      loop: true,
-      controls: false,
-      muted: true
-  }}
 </div>

@@ -9,12 +9,7 @@
   "settings": [
   {
     "type": "video",
-    "id": "mobile_video",
-    "label": "Mobile video"
-  },
-  {
-    "type": "video",
-    "id": "desktop_video",
+    "id": "video",
     "label": "Desktop video"
   },
   {
@@ -37,7 +32,7 @@ width: auto; height: 100%; } }
 {% javascript %}
   const DESKTOP_BREAKPOINT = 480;
   window.addEventListener("load",function() {
-    let heroVideoEl = document.getElementByID("hero-video");
+    let heroVideoEl = document.getElementById("hero-video");
     let heroVideoSrc = heroVideoEl.dataset.srcMobile
     let viewportWidth = window.innerWidth;
     if (viewportWidth >= DESKTOP_BREAKPOINT) {
@@ -46,6 +41,19 @@ width: auto; height: 100%; } }
     heroVideoEl.src = heroVideoSrc;
   })
 {% endjavascript %}
+
+{%- liquid
+  assign video_id = section.settings.video.id | default: section.settings.video_url.id
+  assign video_alt = section.settings.video.alt | default: section.settings.alt
+  assign poster = section.settings.video.preview_image | default: section.settings.cover_image
+
+  if section.settings.video != null
+    assign ratio_diff = section.settings.video.aspect_ratio | minus: poster.aspect_ratio | abs
+    if ratio_diff < 0.01 and ratio_diff > 0
+      assign fix_ratio = true
+    endif
+  endif
+-%}
 
 <div class="video-wrapper">
   <video
@@ -61,4 +69,14 @@ width: auto; height: 100%; } }
   >
     <div class="video-error">Uhoh, no video for you.</div>
   </video>
+
+  {{
+    section.settings.video
+    | video_tag:
+      image_size: '1100x',
+      autoplay: true,
+      loop: true,
+      controls: false,
+      muted: true
+  }}
 </div>

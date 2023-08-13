@@ -1,12 +1,64 @@
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Video banner",
+    "settings": [
+    {
+      "type": "video",
+      "id": "mobile_video",
+      "label": "Mobile video"
+    },
+    {
+      "type": "video",
+      "id": "desktop_video",
+      "label": "Desktop video"
+    },
+    {
+      "type": "image_picker",
+      "id": "cover_image",
+      "label": "Cover image"
+    },
+    {
+      "type": "text",
+      "id": "alt",
+      "label": "ALT text"
+    }]
   }
 {% endschema %}
-
+  @media (min-aspect-ratio: 16/9) {
+    video {
+      width: 100%;
+      height: auto;
+    }
+  }
+  @media (max-aspect-ratio: 16/9) {
+    video {
+      width: auto;
+      height: 100%;
+    }
+  }
 {% stylesheet %}
 {% endstylesheet %}
 
 {% javascript %}
+  const DESKTOP_BREAKPOINT = 480;
+  window.addEventListener("load",function() {
+    let heroVideoEl = document.getElementByID("hero-video");
+    let heroVideoSrc = heroVideoEl.dataset.srcMobile
+    let viewportWidth = window.innerWidth;
+    if (viewportWidth >= DESKTOP_BREAKPOINT) {
+      heroVideoSrc = heroVideoEl.dataset.srcDesktop;
+    }
+    heroVideoEl.src = heroVideoSrc;
+  })
 {% endjavascript %}
+
+
+<div class="video-wrapper">
+  <video class="full-width-video" id="hero-video"
+    playsinline muted loop autoplay
+    poster="https://cdn.shopify.com/s/files/1/0427/1217/0661/files/HOUSE_OF_CHOCOLAT_banner.png?v=1691945417"
+    data-src-mobile="https://cdn.shopify.com/videos/c/o/v/298700b26b0149c98919737d206abb34.mp4"
+    data-src-desktop="https://cdn.shopify.com/videos/c/o/v/d3cbca5fadca4f7badcc2f0779f11392.mp4">
+      <div class="video-error">Uhoh, no video for you.</div>
+  </video>
+</div>

@@ -20,35 +20,35 @@
 }
 {% endschema %}
 {% stylesheet %}
-.video-wrapper {
-  /* Telling our absolute positioned video to 
-  be relative to this element */
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
+  .video-wrapper {
+    /* Telling our absolute positioned video to 
+    be relative to this element */
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
 
-  /* Will not allow the video to overflow the 
-  container */
-  overflow: hidden;
+    /* Will not allow the video to overflow the 
+    container */
+    overflow: hidden;
 
-  /* Centering the container's content vertically 
-  and horizontally */
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+    /* Centering the container's content vertically 
+    and horizontally */
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
-.video-wrapper video {
-  /** Simulationg background-size: cover */
-  object-fit: cover;
-  height: 100%;
-  width: 100%;
+  .video-wrapper video {
+    /** Simulationg background-size: cover */
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
 
-  position: absolute;
-  top: 0;
-  left: 0;
-}
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
 {% endstylesheet %}
 
 {% javascript %}

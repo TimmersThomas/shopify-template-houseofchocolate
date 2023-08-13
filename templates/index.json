@@ -305,6 +305,20 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "c82d6199-334d-4825-a0cb-c6a2c32dfa17": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -315,6 +329,7 @@
     "multi_column",
     "16320368728299bc12",
     "16320415760bd04978",
-    "1632041580fe456b6b"
+    "1632041580fe456b6b",
+    "c82d6199-334d-4825-a0cb-c6a2c32dfa17"
   ]
 }

@@ -22,7 +22,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>House of Chocolate<\/p>",
+            "heading": "House of Chocolate",
             "heading_size": "h1",
             "heading_type": "h1"
           }
@@ -249,7 +249,7 @@
         "16320415760bd04978-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Instagram & Facebook<\/p>",
+            "heading": "Instagram & Facebook",
             "heading_size": "h1",
             "heading_type": "h2"
           }

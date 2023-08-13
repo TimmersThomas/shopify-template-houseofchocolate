@@ -1,4 +1,4 @@
-<style type="text/css">
+{%- style -%}
   @media (min-aspect-ratio: 16/9) {
     video {
       width: 100%;
@@ -11,7 +11,7 @@
       height: 100%;
     }
   }
-</style>
+{%- endstyle -%}
 
 <div class="video-wrapper">
   <video autoplay muted loop playsinline poster="https://cdn.shopify.com/s/files/1/0427/1217/0661/files/HOUSE_OF_CHOCOLAT_banner.png?v=1691945417">
@@ -19,3 +19,16 @@
     <img src="https://cdn.shopify.com/s/files/1/0427/1217/0661/files/HOUSE_OF_CHOCOLAT_banner.png?v=1691945417">
   </video>
 </div>
+
+
+{% schema %}
+{
+  "name": "Video banner",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+  ],
+  "presets": [
+  ]
+}
+{% endschema %}

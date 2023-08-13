@@ -309,7 +309,7 @@
     "c82d6199-334d-4825-a0cb-c6a2c32dfa17": {
       "type": "video",
       "settings": {
-        "heading": "Video",
+        "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",

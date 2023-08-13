@@ -19,8 +19,35 @@
   }]
 }
 {% endschema %}
-@media (min-aspect-ratio: 16/9) { video { width: 100%; height: auto; } } @media (max-aspect-ratio: 16/9) { video {
-width: auto; height: 100%; } }
+.video-wrapper {
+  /* Telling our absolute positioned video to 
+  be relative to this element */
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+
+  /* Will not allow the video to overflow the 
+  container */
+  overflow: hidden;
+
+  /* Centering the container's content vertically 
+  and horizontally */
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.video-wrapper video {
+  /** Simulationg background-size: cover */
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 {% stylesheet %}
 {% endstylesheet %}
 

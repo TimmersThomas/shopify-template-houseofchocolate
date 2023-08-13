@@ -16,21 +16,6 @@
         "show_text_below": true
       }
     },
-    "ec6c21f9-17ac-4d3d-94a6-8c2e04f9c72b": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/HOUSE_OF_CHOCOLAT trimmed - 1080p.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {

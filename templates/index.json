@@ -145,7 +145,7 @@
         "1632036836510295f8-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/zeevruchten-banner.jpg",
+        "image": "shopify:\/\/shop_images\/zeevruchten-banner-web-optimized.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -237,7 +237,7 @@
         "16320368728299bc12-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pralinevorm-banner.jpg",
+        "image": "shopify:\/\/shop_images\/pralinevorm-banner-web-optimized.jpg",
         "image_overlay_opacity": 20,
         "image_height": "small",
         "desktop_content_position": "middle-center",

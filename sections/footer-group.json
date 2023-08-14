@@ -5,32 +5,32 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "8f8a8b1a-94a9-419f-8739-532154ce8fa3": {
+          "type": "text",
+          "settings": {
+            "heading": "Atelier",
+            "subtext": "<p>Sint-Gillisstraat 31, 9170 De Klinge<\/p><p><strong>di - vrij:<\/strong> 10 tot 12 uur \/ 13 tot 17 uur<br\/><strong>zat:<\/strong> 9 tot 16 uur<\/p><p>Onze <a href=\"https:\/\/houseofchocolate.be\/pages\/verkooppunten\" title=\"De House of chocolate verkooppunten\">andere verkooppunten<\/a>.<\/p>"
+          }
+        },
+        "footer-2": {
+          "type": "text",
+          "settings": {
+            "heading": "Contactgegevens",
+            "subtext": "<p><strong>E-mail:<\/strong> <a href=\"mailto:info@houseofchocolate.be\">info@houseofchocolate.be<\/a><br\/><strong>Quinten:<\/strong> +32 487 77 67 96<br\/><strong>Loïc:<\/strong> +32 472 80 64 81<\/p><p><strong>Ondernemingsnummer: <\/strong>BE 0771.454.955<\/p>"
+          }
+        },
         "footer-1": {
           "type": "link_list",
           "settings": {
             "heading": "",
             "menu": "footer"
           }
-        },
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-          }
-        },
-        "8f8a8b1a-94a9-419f-8739-532154ce8fa3": {
-          "type": "text",
-          "settings": {
-            "heading": "Heading",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-          }
         }
       },
       "block_order": [
-        "footer-1",
+        "8f8a8b1a-94a9-419f-8739-532154ce8fa3",
         "footer-2",
-        "8f8a8b1a-94a9-419f-8739-532154ce8fa3"
+        "footer-1"
       ],
       "settings": {
         "color_scheme": "background-1",

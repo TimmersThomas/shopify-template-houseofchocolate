@@ -3,6 +3,7 @@
     "c82d6199-334d-4825-a0cb-c6a2c32dfa17": {
       "type": "video-banner",
       "settings": {
+        "cover_image": "shopify:\/\/shop_images\/HOUSE_OF_CHOCOLAT_banner.png",
         "alt": ""
       }
     },

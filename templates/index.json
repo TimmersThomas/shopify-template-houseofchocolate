@@ -3,7 +3,6 @@
     "c82d6199-334d-4825-a0cb-c6a2c32dfa17": {
       "type": "video-banner",
       "settings": {
-        "cover_image": "shopify:\/\/shop_images\/HOUSE_OF_CHOCOLAT_banner.png",
         "alt": ""
       }
     },
@@ -148,7 +147,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/zeevruchten-banner.jpg",
         "image_overlay_opacity": 30,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",

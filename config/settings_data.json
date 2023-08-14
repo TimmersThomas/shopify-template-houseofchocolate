@@ -112,7 +112,7 @@
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
-    "show_cart_note": false,
+    "show_cart_note": true,
     "cart_drawer_collection": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/Logo_House-of-Chocolate_Shopify.png",
     "checkout_logo_position": "center",

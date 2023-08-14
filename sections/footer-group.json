@@ -19,18 +19,18 @@
             "subtext": "<p><strong>E-mail:<\/strong> <a href=\"mailto:info@houseofchocolate.be\">info@houseofchocolate.be<\/a><br\/><strong>Quinten:<\/strong> +32 487 77 67 96<br\/><strong>Loïc:<\/strong> +32 472 80 64 81<\/p><p><strong>Ondernemingsnummer: <\/strong>BE 0771.454.955<\/p>"
           }
         },
-        "footer-1": {
-          "type": "link_list",
+        "bb72198f-b965-40f0-9acb-0209ba7f2046": {
+          "type": "text",
           "settings": {
             "heading": "",
-            "menu": "footer"
+            "subtext": "<p><a href=\"https:\/\/houseofchocolate.be\/policies\/terms-of-service\" title=\"Terms of Service\">Algemene voorwaarden<\/a><br\/><a href=\"https:\/\/houseofchocolate.be\/policies\/shipping-policy\" title=\"Shipping Policy\">Levering<\/a><br\/><a href=\"https:\/\/houseofchocolate.be\/policies\/privacy-policy\" title=\"Privacy Policy\">Privacybeleid<\/a><\/p>"
           }
         }
       },
       "block_order": [
         "8f8a8b1a-94a9-419f-8739-532154ce8fa3",
         "footer-2",
-        "footer-1"
+        "bb72198f-b965-40f0-9acb-0209ba7f2046"
       ],
       "settings": {
         "color_scheme": "background-1",

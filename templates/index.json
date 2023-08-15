@@ -197,6 +197,9 @@
         "column2",
         "column3"
       ],
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
       "settings": {
         "title": "Een greep uit ons assortiment",
         "heading_size": "h1",

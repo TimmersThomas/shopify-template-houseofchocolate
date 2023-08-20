@@ -14,7 +14,7 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Chocolates<\/p>",
+            "heading": "Chocolates",
             "heading_size": "h1",
             "heading_type": "h1"
           }
@@ -107,7 +107,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_9583-1.jpg",
             "title": "",
-            "text": "<p><strong>seasonal chocolate<\/strong><br\/>milk chocolate • pecan nut praliné • vanilla caramel<\/p>",
+            "text": "<p><strong>seasonal chocolate<\/strong><br\/>milk chocolate • crunchy caramel praline<\/p>",
             "link_label": "",
             "link": ""
           }

@@ -97,15 +97,6 @@
             "link": ""
           }
         },
-        "16320766043362771c-1": {
-          "type": "column",
-          "settings": {
-            "title": "Groenten en fruit De Vershoeve",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/dMshA7WjY1SfTtxL7\" target=\"_blank\" title=\"Groenten en fruit De Vershoeve\">Loeverstraat 17B<\/a><br\/>9170 Sint-Gillis-Waas<br\/><em>Enkel pralines<\/em><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "6f5c96c3-a637-42bc-b821-cb477fa8fa2d": {
           "type": "column",
           "settings": {
@@ -114,12 +105,41 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "0c2e0c35-e8a1-4e38-a3fe-303de70a8a63": {
+          "type": "column",
+          "settings": {
+            "title": "Brood en Banket De Wit",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\">Alfons Heulensstraat 5<\/a><br\/>2900 Schoten<br\/><em>Pralines (losse verkoop)<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2b2328f3-4175-4dc9-b446-6802a437d506": {
+          "type": "column",
+          "settings": {
+            "title": "Bakkerij De Schutter",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\">Kerkplaats 20<\/a><br\/>2160 Wommelgem<br\/><em>Enkel pralines (voorverpakt)<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b49cd184-a311-45e2-83fe-5f10ead9658b": {
+          "type": "column",
+          "settings": {
+            "title": "Hotel O Antwerpen Kathedral",
+            "text": "<p><a href=\"https:\/\/g.page\/hotelokathedral?share\" target=\"_blank\" title=\"https:\/\/g.page\/hotelokathedral?share\">Handschoenmarkt 3\/5<\/a><br\/>2000 Antwerpen<br\/><em>Volledig assortiment (behalve chocobombs)<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "16320766043362771c-0",
-        "16320766043362771c-1",
-        "6f5c96c3-a637-42bc-b821-cb477fa8fa2d"
+        "6f5c96c3-a637-42bc-b821-cb477fa8fa2d",
+        "0c2e0c35-e8a1-4e38-a3fe-303de70a8a63",
+        "2b2328f3-4175-4dc9-b446-6802a437d506",
+        "b49cd184-a311-45e2-83fe-5f10ead9658b"
       ],
       "settings": {
         "title": "België",
@@ -135,59 +155,6 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1646163349aa603e31": {
-      "type": "multicolumn",
-      "blocks": {
-        "1646163349705f6bac-0": {
-          "type": "column",
-          "settings": {
-            "title": "Brood en Banket De Wit",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\">Alfons Heulensstraat 5<\/a><br\/>2900 Schoten<br\/><em>Pralines (losse verkoop)<\/em><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1646163349705f6bac-1": {
-          "type": "column",
-          "settings": {
-            "title": "Bakkerij De Schutter",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\">Kerkplaats 20<\/a><br\/>2160 Wommelgem<br\/><em>Enkel pralines (voorverpakt)<\/em><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1646163349705f6bac-2": {
-          "type": "column",
-          "settings": {
-            "title": "Hotel O Antwerpen Kathedral",
-            "text": "<p><a href=\"https:\/\/g.page\/hotelokathedral?share\" target=\"_blank\" title=\"https:\/\/g.page\/hotelokathedral?share\">Handschoenmarkt 3\/5<\/a><br\/>2000 Antwerpen<br\/><em>Volledig assortiment (behalve chocobombs)<\/em><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1646163349705f6bac-0",
-        "1646163349705f6bac-1",
-        "1646163349705f6bac-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 8,
         "padding_bottom": 36
       }
     },
@@ -250,7 +217,6 @@
     "16320600814adb4ea3",
     "16320765702f909df3",
     "16320766043362771c",
-    "1646163349aa603e31",
     "16320767144b0c2feb"
   ]
 }

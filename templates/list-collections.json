@@ -17,7 +17,7 @@
         "template--15123146047653__f85ba68d-9a67-41e9-8213-a9782df8ed7b-1665998250e32152c1-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Shop<\/p>",
+            "heading": "Shop",
             "heading_size": "h1",
             "heading_type": "h1"
           }
@@ -79,6 +79,12 @@
           "settings": {
             "collection": "ontbijt"
           }
+        },
+        "4604ac4d-13a7-4e1a-afab-95273d13e83c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cadeaubonnen"
+          }
         }
       },
       "block_order": [
@@ -88,7 +94,8 @@
         "9971c18e-dfaf-47f7-a766-d920ce24650b",
         "f252786e-daa7-47f8-8e5e-1acefc21aa7c",
         "16c881fc-b88c-4338-bce8-861430b11fe2",
-        "d40575f2-902c-4fc6-a1f8-e6eea0a848dd"
+        "d40575f2-902c-4fc6-a1f8-e6eea0a848dd",
+        "4604ac4d-13a7-4e1a-afab-95273d13e83c"
       ],
       "settings": {
         "title": "",

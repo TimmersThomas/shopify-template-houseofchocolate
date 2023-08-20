@@ -14,7 +14,7 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Verkooppunten<\/p>",
+            "heading": "Verkooppunten",
             "heading_size": "h1",
             "heading_type": "h1"
           }
@@ -145,7 +145,7 @@
           "type": "column",
           "settings": {
             "title": "Brood en Banket De Wit",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\">Alfons Heulensstraat 5<\/a><br\/>2900 Schoten<br\/><em>Pralines, chocobombs<\/em><\/p>",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\">Alfons Heulensstraat 5<\/a><br\/>2900 Schoten<br\/><em>Pralines (losse verkoop)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -154,7 +154,7 @@
           "type": "column",
           "settings": {
             "title": "Bakkerij De Schutter",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\">Kerkplaats 20<\/a><br\/>2160 Wommelgem<br\/><em>Enkel pralines<\/em><\/p>",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\">Kerkplaats 20<\/a><br\/>2160 Wommelgem<br\/><em>Enkel pralines (voorv<\/em><\/p>",
             "link_label": "",
             "link": ""
           }

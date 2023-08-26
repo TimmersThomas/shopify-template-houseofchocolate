@@ -14,20 +14,36 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Chocolates",
+            "heading": "Assortment",
             "heading_size": "h1",
             "heading_type": "h1"
+          }
+        },
+        "2360891d-7fa4-4633-aabb-ef1b11c59e89": {
+          "type": "text",
+          "settings": {
+            "text": "<p>(<a href=\"\/pages\/pralines\" title=\"De House of Chocolate pralines\">Nederlandse versie van deze pagina<\/a>)<\/p>"
+          }
+        },
+        "5a2ab8ae-b3ae-47c6-8f85-c919b8ea075e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Chocolates",
+            "heading_size": "h2",
+            "heading_type": "h2"
           }
         },
         "16320600814adb4ea3-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/products\/pralines\" title=\"Pralines\">Our boxes<\/a> (linked page is written in Dutch) contains a mix of the chocolates below.<\/p><p>(<a href=\"\/pages\/pralines\" title=\"De House of Chocolate pralines\">Nederlandse versie van deze pagina<\/a>)<\/p>"
+            "text": "<p><a href=\"\/products\/pralines\" title=\"Pralines\">Our boxes<\/a> (linked page is written in Dutch) contains a mix of the chocolates below.<\/p>"
           }
         }
       },
       "block_order": [
         "16320600814adb4ea3-0",
+        "2360891d-7fa4-4633-aabb-ef1b11c59e89",
+        "5a2ab8ae-b3ae-47c6-8f85-c919b8ea075e",
         "16320600814adb4ea3-1"
       ],
       "settings": {
@@ -137,7 +153,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_8524-2.jpg",
             "title": "",
-            "text": "<p>milk chocolate • homemade coffee praliné<br\/><em>(vegan chocolate)<\/em><\/p>",
+            "text": "<p>milk chocolate • homemade coffee praline<br\/><em>(vegan chocolate)<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -259,11 +275,126 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "ec37df7a-6260-4511-84be-bff10fb27a6b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16812357812473__ec37df7a-6260-4511-84be-bff10fb27a6b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bullet truffles",
+            "heading_size": "h2",
+            "heading_type": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16812357812473__ec37df7a-6260-4511-84be-bff10fb27a6b-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c9725e0d-6714-45c4-8593-6ad7499c950d": {
+      "type": "multicolumn",
+      "blocks": {
+        "57d95804-2d21-491f-9291-28b10561c7ea": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9924-1.jpg",
+            "title": "",
+            "text": "<p>dark chocolate • salted sesame praline<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fce85bb8-a920-42e3-9ee3-ceb9ac57f96a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9925-1.jpg",
+            "title": "",
+            "text": "<p>dark chocolate • raspberry fondant<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2f7b87ef-eb0e-4209-b778-cf7c837532bb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9923-1.jpg",
+            "title": "",
+            "text": "<p>milk chocolate • creme brulee<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "afc114fc-3947-497b-b94f-3c884a56ab96": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9926-1.jpg",
+            "title": "",
+            "text": "<p>milk chocolate • Baileys ganache<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "dd56d1f7-25af-4619-a950-9bf9681a1982": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9921-1.jpg",
+            "title": "",
+            "text": "<p>white chocolate • heritage praline<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "91d648a1-c5d2-4e70-a5e1-de76d7aa4029": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9920-1.jpg",
+            "title": "",
+            "text": "<p>white chocolate • lemon yuzu caramel<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "57d95804-2d21-491f-9291-28b10561c7ea",
+        "fce85bb8-a920-42e3-9ee3-ceb9ac57f96a",
+        "2f7b87ef-eb0e-4209-b778-cf7c837532bb",
+        "afc114fc-3947-497b-b94f-3c884a56ab96",
+        "dd56d1f7-25af-4619-a950-9bf9681a1982",
+        "91d648a1-c5d2-4e70-a5e1-de76d7aa4029"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify:\/\/collections\/pralines",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "16320600814adb4ea3",
-    "1632068860fc8a39eb"
+    "1632068860fc8a39eb",
+    "ec37df7a-6260-4511-84be-bff10fb27a6b",
+    "c9725e0d-6714-45c4-8593-6ad7499c950d"
   ]
 }

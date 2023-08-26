@@ -74,7 +74,7 @@
             "title": "",
             "text": "",
             "link_label": "De pralines",
-            "link": "shopify:\/\/pages\/pralines"
+            "link": "shopify:\/\/pages\/assortiment"
           }
         },
         "16320352130e6fa3b0-2": {
@@ -212,7 +212,7 @@
         "column_alignment": "center",
         "background_style": "secondary",
         "button_label": "Bekijk al onze pralines",
-        "button_link": "shopify:\/\/pages\/pralines",
+        "button_link": "shopify:\/\/pages\/assortiment",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -304,7 +304,7 @@
       "type": "apps",
       "blocks": {
         "d01de621-706e-4934-a4c3-fdfb10840233": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
             "feed_width": 100,

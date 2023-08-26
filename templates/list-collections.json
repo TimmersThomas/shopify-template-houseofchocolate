@@ -38,12 +38,6 @@
     "166180048183ec3cbd": {
       "type": "collection-list",
       "blocks": {
-        "8ef794e4-c7cb-4678-92b4-0efe459753bd": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "friscos"
-          }
-        },
         "16618004816477acf1-0": {
           "type": "featured_collection",
           "settings": {
@@ -88,7 +82,6 @@
         }
       },
       "block_order": [
-        "8ef794e4-c7cb-4678-92b4-0efe459753bd",
         "16618004816477acf1-0",
         "16618004816477acf1-1",
         "9971c18e-dfaf-47f7-a766-d920ce24650b",

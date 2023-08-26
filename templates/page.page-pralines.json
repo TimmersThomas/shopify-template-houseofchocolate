@@ -14,20 +14,36 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pralines",
+            "heading": "Assortiment",
             "heading_size": "h1",
             "heading_type": "h1"
+          }
+        },
+        "42337a9d-9b6d-4272-89ad-bb16bdb2ca73": {
+          "type": "text",
+          "settings": {
+            "text": "<p>(<a href=\"\/pages\/chocolates\" title=\"The House of Chocolate chocolates\">English version of this page<\/a>)<\/p>"
+          }
+        },
+        "f2d2da4e-35a7-4a89-9ac3-0858cfec1b34": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pralines",
+            "heading_size": "h2",
+            "heading_type": "h2"
           }
         },
         "16320600814adb4ea3-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/products\/pralines\" title=\"Pralines\">Onze doosjes<\/a> bevatten een mix van onderstaande pralines.<\/p><p>(<a href=\"\/pages\/chocolates\" title=\"The House of Chocolate chocolates\">English version of this page<\/a>)<\/p>"
+            "text": "<p><a href=\"\/products\/pralines\" title=\"Pralines\">Onze doosjes<\/a> bevatten een mix van onderstaande pralines.<\/p>"
           }
         }
       },
       "block_order": [
         "16320600814adb4ea3-0",
+        "42337a9d-9b6d-4272-89ad-bb16bdb2ca73",
+        "f2d2da4e-35a7-4a89-9ac3-0858cfec1b34",
         "16320600814adb4ea3-1"
       ],
       "settings": {
@@ -259,11 +275,126 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "f39ccda2-f51d-420c-b550-e6e5c99c9c0f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15124032356517__f39ccda2-f51d-420c-b550-e6e5c99c9c0f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kogeltruffels",
+            "heading_size": "h2",
+            "heading_type": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--15124032356517__f39ccda2-f51d-420c-b550-e6e5c99c9c0f-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1f7f6a03-27f1-49a7-b8f9-7720c3d543ad": {
+      "type": "multicolumn",
+      "blocks": {
+        "b9b0d4c2-91d2-4860-a4c4-507d4733a75e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9924-1.jpg",
+            "title": "",
+            "text": "<p>pure chocolade • gezouten sesam praliné<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1ad66caa-7ca7-43c0-8ead-a11088aa8835": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9925-1.jpg",
+            "title": "",
+            "text": "<p>pure chocolade • framboos fondant<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "50778c45-a3d6-4b42-ab9f-32b1cbfde2bd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9923-1.jpg",
+            "title": "",
+            "text": "<p>melkchocolade • crème brûlée<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a505b907-a3b9-4df4-9177-7904ede69161": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9926-1.jpg",
+            "title": "",
+            "text": "<p>melkchocolade • Baileys ganache<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "51f33631-fa3c-4215-8b07-df43df0f9377": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9921-1.jpg",
+            "title": "",
+            "text": "<p>witte chocolade • heritage praliné<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d9a2f55a-e6f7-4c26-87d9-9e98fefa436d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9920-1.jpg",
+            "title": "",
+            "text": "<p>witte chocolade • citroen yuzu karamel<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "b9b0d4c2-91d2-4860-a4c4-507d4733a75e",
+        "1ad66caa-7ca7-43c0-8ead-a11088aa8835",
+        "50778c45-a3d6-4b42-ab9f-32b1cbfde2bd",
+        "a505b907-a3b9-4df4-9177-7904ede69161",
+        "51f33631-fa3c-4215-8b07-df43df0f9377",
+        "d9a2f55a-e6f7-4c26-87d9-9e98fefa436d"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify:\/\/collections\/pralines",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "16320600814adb4ea3",
-    "1632068860fc8a39eb"
+    "1632068860fc8a39eb",
+    "f39ccda2-f51d-420c-b550-e6e5c99c9c0f",
+    "1f7f6a03-27f1-49a7-b8f9-7720c3d543ad"
   ]
 }

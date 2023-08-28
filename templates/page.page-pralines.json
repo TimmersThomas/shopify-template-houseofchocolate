@@ -286,10 +286,17 @@
             "heading_size": "h2",
             "heading_type": "h2"
           }
+        },
+        "2adf5214-0dc8-42cb-ab11-a5cafef2b45f": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/kogeltruffels\" title=\"Kogeltruffels\">Onze doosjes<\/a> bevatten een mix van onderstaande kogeltruffels.<\/p>"
+          }
         }
       },
       "block_order": [
-        "template--15124032356517__f39ccda2-f51d-420c-b550-e6e5c99c9c0f-heading-1"
+        "template--15124032356517__f39ccda2-f51d-420c-b550-e6e5c99c9c0f-heading-1",
+        "2adf5214-0dc8-42cb-ab11-a5cafef2b45f"
       ],
       "settings": {
         "desktop_content_position": "center",

@@ -286,10 +286,17 @@
             "heading_size": "h2",
             "heading_type": "h2"
           }
+        },
+        "4a517247-e760-461d-bcda-13a13c302f09": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/kogeltruffels\" title=\"Kogeltruffels\">Our tubes<\/a> (linked page is written in Dutch) contains a mix of the bullet truffles below.<\/p>"
+          }
         }
       },
       "block_order": [
-        "template--16812357812473__ec37df7a-6260-4511-84be-bff10fb27a6b-heading-1"
+        "template--16812357812473__ec37df7a-6260-4511-84be-bff10fb27a6b-heading-1",
+        "4a517247-e760-461d-bcda-13a13c302f09"
       ],
       "settings": {
         "desktop_content_position": "center",

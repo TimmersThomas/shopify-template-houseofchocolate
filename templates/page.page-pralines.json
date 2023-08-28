@@ -276,6 +276,15 @@
         "padding_bottom": 36
       }
     },
+    "a3de2749-5106-48fb-baea-6527aa8ea2ff": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a id=\"kogeltruffels\"> <\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "f39ccda2-f51d-420c-b550-e6e5c99c9c0f": {
       "type": "rich-text",
       "blocks": {
@@ -305,15 +314,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "a3de2749-5106-48fb-baea-6527aa8ea2ff": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<a id=\"kogeltruffels\">-<\/a>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "1f7f6a03-27f1-49a7-b8f9-7720c3d543ad": {
@@ -410,8 +410,8 @@
     "main",
     "16320600814adb4ea3",
     "1632068860fc8a39eb",
-    "f39ccda2-f51d-420c-b550-e6e5c99c9c0f",
     "a3de2749-5106-48fb-baea-6527aa8ea2ff",
+    "f39ccda2-f51d-420c-b550-e6e5c99c9c0f",
     "1f7f6a03-27f1-49a7-b8f9-7720c3d543ad"
   ]
 }

@@ -36,7 +36,7 @@
         "16320600814adb4ea3-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/products\/pralines\" title=\"Pralines\">Our boxes<\/a> (linked page is written in Dutch) contains a mix of the chocolates below.<\/p>"
+            "text": "<p><a href=\"\/products\/pralines\" title=\"Pralines\">Our boxes<\/a> <em>(linked page is written in Dutch)<\/em> contain a mix of the chocolates below.<\/p>"
           }
         }
       },
@@ -290,7 +290,7 @@
         "4a517247-e760-461d-bcda-13a13c302f09": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/products\/kogeltruffels\" title=\"Kogeltruffels\">Our tubes<\/a> (linked page is written in Dutch) contains a mix of the bullet truffles below.<\/p>"
+            "text": "<p><a href=\"\/products\/kogeltruffels\" title=\"Kogeltruffels\">Our tubes<\/a> <em>(linked page is written in Dutch)<\/em> contain a mix of the bullet truffles below.<\/p>"
           }
         }
       },

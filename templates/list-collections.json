@@ -68,12 +68,6 @@
             "collection": "chocobombs"
           }
         },
-        "d40575f2-902c-4fc6-a1f8-e6eea0a848dd": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ontbijt"
-          }
-        },
         "4604ac4d-13a7-4e1a-afab-95273d13e83c": {
           "type": "featured_collection",
           "settings": {
@@ -87,7 +81,6 @@
         "9971c18e-dfaf-47f7-a766-d920ce24650b",
         "849a289c-100a-4ed2-bfe9-bc9f99bca118",
         "16c881fc-b88c-4338-bce8-861430b11fe2",
-        "d40575f2-902c-4fc6-a1f8-e6eea0a848dd",
         "4604ac4d-13a7-4e1a-afab-95273d13e83c"
       ],
       "settings": {

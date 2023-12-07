@@ -38,12 +38,6 @@
     "166180048183ec3cbd": {
       "type": "collection-list",
       "blocks": {
-        "cea03d44-2a3a-4069-b046-fc8d0514c6aa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sinterklaas"
-          }
-        },
         "16618004816477acf1-0": {
           "type": "featured_collection",
           "settings": {
@@ -82,7 +76,6 @@
         }
       },
       "block_order": [
-        "cea03d44-2a3a-4069-b046-fc8d0514c6aa",
         "16618004816477acf1-0",
         "16618004816477acf1-1",
         "9971c18e-dfaf-47f7-a766-d920ce24650b",

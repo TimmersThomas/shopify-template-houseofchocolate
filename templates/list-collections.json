@@ -38,6 +38,12 @@
     "166180048183ec3cbd": {
       "type": "collection-list",
       "blocks": {
+        "2d9b7c18-8827-4f74-bc78-a12f6d184ee0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "eindejaar"
+          }
+        },
         "16618004816477acf1-0": {
           "type": "featured_collection",
           "settings": {
@@ -76,6 +82,7 @@
         }
       },
       "block_order": [
+        "2d9b7c18-8827-4f74-bc78-a12f6d184ee0",
         "16618004816477acf1-0",
         "16618004816477acf1-1",
         "9971c18e-dfaf-47f7-a766-d920ce24650b",

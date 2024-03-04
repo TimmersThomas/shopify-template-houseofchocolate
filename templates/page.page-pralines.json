@@ -408,7 +408,7 @@
     "custom_liquid_V77bHM": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<a id=\"paaseitjes\"><\/a>",
+        "custom_liquid": "<a id=\"paaseitjes\"> <\/a>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0

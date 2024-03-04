@@ -52,7 +52,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 32
       }
     },
     "1632068860fc8a39eb": {
@@ -312,8 +312,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 56,
+        "padding_bottom": 32
       }
     },
     "1f7f6a03-27f1-49a7-b8f9-7720c3d543ad": {
@@ -432,8 +432,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 56,
+        "padding_bottom": 32
       }
     },
     "multicolumn_XtEHkU": {

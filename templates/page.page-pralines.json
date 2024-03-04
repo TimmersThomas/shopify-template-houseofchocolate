@@ -442,9 +442,9 @@
         "column_PtR7pN": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0096-1.jpg",
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0132-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • hazelnoot praliné • zwarte sesam • zout<\/p>",
+            "text": "<p>pure chocolade<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -452,9 +452,9 @@
         "column_UmzJdr": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9925-1.jpg",
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0133-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • framboos fondant<\/p>",
+            "text": "<p>pure chocolade • pistache ganache<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -462,9 +462,9 @@
         "column_hfHBgR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9923-1.jpg",
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0124-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • crème brûlée<\/p>",
+            "text": "<p>pure chocolade • framboos fondant<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -472,9 +472,9 @@
         "column_g6aLrT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9926-1.jpg",
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0130-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • Baileys ganache<\/p>",
+            "text": "<p>pure chocolade • vanille fondant<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -482,9 +482,9 @@
         "column_cz4pyG": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9921-1.jpg",
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0134-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • Héritage praliné<\/p>",
+            "text": "<p>melkchocolade<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -492,9 +492,89 @@
         "column_iqD6m9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9920-1.jpg",
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0129-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • citroen yuzu karamel<\/p>",
+            "text": "<p>melkchocolade • crème brûlée<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tXKnfi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0126-1.jpg",
+            "title": "",
+            "text": "<p>melkchocolade • marsepein met rum<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GLaPpP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0122-1.jpg",
+            "title": "",
+            "text": "<p>melkchocolade • speculaas<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NHTk3X": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0135-1.jpg",
+            "title": "",
+            "text": "<p>witte chocolade<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VHwTDf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0123-1.jpg",
+            "title": "",
+            "text": "<p>witte chocolade • yuzu karamel<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6xrNPR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0128-1.jpg",
+            "title": "",
+            "text": "<p>witte chocolade • praliné • knettersuiker<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_r976xr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0131-1.jpg",
+            "title": "",
+            "text": "<p>gold chocolade<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zPGpGH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0127-1.jpg",
+            "title": "",
+            "text": "<p>gold chocolade • krokante vulling<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7AtyB6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0125-1.jpg",
+            "title": "",
+            "text": "<p>ruby chocolade<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -506,7 +586,15 @@
         "column_hfHBgR",
         "column_g6aLrT",
         "column_cz4pyG",
-        "column_iqD6m9"
+        "column_iqD6m9",
+        "column_tXKnfi",
+        "column_GLaPpP",
+        "column_NHTk3X",
+        "column_VHwTDf",
+        "column_6xrNPR",
+        "column_r976xr",
+        "column_zPGpGH",
+        "column_7AtyB6"
       ],
       "settings": {
         "title": "",

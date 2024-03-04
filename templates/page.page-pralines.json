@@ -404,6 +404,126 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_cDcG8d": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eE7yk8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Paaseitjes",
+            "heading_size": "h2",
+            "heading_type": "h2"
+          }
+        },
+        "text_8RWEmH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/kogeltruffels\" title=\"Kogeltruffels\">Onze kokers<\/a> bevatten een mix van onderstaande kleine paaseitjes.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eE7yk8",
+        "text_8RWEmH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_XtEHkU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PtR7pN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_0096-1.jpg",
+            "title": "",
+            "text": "<p>pure chocolade • hazelnoot praliné • zwarte sesam • zout<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UmzJdr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9925-1.jpg",
+            "title": "",
+            "text": "<p>pure chocolade • framboos fondant<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hfHBgR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9923-1.jpg",
+            "title": "",
+            "text": "<p>melkchocolade • crème brûlée<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_g6aLrT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9926-1.jpg",
+            "title": "",
+            "text": "<p>melkchocolade • Baileys ganache<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cz4pyG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9921-1.jpg",
+            "title": "",
+            "text": "<p>witte chocolade • Héritage praliné<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iqD6m9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_9920-1.jpg",
+            "title": "",
+            "text": "<p>witte chocolade • citroen yuzu karamel<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PtR7pN",
+        "column_UmzJdr",
+        "column_hfHBgR",
+        "column_g6aLrT",
+        "column_cz4pyG",
+        "column_iqD6m9"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Wil je onze paaseitjes kopen?",
+        "button_link": "shopify:\/\/products\/paaseitjes-koker",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -412,6 +532,8 @@
     "1632068860fc8a39eb",
     "a3de2749-5106-48fb-baea-6527aa8ea2ff",
     "f39ccda2-f51d-420c-b550-e6e5c99c9c0f",
-    "1f7f6a03-27f1-49a7-b8f9-7720c3d543ad"
+    "1f7f6a03-27f1-49a7-b8f9-7720c3d543ad",
+    "rich_text_cDcG8d",
+    "multicolumn_XtEHkU"
   ]
 }

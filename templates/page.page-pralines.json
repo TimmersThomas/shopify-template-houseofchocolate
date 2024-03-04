@@ -405,6 +405,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_V77bHM": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a id=\"paaseitjes\"><\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_cDcG8d": {
       "type": "rich-text",
       "blocks": {
@@ -434,15 +443,6 @@
         "full_width": true,
         "padding_top": 56,
         "padding_bottom": 32
-      }
-    },
-    "custom_liquid_V77bHM": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<a id=\"paaseitjes\"><\/a>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "multicolumn_XtEHkU": {
@@ -630,8 +630,8 @@
     "a3de2749-5106-48fb-baea-6527aa8ea2ff",
     "f39ccda2-f51d-420c-b550-e6e5c99c9c0f",
     "1f7f6a03-27f1-49a7-b8f9-7720c3d543ad",
-    "rich_text_cDcG8d",
     "custom_liquid_V77bHM",
+    "rich_text_cDcG8d",
     "multicolumn_XtEHkU"
   ]
 }

@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -93,7 +102,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_9584-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • sinaasganache • amaretto<\/p>",
+            "text": "<p>pure chocolade • sinaasganache • Elixir d'Anvers Triple Sec<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -123,7 +132,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_9919-1.jpg",
             "title": "",
-            "text": "<p><strong>seizoenspraline<\/strong><br\/>melkchocolade • zwarte sesam praliné • gelei van mandarijn<\/p>",
+            "text": "<p><strong>seizoenspraline<\/strong><br\/>pure chocolade • pindapraliné<\/p>",
             "link_label": "",
             "link": ""
           }

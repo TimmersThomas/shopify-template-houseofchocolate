@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -97,15 +106,6 @@
             "link": ""
           }
         },
-        "6f5c96c3-a637-42bc-b821-cb477fa8fa2d": {
-          "type": "column",
-          "settings": {
-            "title": "De Smaakmakers",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/Ytd8K9QpMA7DpyPz7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/Ytd8K9QpMA7DpyPz7\">Grote Baan 62<\/a><br\/>9120 Beveren<br\/><em>Luxe pralinedozen en specials<\/em><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "0c2e0c35-e8a1-4e38-a3fe-303de70a8a63": {
           "type": "column",
           "settings": {
@@ -136,7 +136,6 @@
       },
       "block_order": [
         "16320766043362771c-0",
-        "6f5c96c3-a637-42bc-b821-cb477fa8fa2d",
         "0c2e0c35-e8a1-4e38-a3fe-303de70a8a63",
         "2b2328f3-4175-4dc9-b446-6802a437d506",
         "b49cd184-a311-45e2-83fe-5f10ead9658b"

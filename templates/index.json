@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "c82d6199-334d-4825-a0cb-c6a2c32dfa17": {
@@ -167,9 +176,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8519-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_0249-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • aardbei • munt • vodka (The Holy Spiritus) • marsepein<\/p>",
+            "text": "<p>pure chocolade • aardbei • munt • vodka • marsepein<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -177,9 +186,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8492-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_0233-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella)<\/p>",
+            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella) • amaretto<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -187,7 +196,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8486-1.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_9918-1_433c9145-fda2-4604-9343-a07c50285653.jpg",
             "title": "",
             "text": "<p>melkchocolade • kalamansi • vanille<\/p>",
             "link_label": "",
@@ -306,8 +315,10 @@
         "d01de621-706e-4934-a4c3-fdfb10840233": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "background_color": "",
             "html_area": ""
           }
         }

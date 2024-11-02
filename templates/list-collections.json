@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -47,6 +47,12 @@
     "166180048183ec3cbd": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_7dWkbj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sinterklaas"
+          }
+        },
         "16618004816477acf1-0": {
           "type": "featured_collection",
           "settings": {
@@ -85,6 +91,7 @@
         }
       },
       "block_order": [
+        "featured_collection_7dWkbj",
         "16618004816477acf1-0",
         "16618004816477acf1-1",
         "9971c18e-dfaf-47f7-a766-d920ce24650b",

@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -31,7 +31,7 @@
         "42337a9d-9b6d-4272-89ad-bb16bdb2ca73": {
           "type": "text",
           "settings": {
-            "text": "<p>(<a href=\"\/pages\/chocolates\" title=\"The House of Chocolate chocolates\">English version of this page<\/a>)<\/p>"
+            "text": "<p>(<a href=\"/pages/chocolates\" title=\"The House of Chocolate chocolates\">English version of this page</a>)</p>"
           }
         },
         "f2d2da4e-35a7-4a89-9ac3-0858cfec1b34": {
@@ -45,7 +45,7 @@
         "16320600814adb4ea3-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/products\/pralines\" title=\"Pralines\">Onze doosjes<\/a> bevatten een mix van onderstaande pralines.<\/p>"
+            "text": "<p><a href=\"/products/pralines\" title=\"Pralines\">Onze doosjes</a> bevatten een mix van onderstaande pralines.</p>"
           }
         }
       },
@@ -70,9 +70,9 @@
         "1632068860fc8a39eb-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0249-1.jpg",
+            "image": "shopify://shop_images/DSC_0249-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • aardbei • munt • vodka • marsepein<\/p>",
+            "text": "<p>pure chocolade • aardbei • munt • vodka • marsepein</p>",
             "link_label": "",
             "link": ""
           }
@@ -80,9 +80,9 @@
         "1632068860fc8a39eb-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8495-1_ca72452b-27dc-4b76-afaa-7244b34d1fde.jpg",
+            "image": "shopify://shop_images/DSC_8495-1_ca72452b-27dc-4b76-afaa-7244b34d1fde.jpg",
             "title": "",
-            "text": "<p>pure chocolade • gezouten karamel<\/p>",
+            "text": "<p>pure chocolade • gezouten karamel</p>",
             "link_label": "",
             "link": ""
           }
@@ -90,9 +90,9 @@
         "1632068860fc8a39eb-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8496-1_fe3003e7-ca67-41a6-b92d-63e4425cabac.jpg",
+            "image": "shopify://shop_images/DSC_8496-1_fe3003e7-ca67-41a6-b92d-63e4425cabac.jpg",
             "title": "",
-            "text": "<p>pure chocolade • melkganache • munt<\/p>",
+            "text": "<p>pure chocolade • melkganache • munt</p>",
             "link_label": "",
             "link": ""
           }
@@ -100,9 +100,9 @@
         "a6ac3c09-f8f5-49f2-a5dc-1ca8899c20fc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0229-1.jpg",
+            "image": "shopify://shop_images/DSC_0229-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • sinaasganache • Elixir d'Anvers Triple Sec<\/p>",
+            "text": "<p>pure chocolade • sinaasganache • Elixir d'Anvers Triple Sec</p>",
             "link_label": "",
             "link": ""
           }
@@ -110,9 +110,9 @@
         "d77fd928-cdf6-444e-bd7c-600ec2a0049a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0230-1.jpg",
+            "image": "shopify://shop_images/DSC_0230-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • passievrucht • karamel<\/p>",
+            "text": "<p>pure chocolade • passievrucht • karamel</p>",
             "link_label": "",
             "link": ""
           }
@@ -120,9 +120,9 @@
         "f42f2152-d172-4c2c-89e8-3e32af70f2d8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0243-1.jpg",
+            "image": "shopify://shop_images/DSC_0243-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • mango • saffraan • lavendel<\/p>",
+            "text": "<p>pure chocolade • mango • saffraan • lavendel</p>",
             "link_label": "",
             "link": ""
           }
@@ -130,9 +130,9 @@
         "90e1f299-3339-4ad7-a5f4-968b398e5abf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9919-1.jpg",
+            "image": "shopify://shop_images/DSC_9919-1.jpg",
             "title": "",
-            "text": "<p><strong>seizoenspraline<\/strong><br\/>pure chocolade • pindapraliné<\/p>",
+            "text": "<p><strong>seizoenspraline</strong><br/>pure chocolade • pindapraliné</p>",
             "link_label": "",
             "link": ""
           }
@@ -140,9 +140,9 @@
         "c5b14593-c64e-4692-9e5f-ad18375a329b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9918-1_433c9145-fda2-4604-9343-a07c50285653.jpg",
+            "image": "shopify://shop_images/DSC_9918-1_433c9145-fda2-4604-9343-a07c50285653.jpg",
             "title": "",
-            "text": "<p>melkchocolade • kalamansi • vanille<\/p>",
+            "text": "<p>melkchocolade • kalamansi • vanille</p>",
             "link_label": "",
             "link": ""
           }
@@ -150,9 +150,9 @@
         "593f4938-0088-4080-bdc0-70bf65e1706f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0233-1.jpg",
+            "image": "shopify://shop_images/DSC_0233-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella) • amaretto<\/p>",
+            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella) • amaretto</p>",
             "link_label": "",
             "link": ""
           }
@@ -160,9 +160,9 @@
         "01cf07ba-ba8f-431f-ad8f-160410743551": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0250-1.jpg",
+            "image": "shopify://shop_images/DSC_0382-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • homemade koffiepraliné<br\/><em>(vegan praline)<\/em><\/p>",
+            "text": "<p>melkchocolade • homemade koffiepraliné<br/><em>(vegan praline)</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -170,9 +170,9 @@
         "f00d2000-c748-45bd-8ad1-34e8a0578c01": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9915-1_9a38955d-3a30-410e-993d-edf278eec9d9.jpg",
+            "image": "shopify://shop_images/DSC_9915-1_9a38955d-3a30-410e-993d-edf278eec9d9.jpg",
             "title": "",
-            "text": "<p>melkchocolade • speculaas<\/p>",
+            "text": "<p>melkchocolade • speculaas</p>",
             "link_label": "",
             "link": ""
           }
@@ -180,9 +180,9 @@
         "53c86f8e-2dda-43d7-8f79-9931f02437aa": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0236-1.jpg",
+            "image": "shopify://shop_images/DSC_0236-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • kokos • bosbes • Elixir d'Anvers Elixir de Spa<\/p>",
+            "text": "<p>melkchocolade • kokos • bosbes • Elixir d'Anvers Elixir de Spa</p>",
             "link_label": "",
             "link": ""
           }
@@ -190,9 +190,9 @@
         "e4f3f5ed-87ba-4ea8-a6e0-69cac0944e94": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8508-1_bf11bf12-5d1b-4c63-99dd-4e3d2a5dfc92.jpg",
+            "image": "shopify://shop_images/DSC_8508-1_bf11bf12-5d1b-4c63-99dd-4e3d2a5dfc92.jpg",
             "title": "",
-            "text": "<p>ruby chocolade • framboos<\/p>",
+            "text": "<p>ruby chocolade • framboos</p>",
             "link_label": "",
             "link": ""
           }
@@ -200,9 +200,9 @@
         "a6f09648-b1c1-4353-928d-4db39df5e350": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0248-1.jpg",
+            "image": "shopify://shop_images/DSC_0248-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • citroen vodka • citroengras • Ecuador chocolade<\/p>",
+            "text": "<p>witte chocolade • citroen vodka • citroengras • Ecuador chocolade</p>",
             "link_label": "",
             "link": ""
           }
@@ -210,9 +210,9 @@
         "7a314e63-e7ee-4399-bdfe-55f113ccad15": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0240-1.jpg",
+            "image": "shopify://shop_images/DSC_0240-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • Marula gin • Callebaut 'Evocao™ WholeFruit' chocolade<\/p>",
+            "text": "<p>witte chocolade • Marula gin • Callebaut 'Evocao™ WholeFruit' chocolade</p>",
             "link_label": "",
             "link": ""
           }
@@ -220,9 +220,9 @@
         "d2642e57-19a4-4dee-b87a-cc740638cc0e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0237-1.jpg",
+            "image": "shopify://shop_images/DSC_0237-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • theeganache<\/p>",
+            "text": "<p>witte chocolade • theeganache</p>",
             "link_label": "",
             "link": ""
           }
@@ -230,9 +230,9 @@
         "fba8d975-027d-431f-b18f-765d979cbe7e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9913-1_286fd127-a81b-4702-8656-a9f822ec6b7a.jpg",
+            "image": "shopify://shop_images/DSC_9913-1_286fd127-a81b-4702-8656-a9f822ec6b7a.jpg",
             "title": "",
-            "text": "<p>witte chocolade • hazelnoot praliné • knettersuiker<\/p>",
+            "text": "<p>witte chocolade • hazelnoot praliné • knettersuiker</p>",
             "link_label": "",
             "link": ""
           }
@@ -240,9 +240,9 @@
         "e2ec1907-885b-4f95-ac3e-5e1feed33fa1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_8514-1_9da47c0c-93bf-4106-b148-73b3d82450f5.jpg",
+            "image": "shopify://shop_images/DSC_8514-1_9da47c0c-93bf-4106-b148-73b3d82450f5.jpg",
             "title": "",
-            "text": "<p>witte chocolade • koffieganache<\/p>",
+            "text": "<p>witte chocolade • koffieganache</p>",
             "link_label": "",
             "link": ""
           }
@@ -277,7 +277,7 @@
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "Wil je onze pralines kopen?",
-        "button_link": "shopify:\/\/collections\/pralines",
+        "button_link": "shopify://collections/pralines",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -288,7 +288,7 @@
     "a3de2749-5106-48fb-baea-6527aa8ea2ff": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<a id=\"kogeltruffels\"> <\/a>",
+        "custom_liquid": "<a id=\"kogeltruffels\"> </a>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -308,7 +308,7 @@
         "2adf5214-0dc8-42cb-ab11-a5cafef2b45f": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/products\/kogeltruffels\" title=\"Kogeltruffels\">Onze kokers<\/a> bevatten een mix van onderstaande kogeltruffels.<\/p>"
+            "text": "<p><a href=\"/products/kogeltruffels\" title=\"Kogeltruffels\">Onze kokers</a> bevatten een mix van onderstaande kogeltruffels.</p>"
           }
         }
       },
@@ -331,9 +331,9 @@
         "b9b0d4c2-91d2-4860-a4c4-507d4733a75e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9924-1.jpg",
+            "image": "shopify://shop_images/DSC_9924-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • hazelnoot praliné • zwarte sesam • zout<\/p>",
+            "text": "<p>pure chocolade • hazelnoot praliné • zwarte sesam • zout</p>",
             "link_label": "",
             "link": ""
           }
@@ -341,9 +341,9 @@
         "1ad66caa-7ca7-43c0-8ead-a11088aa8835": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9925-1.jpg",
+            "image": "shopify://shop_images/DSC_9925-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • framboos fondant<\/p>",
+            "text": "<p>pure chocolade • framboos fondant</p>",
             "link_label": "",
             "link": ""
           }
@@ -351,9 +351,9 @@
         "50778c45-a3d6-4b42-ab9f-32b1cbfde2bd": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9923-1.jpg",
+            "image": "shopify://shop_images/DSC_9923-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • crème brûlée<\/p>",
+            "text": "<p>melkchocolade • crème brûlée</p>",
             "link_label": "",
             "link": ""
           }
@@ -361,9 +361,9 @@
         "a505b907-a3b9-4df4-9177-7904ede69161": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9926-1.jpg",
+            "image": "shopify://shop_images/DSC_9926-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • Baileys ganache<\/p>",
+            "text": "<p>melkchocolade • Baileys ganache</p>",
             "link_label": "",
             "link": ""
           }
@@ -371,9 +371,9 @@
         "51f33631-fa3c-4215-8b07-df43df0f9377": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9921-1.jpg",
+            "image": "shopify://shop_images/DSC_9921-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • Héritage praliné<\/p>",
+            "text": "<p>witte chocolade • Héritage praliné</p>",
             "link_label": "",
             "link": ""
           }
@@ -381,9 +381,9 @@
         "d9a2f55a-e6f7-4c26-87d9-9e98fefa436d": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9920-1.jpg",
+            "image": "shopify://shop_images/DSC_9920-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • citroen yuzu karamel<\/p>",
+            "text": "<p>witte chocolade • citroen yuzu karamel</p>",
             "link_label": "",
             "link": ""
           }
@@ -406,7 +406,7 @@
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "Wil je onze kogeltruffels kopen?",
-        "button_link": "shopify:\/\/products\/kogeltruffels",
+        "button_link": "shopify://products/kogeltruffels",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -417,7 +417,7 @@
     "custom_liquid_V77bHM": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<a id=\"paaseitjes\"> <\/a>",
+        "custom_liquid": "<a id=\"paaseitjes\"> </a>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -437,7 +437,7 @@
         "text_8RWEmH": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/products\/paaseitjes-koker\" title=\"Kleine paaseitjes\">Onze kokers<\/a> bevatten een mix van onderstaande kleine paaseitjes.<\/p>"
+            "text": "<p><a href=\"/products/paaseitjes-koker\" title=\"Kleine paaseitjes\">Onze kokers</a> bevatten een mix van onderstaande kleine paaseitjes.</p>"
           }
         }
       },
@@ -460,9 +460,9 @@
         "column_PtR7pN": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0132-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0132-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade<\/p>",
+            "text": "<p>pure chocolade</p>",
             "link_label": "",
             "link": ""
           }
@@ -470,9 +470,9 @@
         "column_UmzJdr": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0133-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0133-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • pistache ganache<\/p>",
+            "text": "<p>pure chocolade • pistache ganache</p>",
             "link_label": "",
             "link": ""
           }
@@ -480,9 +480,9 @@
         "column_hfHBgR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0124-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0124-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • framboos fondant<\/p>",
+            "text": "<p>pure chocolade • framboos fondant</p>",
             "link_label": "",
             "link": ""
           }
@@ -490,9 +490,9 @@
         "column_g6aLrT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0130-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0130-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • vanille fondant<\/p>",
+            "text": "<p>pure chocolade • vanille fondant</p>",
             "link_label": "",
             "link": ""
           }
@@ -500,9 +500,9 @@
         "column_cz4pyG": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0134-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0134-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade<\/p>",
+            "text": "<p>melkchocolade</p>",
             "link_label": "",
             "link": ""
           }
@@ -510,9 +510,9 @@
         "column_iqD6m9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0129-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0129-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • marsepein met rum<\/p>",
+            "text": "<p>melkchocolade • marsepein met rum</p>",
             "link_label": "",
             "link": ""
           }
@@ -520,9 +520,9 @@
         "column_tXKnfi": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0126-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0126-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • crème brûlée<\/p>",
+            "text": "<p>melkchocolade • crème brûlée</p>",
             "link_label": "",
             "link": ""
           }
@@ -530,9 +530,9 @@
         "column_GLaPpP": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0122-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0122-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • speculaas<\/p>",
+            "text": "<p>melkchocolade • speculaas</p>",
             "link_label": "",
             "link": ""
           }
@@ -540,9 +540,9 @@
         "column_NHTk3X": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0135-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0135-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade<\/p>",
+            "text": "<p>witte chocolade</p>",
             "link_label": "",
             "link": ""
           }
@@ -550,9 +550,9 @@
         "column_VHwTDf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0123-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0123-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • yuzu karamel<\/p>",
+            "text": "<p>witte chocolade • yuzu karamel</p>",
             "link_label": "",
             "link": ""
           }
@@ -560,9 +560,9 @@
         "column_6xrNPR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0128-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0128-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • praliné • knettersuiker<\/p>",
+            "text": "<p>witte chocolade • praliné • knettersuiker</p>",
             "link_label": "",
             "link": ""
           }
@@ -570,9 +570,9 @@
         "column_r976xr": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0131-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0131-1.jpg",
             "title": "",
-            "text": "<p>gold chocolade<\/p>",
+            "text": "<p>gold chocolade</p>",
             "link_label": "",
             "link": ""
           }
@@ -580,9 +580,9 @@
         "column_zPGpGH": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0127-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0127-1.jpg",
             "title": "",
-            "text": "<p>gold chocolade • krokante vulling<\/p>",
+            "text": "<p>gold chocolade • krokante vulling</p>",
             "link_label": "",
             "link": ""
           }
@@ -590,9 +590,9 @@
         "column_7AtyB6": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paaseitjes_DSC_0125-1.jpg",
+            "image": "shopify://shop_images/paaseitjes_DSC_0125-1.jpg",
             "title": "",
-            "text": "<p>ruby chocolade<\/p>",
+            "text": "<p>ruby chocolade</p>",
             "link_label": "",
             "link": ""
           }
@@ -623,7 +623,7 @@
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "Wil je onze paaseitjes kopen?",
-        "button_link": "shopify:\/\/products\/paaseitjes-koker",
+        "button_link": "shopify://products/paaseitjes-koker",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,

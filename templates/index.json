@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "c82d6199-334d-4825-a0cb-c6a2c32dfa17": {
@@ -19,7 +19,7 @@
       "type": "image-banner",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/assortimentsplankje-headerfoto.jpg",
+        "image": "shopify://shop_images/assortimentsplankje-headerfoto.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -46,7 +46,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Wij zijn Loïc en Quinten, twee jonge ondernemers met een boon <br\/>voor chocolade. Op deze website tonen we je met trots wat we <br\/>zoal voor je kunnen maken. Laat het smaken!<\/p>"
+            "text": "<p>Wij zijn Loïc en Quinten, twee jonge ondernemers met een boon <br/>voor chocolade. Op deze website tonen we je met trots wat we <br/>zoal voor je kunnen maken. Laat het smaken!</p>"
           }
         }
       },
@@ -69,38 +69,49 @@
         "16320352130e6fa3b0-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/over-ons_icoon_over-ons_icoon.png",
+            "image": "shopify://shop_images/over-ons_icoon_over-ons_icoon.png",
             "title": "",
             "text": "",
             "link_label": "Over ons",
-            "link": "shopify:\/\/pages\/over-ons"
+            "link": "shopify://pages/over-ons"
           }
         },
         "16320352130e6fa3b0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/assortiment_icoon_assortiment_icoon.png",
+            "image": "shopify://shop_images/assortiment_icoon_assortiment_icoon.png",
             "title": "",
             "text": "",
             "link_label": "De pralines",
-            "link": "shopify:\/\/pages\/assortiment"
+            "link": "shopify://pages/assortiment"
           }
         },
         "16320352130e6fa3b0-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shop_icoon.png",
+            "image": "shopify://shop_images/shop_icoon.png",
             "title": "",
             "text": "",
             "link_label": "Webshop",
-            "link": "shopify:\/\/collections"
+            "link": "shopify://collections"
+          }
+        },
+        "column_byLT4x": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/artisan_N_crop.svg",
+            "title": "",
+            "text": "",
+            "link_label": "Erkend ambacht",
+            "link": "http://deambachten.be/"
           }
         }
       },
       "block_order": [
         "16320352130e6fa3b0-0",
         "16320352130e6fa3b0-1",
-        "16320352130e6fa3b0-2"
+        "16320352130e6fa3b0-2",
+        "column_byLT4x"
       ],
       "custom_css": [
         "@media screen and (max-width: 989px) {.multicolumn-card__image-wrapper {max-width: 150px; }}"
@@ -110,7 +121,7 @@
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "circle",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -143,7 +154,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Ik wil zeevruchten kopen!",
-            "button_link_1": "shopify:\/\/products\/zeevruchten",
+            "button_link_1": "shopify://products/zeevruchten",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -157,7 +168,7 @@
         "1632036836510295f8-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/zeevruchten-banner-web-optimized.jpg",
+        "image": "shopify://shop_images/zeevruchten-banner-web-optimized.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -176,9 +187,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0249-1.jpg",
+            "image": "shopify://shop_images/DSC_0249-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • aardbei • munt • vodka • marsepein<\/p>",
+            "text": "<p>pure chocolade • aardbei • munt • vodka • marsepein</p>",
             "link_label": "",
             "link": ""
           }
@@ -186,9 +197,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0233-1.jpg",
+            "image": "shopify://shop_images/DSC_0233-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella) • amaretto<\/p>",
+            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella) • amaretto</p>",
             "link_label": "",
             "link": ""
           }
@@ -196,9 +207,9 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_9918-1_433c9145-fda2-4604-9343-a07c50285653.jpg",
+            "image": "shopify://shop_images/DSC_9918-1_433c9145-fda2-4604-9343-a07c50285653.jpg",
             "title": "",
-            "text": "<p>melkchocolade • kalamansi • vanille<\/p>",
+            "text": "<p>melkchocolade • kalamansi • vanille</p>",
             "link_label": "",
             "link": ""
           }
@@ -221,7 +232,7 @@
         "column_alignment": "center",
         "background_style": "secondary",
         "button_label": "Bekijk al onze pralines",
-        "button_link": "shopify:\/\/pages\/assortiment",
+        "button_link": "shopify://pages/assortiment",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -252,7 +263,7 @@
         "16320368728299bc12-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pralinevorm-banner-web-optimized.jpg",
+        "image": "shopify://shop_images/pralinevorm-banner-web-optimized.jpg",
         "image_overlay_opacity": 20,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -279,7 +290,7 @@
         "16320415760bd04978-1": {
           "type": "text",
           "settings": {
-            "text": "<p>@houseofchocolatebe<\/p>"
+            "text": "<p>@houseofchocolatebe</p>"
           }
         },
         "16320415760bd04978-2": {
@@ -313,12 +324,20 @@
       "type": "apps",
       "blocks": {
         "d01de621-706e-4934-a4c3-fdfb10840233": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "title": "",
             "title_color": "",
+            "title_size_v2": 0,
             "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
             "background_color": "",
+            "feed_id": "",
             "html_area": ""
           }
         }

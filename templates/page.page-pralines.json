@@ -70,9 +70,9 @@
         "1632068860fc8a39eb-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC_0249-1.jpg",
+            "image": "shopify://shop_images/DSC01610-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • aardbei • munt • vodka • marsepein</p>",
+            "text": "<p>pure chocolade • zoethout • yoghurt</p>",
             "link_label": "",
             "link": ""
           }
@@ -90,9 +90,9 @@
         "1632068860fc8a39eb-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC_8496-1_fe3003e7-ca67-41a6-b92d-63e4425cabac.jpg",
+            "image": "shopify://shop_images/DSC01603-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • melkganache • munt</p>",
+            "text": "<p>pure chocolade • appel • marsepein • Elixir d'Anvers</p>",
             "link_label": "",
             "link": ""
           }
@@ -102,7 +102,7 @@
           "settings": {
             "image": "shopify://shop_images/DSC_0229-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • sinaasganache • Elixir d'Anvers Triple Sec</p>",
+            "text": "<p>pure chocolade • sinaas • Elixir d'Anvers Triple Sec</p>",
             "link_label": "",
             "link": ""
           }
@@ -110,9 +110,9 @@
         "d77fd928-cdf6-444e-bd7c-600ec2a0049a": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC_0230-1.jpg",
+            "image": "shopify://shop_images/DSC01602-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • passievrucht • karamel</p>",
+            "text": "<p>pure chocolade • bosaardbei karamel • gember • limoen</p>",
             "link_label": "",
             "link": ""
           }
@@ -150,9 +150,9 @@
         "593f4938-0088-4080-bdc0-70bf65e1706f": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC_0233-1.jpg",
+            "image": "shopify://shop_images/DSC01611-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella) • amaretto</p>",
+            "text": "<p>melkchocolade • peperkoek • cognac F.X. de Beukelaer</p>",
             "link_label": "",
             "link": ""
           }
@@ -180,9 +180,9 @@
         "53c86f8e-2dda-43d7-8f79-9931f02437aa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC_0236-1.jpg",
+            "image": "shopify://shop_images/DSC01609-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • kokos • bosbes • Elixir d'Anvers Elixir de Spa</p>",
+            "text": "<p>melkchocolade • kokos • passievrucht vodka</p>",
             "link_label": "",
             "link": ""
           }
@@ -192,7 +192,7 @@
           "settings": {
             "image": "shopify://shop_images/DSC_8508-1_bf11bf12-5d1b-4c63-99dd-4e3d2a5dfc92.jpg",
             "title": "",
-            "text": "<p>ruby chocolade • framboos</p>",
+            "text": "<p>ruby chocolade • limoen</p>",
             "link_label": "",
             "link": ""
           }
@@ -210,9 +210,9 @@
         "7a314e63-e7ee-4399-bdfe-55f113ccad15": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC_0240-1.jpg",
+            "image": "shopify://shop_images/DSC01612-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • Marula gin • Callebaut 'Evocao™ WholeFruit' chocolade</p>",
+            "text": "<p>witte chocolade • mango • ananas • Malibu • passievrucht • limoen</p>",
             "link_label": "",
             "link": ""
           }
@@ -220,9 +220,9 @@
         "d2642e57-19a4-4dee-b87a-cc740638cc0e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC_0237-1.jpg",
+            "image": "shopify://shop_images/DSC01605-1.jpg",
             "title": "",
-            "text": "<p>witte chocolade • theeganache</p>",
+            "text": "<p>witte chocolade • rabarber • matcha</p>",
             "link_label": "",
             "link": ""
           }
@@ -242,7 +242,7 @@
           "settings": {
             "image": "shopify://shop_images/DSC_8514-1_9da47c0c-93bf-4106-b148-73b3d82450f5.jpg",
             "title": "",
-            "text": "<p>witte chocolade • koffieganache</p>",
+            "text": "<p>witte chocolade • koffie</p>",
             "link_label": "",
             "link": ""
           }

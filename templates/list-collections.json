@@ -50,6 +50,12 @@
         "16618004816477acf1-0": {
           "type": "featured_collection",
           "settings": {
+            "collection": "sinterklaas"
+          }
+        },
+        "featured_collection_qRwyUf": {
+          "type": "featured_collection",
+          "settings": {
             "collection": "pralines"
           }
         },
@@ -86,6 +92,7 @@
       },
       "block_order": [
         "16618004816477acf1-0",
+        "featured_collection_qRwyUf",
         "16618004816477acf1-1",
         "9971c18e-dfaf-47f7-a766-d920ce24650b",
         "849a289c-100a-4ed2-bfe9-bc9f99bca118",

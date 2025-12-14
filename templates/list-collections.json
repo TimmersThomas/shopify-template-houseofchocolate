@@ -47,6 +47,12 @@
     "166180048183ec3cbd": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_McadTd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "eindejaar"
+          }
+        },
         "featured_collection_qRwyUf": {
           "type": "featured_collection",
           "settings": {
@@ -85,6 +91,7 @@
         }
       },
       "block_order": [
+        "featured_collection_McadTd",
         "featured_collection_qRwyUf",
         "16618004816477acf1-1",
         "9971c18e-dfaf-47f7-a766-d920ce24650b",

@@ -65,6 +65,12 @@
             "collection": "repen"
           }
         },
+        "featured_collection_WDhnqf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hazelnootpasta"
+          }
+        },
         "9971c18e-dfaf-47f7-a766-d920ce24650b": {
           "type": "featured_collection",
           "settings": {
@@ -94,6 +100,7 @@
         "featured_collection_cYgPrC",
         "featured_collection_qRwyUf",
         "16618004816477acf1-1",
+        "featured_collection_WDhnqf",
         "9971c18e-dfaf-47f7-a766-d920ce24650b",
         "849a289c-100a-4ed2-bfe9-bc9f99bca118",
         "16c881fc-b88c-4338-bce8-861430b11fe2",

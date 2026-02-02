@@ -1,8 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/Logo_House-of-Chocolate_Shopify.png",
+    "logo": "shopify://shop_images/Logo_House-of-Chocolate_Shopify.png",
     "logo_width": 90,
-    "favicon": "shopify:\/\/shop_images\/Logo_House-of-Chocolate-favicon.png",
+    "favicon": "shopify://shop_images/Logo_House-of-Chocolate-favicon.png",
     "type_header_font": "montserrat_n7",
     "heading_scale": 100,
     "type_body_font": "montserrat_n4",
@@ -97,10 +106,10 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
-    "social_facebook_link": "https:\/\/www.facebook.com\/houseofchocolatebe",
-    "social_instagram_link": "https:\/\/www.instagram.com\/houseofchocolatebe",
+    "social_facebook_link": "https://www.facebook.com/houseofchocolatebe",
+    "social_instagram_link": "https://www.instagram.com/houseofchocolatebe",
     "social_youtube_link": "",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@houseofchocolate_",
+    "social_tiktok_link": "https://www.tiktok.com/@houseofchocolate_",
     "social_twitter_link": "",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
@@ -114,7 +123,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Logo_House-of-Chocolate_Shopify.png",
+    "checkout_logo_image": "shopify://shop_images/Logo_House-of-Chocolate_Shopify.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_accent_color": "#767676",
@@ -133,9 +142,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "color_schemes": {
       "background-1": {
         "settings": {
@@ -161,7 +168,7 @@
       },
       "inverse": {
         "settings": {
-          "background": "#242833",
+          "background": "#662710",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffffff",

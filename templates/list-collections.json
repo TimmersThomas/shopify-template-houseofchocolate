@@ -47,12 +47,6 @@
     "166180048183ec3cbd": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_cYgPrC": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "valentijn"
-          }
-        },
         "featured_collection_qRwyUf": {
           "type": "featured_collection",
           "settings": {
@@ -97,7 +91,6 @@
         }
       },
       "block_order": [
-        "featured_collection_cYgPrC",
         "featured_collection_qRwyUf",
         "16618004816477acf1-1",
         "featured_collection_WDhnqf",

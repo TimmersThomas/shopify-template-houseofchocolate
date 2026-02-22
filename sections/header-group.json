@@ -13,18 +13,6 @@
   "sections": {
     "announcement_bar_DMV4QD": {
       "type": "announcement-bar",
-      "blocks": {
-        "announcement_xbTw7r": {
-          "type": "announcement",
-          "settings": {
-            "text": "Uitzonderlijk gesloten op woensdag 18 februari!",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_xbTw7r"
-      ],
       "name": "t:sections.announcement-bar.presets.name",
       "settings": {
         "color_scheme": "inverse",

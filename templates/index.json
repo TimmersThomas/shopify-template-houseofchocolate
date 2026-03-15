@@ -25,12 +25,8 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-<<<<<<< HEAD
         "color_scheme": "inverse",
         "image_behavior": "none",
-=======
-        "color_scheme": "scheme-3",
->>>>>>> shopify/main
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -54,50 +50,18 @@
           }
         }
       },
-      "block_order": [
-        "heading",
-        "text"
-      ],
+      "block_order": ["heading", "text"],
       "settings": {
-<<<<<<< HEAD
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
-=======
-        "color_scheme": "scheme-1",
->>>>>>> shopify/main
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
     },
-<<<<<<< HEAD
     "16320352130e6fa3b0": {
       "type": "multicolumn",
-=======
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
->>>>>>> shopify/main
       "blocks": {
         "16320352130e6fa3b0-0": {
           "type": "column",
@@ -140,17 +104,9 @@
           }
         }
       },
-      "block_order": [
-        "16320352130e6fa3b0-0",
-        "16320352130e6fa3b0-1",
-        "16320352130e6fa3b0-2",
-        "column_byLT4x"
-      ],
-      "custom_css": [
-        "@media screen and (max-width: 989px) {.multicolumn-card__image-wrapper {max-width: 150px; }}"
-      ],
+      "block_order": ["16320352130e6fa3b0-0", "16320352130e6fa3b0-1", "16320352130e6fa3b0-2", "column_byLT4x"],
+      "custom_css": ["@media screen and (max-width: 989px) {.multicolumn-card__image-wrapper {max-width: 150px; }}"],
       "settings": {
-<<<<<<< HEAD
         "title": "",
         "heading_size": "h1",
         "image_width": "half",
@@ -165,28 +121,6 @@
         "swipe_on_mobile": false,
         "padding_top": 24,
         "padding_bottom": 24
-=======
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "heading_size": "h1",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
->>>>>>> shopify/main
       }
     },
     "1632036836510295f8": {
@@ -218,11 +152,7 @@
           }
         }
       },
-      "block_order": [
-        "1632036836510295f8-1",
-        "1632036836510295f8-0",
-        "1632036836510295f8-2"
-      ],
+      "block_order": ["1632036836510295f8-1", "1632036836510295f8-0", "1632036836510295f8-2"],
       "settings": {
         "image": "shopify://shop_images/zeevruchten-banner-web-optimized.jpg",
         "image_overlay_opacity": 30,
@@ -271,14 +201,8 @@
           }
         }
       },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "custom_css": [
-        "h2 {text-align: center;}"
-      ],
+      "block_order": ["column1", "column2", "column3"],
+      "custom_css": ["h2 {text-align: center;}"],
       "settings": {
         "title": "Een greep uit ons assortiment",
         "heading_size": "h1",
@@ -314,10 +238,7 @@
           }
         }
       },
-      "block_order": [
-        "16320368728299bc12-0",
-        "16320368728299bc12-1"
-      ],
+      "block_order": ["16320368728299bc12-0", "16320368728299bc12-1"],
       "settings": {
         "image": "shopify://shop_images/pralinevorm-banner-web-optimized.jpg",
         "image_overlay_opacity": 20,
@@ -362,11 +283,7 @@
           }
         }
       },
-      "block_order": [
-        "16320415760bd04978-0",
-        "16320415760bd04978-1",
-        "16320415760bd04978-2"
-      ],
+      "block_order": ["16320415760bd04978-0", "16320415760bd04978-1", "16320415760bd04978-2"],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -398,9 +315,7 @@
           }
         }
       },
-      "block_order": [
-        "d01de621-706e-4934-a4c3-fdfb10840233"
-      ],
+      "block_order": ["d01de621-706e-4934-a4c3-fdfb10840233"],
       "settings": {
         "include_margins": true
       }

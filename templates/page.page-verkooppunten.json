@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -48,7 +48,7 @@
           "type": "column",
           "settings": {
             "title": "Online",
-            "text": "<p>Via <a href=\"\/collections\" title=\"Alle collecties\">onze eigen shop<\/a> kan je alle House of Chocolate producten bestellen. Afhalen kan in ons atelier en bij Quinten maar we leveren ook thuis.<br\/><\/p>",
+            "text": "<p>Via <a href=\"/collections\" title=\"Alle collecties\">onze eigen shop</a> kan je alle House of Chocolate producten bestellen. Afhalen kan in ons atelier en bij Quinten maar we leveren ook thuis.<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -57,7 +57,7 @@
           "type": "column",
           "settings": {
             "title": "Ons atelier",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/AEn9HoM4WQRJJCqb7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/AEn9HoM4WQRJJCqb7\">Sint-Gillisstraat 31<\/a><br\/>9170 De Klinge<br\/><\/p>",
+            "text": "<p><a href=\"https://goo.gl/maps/AEn9HoM4WQRJJCqb7\" target=\"_blank\" title=\"https://goo.gl/maps/AEn9HoM4WQRJJCqb7\">Sint-Gillisstraat 31</a><br/>9170 De Klinge<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -66,7 +66,7 @@
           "type": "column",
           "settings": {
             "title": "Afhaalpunt Quinten",
-            "text": "<p>Louis Huybrechtsstraat 31<br\/>2150 Borsbeek<\/p>",
+            "text": "<p>Louis Huybrechtsstraat 31<br/>2150 Borsbeek</p>",
             "link_label": "",
             "link": ""
           }
@@ -82,11 +82,11 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -97,11 +97,20 @@
     "16320766043362771c": {
       "type": "multicolumn",
       "blocks": {
+        "b49cd184-a311-45e2-83fe-5f10ead9658b": {
+          "type": "column",
+          "settings": {
+            "title": "Hotel O Antwerpen Kathedral",
+            "text": "<p><a href=\"https://g.page/hotelokathedral?share\" target=\"_blank\" title=\"https://g.page/hotelokathedral?share\">Handschoenmarkt 3/5</a><br/>2000 Antwerpen<br/><em>Volledig assortiment</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "16320766043362771c-0": {
           "type": "column",
           "settings": {
             "title": "De Zoetie",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/sKwCVyqb3eF6JQFRA\" target=\"_blank\" title=\"De Zoetie\">Krijgsbaan 153<\/a><br\/>9140 Temse<br\/><em>Volledig assortiment<\/em><\/p>",
+            "text": "<p><a href=\"https://goo.gl/maps/sKwCVyqb3eF6JQFRA\" target=\"_blank\" title=\"De Zoetie\">Krijgsbaan 153</a><br/>9140 Temse<br/><em>Volledig assortiment</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -110,7 +119,7 @@
           "type": "column",
           "settings": {
             "title": "Brood en Banket De Wit",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/BDtCYxRUpBhm7fuKA\">Alfons Heulensstraat 5<\/a><br\/>2900 Schoten<br\/><em>Pralines (losse verkoop)<\/em><\/p>",
+            "text": "<p><a href=\"https://goo.gl/maps/BDtCYxRUpBhm7fuKA\" target=\"_blank\" title=\"https://goo.gl/maps/BDtCYxRUpBhm7fuKA\">Alfons Heulensstraat 5</a><br/>2900 Schoten<br/><em>Pralines (losse verkoop)</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -119,37 +128,38 @@
           "type": "column",
           "settings": {
             "title": "Bakkerij De Schutter",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/xYBZoouXhHuBJN3n7\">Kerkplaats 20<\/a><br\/>2160 Wommelgem<br\/><em>Enkel pralines (voorverpakt)<\/em><\/p>",
+            "text": "<p><a href=\"https://goo.gl/maps/xYBZoouXhHuBJN3n7\" target=\"_blank\" title=\"https://goo.gl/maps/xYBZoouXhHuBJN3n7\">Kerkplaats 20</a><br/>2160 Wommelgem<br/><em>Enkel pralines (voorverpakt)</em></p>",
             "link_label": "",
             "link": ""
           }
         },
-        "b49cd184-a311-45e2-83fe-5f10ead9658b": {
+        "column_t8Aigb": {
           "type": "column",
           "settings": {
-            "title": "Hotel O Antwerpen Kathedral",
-            "text": "<p><a href=\"https:\/\/g.page\/hotelokathedral?share\" target=\"_blank\" title=\"https:\/\/g.page\/hotelokathedral?share\">Handschoenmarkt 3\/5<\/a><br\/>2000 Antwerpen<br\/><em>Volledig assortiment<\/em><\/p>",
+            "title": "Vanthillo Catering",
+            "text": "<p><a href=\"https://maps.app.goo.gl/gwBhv1bgwm532mbK9\" target=\"_blank\" title=\"https://maps.app.goo.gl/gwBhv1bgwm532mbK9\">Hendrik Heymanplein 170</a><br/>9100 Sint-Niklaas<br/><em>Doosjes 250 & 500 gram pralines (in automaat)</em></p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
+        "b49cd184-a311-45e2-83fe-5f10ead9658b",
         "16320766043362771c-0",
         "0c2e0c35-e8a1-4e38-a3fe-303de70a8a63",
         "2b2328f3-4175-4dc9-b446-6802a437d506",
-        "b49cd184-a311-45e2-83fe-5f10ead9658b"
+        "column_t8Aigb"
       ],
       "settings": {
         "title": "België",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -164,7 +174,7 @@
           "type": "column",
           "settings": {
             "title": "Van Meijel, De Echte Bakker",
-            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/cZoBH2JVnPj6Pu399\" target=\"_blank\" title=\"Van Meijel, De Echte Bakker\">Gravenstraat 211<\/a><br\/>4567 AE Clinge<br\/><em>Volledig assortiment<\/em><\/p>",
+            "text": "<p><a href=\"https://goo.gl/maps/cZoBH2JVnPj6Pu399\" target=\"_blank\" title=\"Van Meijel, De Echte Bakker\">Gravenstraat 211</a><br/>4567 AE Clinge<br/><em>Volledig assortiment</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -198,11 +208,11 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,

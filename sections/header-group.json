@@ -13,13 +13,25 @@
   "sections": {
     "announcement_bar_DMV4QD": {
       "type": "announcement-bar",
+      "blocks": {
+        "announcement_PaTtkM": {
+          "type": "announcement",
+          "settings": {
+            "text": "Zomersluiting: 1 -> 3 juli / 26 juli -> 2 augustus!",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_PaTtkM"
+      ],
       "name": "t:sections.announcement-bar.presets.name",
       "settings": {
+        "auto_rotate": false,
+        "change_slides_speed": 5,
         "color_scheme": "inverse",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
-        "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
       }
@@ -28,6 +40,7 @@
       "type": "header",
       "settings": {
         "logo_position": "middle-left",
+        "mobile_logo_position": "center",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
@@ -36,7 +49,7 @@
         "menu_color_scheme": "",
         "enable_country_selector": false,
         "enable_language_selector": true,
-        "mobile_logo_position": "center",
+        "enable_customer_avatar": true,
         "margin_bottom": 0,
         "padding_top": 20,
         "padding_bottom": 20

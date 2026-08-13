@@ -11,31 +11,6 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "announcement_bar_DMV4QD": {
-      "type": "announcement-bar",
-      "blocks": {
-        "announcement_PaTtkM": {
-          "type": "announcement",
-          "settings": {
-            "text": "Dinsdag 11 augustus zijn we uitzonderlijk gesloten!",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_PaTtkM"
-      ],
-      "name": "t:sections.announcement-bar.presets.name",
-      "settings": {
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "color_scheme": "inverse",
-        "show_line_separator": true,
-        "show_social": false,
-        "enable_country_selector": false,
-        "enable_language_selector": false
-      }
-    },
     "header": {
       "type": "header",
       "settings": {
@@ -57,7 +32,6 @@
     }
   },
   "order": [
-    "announcement_bar_DMV4QD",
     "header"
   ]
 }

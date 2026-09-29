@@ -11,6 +11,31 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
+    "announcement_bar_jrcmQh": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_x3dW7a": {
+          "type": "announcement",
+          "settings": {
+            "text": "Wij verhuizen naar Kruibeke! Openingsweekend 24 en 25 oktober. Meer info",
+            "link": "https://cdn.shopify.com/s/files/1/0427/1217/0661/files/HoC_verhuisflyer-WEB.pdf?v=1790706585"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_x3dW7a"
+      ],
+      "name": "t:sections.announcement-bar.presets.name",
+      "settings": {
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "color_scheme": "inverse",
+        "show_line_separator": true,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -32,6 +57,7 @@
     }
   },
   "order": [
+    "announcement_bar_jrcmQh",
     "header"
   ]
 }

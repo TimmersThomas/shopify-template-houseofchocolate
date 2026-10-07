@@ -22,13 +22,13 @@
         "image": "shopify://shop_images/assortimentsplankje-headerfoto.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "inverse",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "inverse",
         "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
         "show_text_below": true
       }
     },
@@ -50,7 +50,10 @@
           }
         }
       },
-      "block_order": ["heading", "text"],
+      "block_order": [
+        "heading",
+        "text"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -104,18 +107,25 @@
           }
         }
       },
-      "block_order": ["16320352130e6fa3b0-0", "16320352130e6fa3b0-1", "16320352130e6fa3b0-2", "column_byLT4x"],
-      "custom_css": ["@media screen and (max-width: 989px) {.multicolumn-card__image-wrapper {max-width: 150px; }}"],
+      "block_order": [
+        "16320352130e6fa3b0-0",
+        "16320352130e6fa3b0-1",
+        "16320352130e6fa3b0-2",
+        "column_byLT4x"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 989px) {.multicolumn-card__image-wrapper {max-width: 150px; }}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "circle",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -152,18 +162,22 @@
           }
         }
       },
-      "block_order": ["1632036836510295f8-1", "1632036836510295f8-0", "1632036836510295f8-2"],
+      "block_order": [
+        "1632036836510295f8-1",
+        "1632036836510295f8-0",
+        "1632036836510295f8-2"
+      ],
       "settings": {
         "image": "shopify://shop_images/zeevruchten-banner-web-optimized.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "background-2",
         "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
         "show_text_below": false
       }
     },
@@ -201,18 +215,24 @@
           }
         }
       },
-      "block_order": ["column1", "column2", "column3"],
-      "custom_css": ["h2 {text-align: center;}"],
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link {justify-content: center;}"
+      ],
       "settings": {
         "title": "Een greep uit ons assortiment",
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "square",
+        "button_label": "Bekijk al onze pralines",
+        "button_link": "shopify://pages/assortiment",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "secondary",
-        "button_label": "Bekijk al onze pralines",
-        "button_link": "shopify://pages/assortiment",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -238,18 +258,21 @@
           }
         }
       },
-      "block_order": ["16320368728299bc12-0", "16320368728299bc12-1"],
+      "block_order": [
+        "16320368728299bc12-0",
+        "16320368728299bc12-1"
+      ],
       "settings": {
         "image": "shopify://shop_images/pralinevorm-banner-web-optimized.jpg",
         "image_overlay_opacity": 20,
         "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "background-2",
         "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
         "show_text_below": false
       }
     },
@@ -283,7 +306,11 @@
           }
         }
       },
-      "block_order": ["16320415760bd04978-0", "16320415760bd04978-1", "16320415760bd04978-2"],
+      "block_order": [
+        "16320415760bd04978-0",
+        "16320415760bd04978-1",
+        "16320415760bd04978-2"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -315,7 +342,9 @@
           }
         }
       },
-      "block_order": ["d01de621-706e-4934-a4c3-fdfb10840233"],
+      "block_order": [
+        "d01de621-706e-4934-a4c3-fdfb10840233"
+      ],
       "settings": {
         "include_margins": true
       }

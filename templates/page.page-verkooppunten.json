@@ -44,20 +44,11 @@
     "16320765702f909df3": {
       "type": "multicolumn",
       "blocks": {
-        "16320765702f909df3-0": {
-          "type": "column",
-          "settings": {
-            "title": "Online",
-            "text": "<p>Via <a href=\"/collections\" title=\"Alle collecties\">onze eigen shop</a> kan je alle House of Chocolate producten bestellen. Afhalen kan in ons atelier en bij Quinten maar we leveren ook thuis.<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "16320765702f909df3-1": {
           "type": "column",
           "settings": {
             "title": "Ons atelier",
-            "text": "<p><a href=\"https://goo.gl/maps/AEn9HoM4WQRJJCqb7\" target=\"_blank\" title=\"https://goo.gl/maps/AEn9HoM4WQRJJCqb7\">Sint-Gillisstraat 31</a><br/>9170 De Klinge<br/></p>",
+            "text": "<p><a href=\"https://maps.app.goo.gl/UNUzDq8rUkoGchK26\" target=\"_blank\" title=\"https://maps.app.goo.gl/UNUzDq8rUkoGchK26\">Langestraat 103</a><br/>9150 Kruibeke<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -66,19 +57,28 @@
           "type": "column",
           "settings": {
             "title": "Afhaalpunt Quinten",
-            "text": "<p>Louis Huybrechtsstraat 31<br/>2150 Borsbeek</p>",
+            "text": "<p>Louis Huybrechtsstraat 31<br/>2150 Borsbeek</p><p><em>Ophaling mogelijk na afspraak.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fLhBWA": {
+          "type": "column",
+          "settings": {
+            "title": "Beeld,&nbsp;Klank & Koffie Verheeken",
+            "text": "<p><a href=\"https://maps.app.goo.gl/e8gCVyTNT5L3BTpx9\" target=\"_blank\" title=\"https://maps.app.goo.gl/e8gCVyTNT5L3BTpx9\">Sint-Gillisstraat 22</a><br/>9170 De Klinge</p><p><em>Ophaling mogelijk tijdens hun openingsuren.</em></p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "16320765702f909df3-0",
         "16320765702f909df3-1",
-        "16320765702f909df3-2"
+        "16320765702f909df3-2",
+        "column_fLhBWA"
       ],
       "settings": {
-        "title": "Onze webshop",
+        "title": "Afhaalpunten van deze webshop",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",

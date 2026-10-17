@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -9,21 +18,21 @@
           "type": "text",
           "settings": {
             "heading": "Atelier",
-            "subtext": "<p>Sint-Gillisstraat 31, 9170 De Klinge<\/p><p><strong>di - vrij:<\/strong> 10 tot 12 uur \/ 13 tot 17 uur<br\/><strong>zat:<\/strong> 9 tot 16 uur<\/p><p>Onze <a href=\"https:\/\/houseofchocolate.be\/pages\/verkooppunten\" title=\"De House of chocolate verkooppunten\">andere verkooppunten<\/a>.<\/p>"
+            "subtext": "<p>Langestraat 103, 9150 Kruibeke</p><p><strong>di - vrij:</strong>&nbsp;10 tot 12 uur / 13 tot 17 uur<br/><strong>zat:</strong>&nbsp;9 tot 16 uur</p><p>Onze&nbsp;<a href=\"https://houseofchocolate.be/pages/verkooppunten\" title=\"De House of chocolate verkooppunten\">andere verkooppunten</a>.</p>"
           }
         },
         "footer-2": {
           "type": "text",
           "settings": {
             "heading": "Contactgegevens",
-            "subtext": "<p><strong>E-mail:<\/strong> <a href=\"mailto:info@houseofchocolate.be\">info@houseofchocolate.be<\/a><br\/><strong>Quinten:<\/strong> +32 487 77 67 96<br\/><strong>Loïc:<\/strong> +32 472 80 64 81<\/p><p><strong>Ondernemingsnummer: <\/strong>BE 0771.454.955<\/p>"
+            "subtext": "<p><strong>E-mail:</strong> <a href=\"mailto:info@houseofchocolate.be\">info@houseofchocolate.be</a><br/><strong>Quinten:</strong> +32 487 77 67 96<br/><strong>Loïc:</strong> +32 472 80 64 81</p><p><strong>Ondernemingsnummer: </strong>BE 0771.454.955</p>"
           }
         },
         "bb72198f-b965-40f0-9acb-0209ba7f2046": {
           "type": "text",
           "settings": {
             "heading": "",
-            "subtext": "<p><a href=\"https:\/\/houseofchocolate.be\/policies\/terms-of-service\" title=\"Terms of Service\">Algemene voorwaarden<\/a><br\/><a href=\"https:\/\/houseofchocolate.be\/policies\/shipping-policy\" title=\"Shipping Policy\">Levering<\/a><br\/><a href=\"https:\/\/houseofchocolate.be\/policies\/privacy-policy\" title=\"Privacy Policy\">Privacybeleid<\/a><\/p>"
+            "subtext": "<p><a href=\"https://houseofchocolate.be/policies/terms-of-service\" title=\"Terms of Service\">Algemene voorwaarden</a><br/><a href=\"https://houseofchocolate.be/policies/shipping-policy\" title=\"Shipping Policy\">Levering</a><br/><a href=\"https://houseofchocolate.be/policies/privacy-policy\" title=\"Privacy Policy\">Privacybeleid</a></p>"
           }
         }
       },

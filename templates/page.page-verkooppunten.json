@@ -53,15 +53,6 @@
             "link": ""
           }
         },
-        "16320765702f909df3-2": {
-          "type": "column",
-          "settings": {
-            "title": "Afhaalpunt Quinten",
-            "text": "<p>Louis Huybrechtsstraat 31<br/>2150 Borsbeek</p><p><em>Ophaling mogelijk na afspraak.</em></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_fLhBWA": {
           "type": "column",
           "settings": {
@@ -70,12 +61,21 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "16320765702f909df3-2": {
+          "type": "column",
+          "settings": {
+            "title": "Afhaalpunt Quinten",
+            "text": "<p>Louis Huybrechtsstraat 31<br/>2150 Borsbeek</p><p><em>Ophaling mogelijk na afspraak.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "16320765702f909df3-1",
-        "16320765702f909df3-2",
-        "column_fLhBWA"
+        "column_fLhBWA",
+        "16320765702f909df3-2"
       ],
       "settings": {
         "title": "Afhaalpunten van deze webshop",

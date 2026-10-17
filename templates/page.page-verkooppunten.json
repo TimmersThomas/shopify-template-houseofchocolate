@@ -141,6 +141,15 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_HMNfmJ": {
+          "type": "column",
+          "settings": {
+            "title": "Bakkerij Kris",
+            "text": "<p><a href=\"https://maps.app.goo.gl/VkRF7qJS3stQGkix7\" target=\"_blank\" title=\"https://maps.app.goo.gl/VkRF7qJS3stQGkix7\">Klingedorp 52</a><br/>9170 De Klinge<br/><em>Pralines (losse verkoop) en repen</em></p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -148,7 +157,8 @@
         "16320766043362771c-0",
         "0c2e0c35-e8a1-4e38-a3fe-303de70a8a63",
         "2b2328f3-4175-4dc9-b446-6802a437d506",
-        "column_t8Aigb"
+        "column_t8Aigb",
+        "column_HMNfmJ"
       ],
       "settings": {
         "title": "België",

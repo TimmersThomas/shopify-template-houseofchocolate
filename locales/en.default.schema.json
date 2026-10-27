@@ -404,6 +404,21 @@
         "label": "Color scheme",
         "has_cards_info": "To change the card color scheme, update your theme settings."
       },
+      "heading_type": {
+        "label": "Heading tag",
+        "options__1": {
+          "label": "H1"
+        },
+        "options__2": {
+          "label": "H2"
+        },
+        "options__3": {
+          "label": "H3"
+        },
+        "options__4": {
+          "label": "H4"
+        }
+      },
       "heading_size": {
         "label": "Heading size",
         "options__1": {
@@ -1372,6 +1387,9 @@
           },
           "options__2": {
             "label": "Image second"
+          },
+          "options__3": {
+            "label": "Image only"
           },
           "label": "Placement"
         },

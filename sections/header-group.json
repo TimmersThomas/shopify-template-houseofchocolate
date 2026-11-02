@@ -17,8 +17,8 @@
         "announcement_x3dW7a": {
           "type": "announcement",
           "settings": {
-            "text": "Wij verhuizen naar Kruibeke! Openingsweekend 24 en 25 oktober. Meer info",
-            "link": "https://cdn.shopify.com/s/files/1/0427/1217/0661/files/HoC_verhuisflyer-WEB.pdf?v=1790706585"
+            "text": "Wij zijn verhuisd naar Kruibeke! Welkom in de Langestraat 103.",
+            "link": ""
           }
         }
       },
@@ -49,7 +49,6 @@
         "menu_color_scheme": "",
         "enable_country_selector": false,
         "enable_language_selector": true,
-        "enable_customer_avatar": true,
         "margin_bottom": 0,
         "padding_top": 20,
         "padding_bottom": 20

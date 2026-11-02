@@ -14,7 +14,7 @@
         "template--15124473938085__ca1ba212-87df-494f-8cbb-6649f9c7978d-1666011091e9a0fe5c-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Over ons<\/p>",
+            "heading": "Over ons",
             "heading_size": "h1",
             "heading_type": "h1"
           }
@@ -94,7 +94,7 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Dag chocolade freaks,<\/p>",
+            "heading": "Dag chocolade freaks,",
             "heading_size": "h2",
             "heading_type": "h2"
           }
@@ -125,7 +125,7 @@
         "16320701646dffe107-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Wat we zoal maken?<\/p>",
+            "heading": "Wat we zoal maken?",
             "heading_size": "h2",
             "heading_type": "h2"
           }

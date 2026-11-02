@@ -187,9 +187,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC_0249-1.jpg",
+            "image": "shopify://shop_images/DSC_0382-1.jpg",
             "title": "",
-            "text": "<p>pure chocolade • aardbei • munt • vodka • marsepein</p>",
+            "text": "<p>melkchocolade • walnootpraliné • maanzaad</p>",
             "link_label": "",
             "link": ""
           }
@@ -197,9 +197,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC_0233-1.jpg",
+            "image": "shopify://shop_images/DSC01603-1.jpg",
             "title": "",
-            "text": "<p>melkchocolade • hazelnoot (op basis van Nutella) • amaretto</p>",
+            "text": "<p>pure chocolade • appel • marsepein • Elixir d'Anvers</p>",
             "link_label": "",
             "link": ""
           }

@@ -103,7 +103,7 @@
         "16320600814adb4ea3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Dag chocolade freaks,",
+            "heading": "Dag chocolade fan,",
             "heading_size": "h2",
             "heading_type": "h2"
           }
@@ -111,7 +111,7 @@
         "16320600814adb4ea3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Wij zijn Loïc & Quinten. Twee jonge twintigers die elkaar kennen sinds het eerste middelbaar aan PIVA in Antwerpen. Je raadt ’t misschien al: op die school leerden we véél over chocolade. En ontwikkelden we er een grote passie voor.<br/><br/>We speelden lang met het idee om samen te ondernemen. In 2019 hakten we de knoop door en richtten we House of Chocolate op. Sinds 2021 werken we in ons eigen atelier en amuseren we ons dagelijks met jolige muziek.&nbsp;<br/><br/>Onze missie is om de traditionele chocolaterie net iets anders aan te pakken. We zijn benieuwd naar wat jij van onze creaties vindt!</p>"
+            "text": "<p>Wij zijn Loïc & Quinten. Twee jonge twintigers die elkaar kennen sinds het eerste middelbaar aan PIVA in Antwerpen. Op die school leerden we véél over chocolade en ontwikkelden we er een grote passie voor.  </p><p>We speelden lang met het idee om samen te ondernemen. In 2019 hakten we de knoop door en richtten we House of Chocolate op. Sinds 2021 werken we in ons eigen atelier en amuseren we ons dagelijks met jolige muziek. Na vijf jaar in De Klinge zetten we in 2026 de volgende grote stap. We zijn verhuisd naar een pand in Kruibeke met een volwaardige winkel én een groter atelier, klaar om al jouw dromen in chocolade te verwezenlijken.</p><p>Onze missie is om de traditionele chocolaterie net iets anders aan te pakken. We zijn benieuwd naar wat jij van onze creaties vindt!</p>"
           }
         }
       },
@@ -134,7 +134,7 @@
         "16320701646dffe107-0": {
           "type": "heading",
           "settings": {
-            "heading": "Wat we zoal maken?",
+            "heading": "In de pers",
             "heading_size": "h2",
             "heading_type": "h2"
           }
@@ -142,16 +142,16 @@
         "16320701646dffe107-1": {
           "type": "text",
           "settings": {
-            "text": ""
+            "text": "<p>In deze sectie kan je al onze passages in de (digitale) media terug vinden.</p>"
           }
         },
         "16320701646dffe107-2": {
           "type": "button",
           "settings": {
-            "button_label": "Bekijk het hier",
-            "button_link": "shopify://collections",
+            "button_label": "HLN artikel - 23/10/26",
+            "button_link": "",
             "button_style_secondary": false,
-            "button_label_2": "",
+            "button_label_2": "StuBru (Week van de Smaak) - 30/10/26",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
